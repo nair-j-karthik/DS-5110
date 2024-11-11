@@ -92,6 +92,17 @@ DS-5110/
 - ⬜ ETL pipeline development
 - ⬜ Dashboard implementation
 
+## Entity Relationship Diagram
+
+![Database Schema](docs/er_diagram.png)
+
+The above diagram shows the relationships between our main data entities:
+- Sales transactions
+- Customer demographics 
+- Weather data
+- Google Trends metrics
+
+
 ## Contributing
 
 1. Fork the repository
