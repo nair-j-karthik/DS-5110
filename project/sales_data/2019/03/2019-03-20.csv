@@ -1,0 +1,116 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+65001,108.49462919153724,Digital_Ebook_Purchase,From A Widow's Heart -- New Traditions,2791,2019-03-20,32536
+65002,674.7070431908526,Apparel,Hanes Girls' Hipster Panty (9-Pack),1997,2019-03-20,3716
+65003,658.4421486650434,Musical Instruments,"Rico Select Jazz Soprano Sax Reeds, Filed, Strength 3 Soft, 10-pack",1821,2019-03-20,49513
+65004,991.1730026108091,Digital_Video_Games,Hoyle Solitaire & More,2302,2019-03-20,37652
+65005,735.3590378531678,Books,Christ versus Religion,2018,2019-03-20,12566
+65006,621.581698824695,Digital_Software,H&R Block At Home 2013 Deluxe,3597,2019-03-20,877
+65007,767.9801774566025,Beauty,"CoverGirl Eye Enhancers 1 Kit Shadow, Knock Out Pink 460, 0.09 Ounce Pan",3025,2019-03-20,3721
+65008,612.6234062054513,Office Products,"Insten Cable Wire Cord Clips Organizer for Computer Desktop Laptop Mouse TV Mobile, [6-pieces]",2050,2019-03-20,9755
+65009,747.5247523395931,Musical Instruments,Mapex B200-RB Boom Cymbal Stand,2619,2019-03-20,20015
+65010,538.3939075478332,PC,"Dell Adapter, USB Type C to HDMI/VGA/Ethernet/USB (470-ABQN)",1603,2019-03-20,18343
+65011,623.8881634062395,Digital_Video_Games,Mahjohng Christmas [Download],2415,2019-03-20,23751
+65012,443.12101998668504,Apparel,"Fruit of the Loom Big Girls'    Label Free Brief , Colors may vary(Pack of 12)",3174,2019-03-20,30481
+65013,187.65983036922313,Digital_Ebook_Purchase,DC Comics Digital Sneak Peeks 11-28-2012,2159,2019-03-20,41609
+65014,809.1006962081573,Digital_Software,Professor Teaches Windows 8.1 [Download],1844,2019-03-20,25315
+65015,659.0764729297621,Furniture,Furinno 11193 Go Green Home Laptop Notebook Computer Desk/Table,3338,2019-03-20,24806
+65016,436.0731234276765,Major Appliances,Mini Portable Countertop Spin Dryer,2733,2019-03-20,36470
+65017,103.54730741480867,Automotive,Chevy Z71 4x4 Inferno Pink Truck & SUV Decals,2329,2019-03-20,26450
+65018,449.3046614592374,Electronics,"AUKEY Bluetooth Receiver, Audio Receiver Car Kit with Hands Free Calling for Home & Car Audio System",2369,2019-03-20,15486
+65019,279.14918625791836,Digital_Software,Wondershare Video Converter for Mac [Download],2966,2019-03-20,36964
+65020,571.8508469475202,Electronics,NoBreak Heavy Duty Ear Hooks/6 Heavy Duty Gels/6 Foam Buds and 1 Raspberry Ear Hook for Samsung Hm1900 Hm 1300 Hm6000 - 25 Pieces,2218,2019-03-20,4212
+65021,247.44596858783012,Furniture,Bar Unit with Acrylic Front,2499,2019-03-20,23568
+65022,468.7687096915613,Musical Instruments,"Rubin RS-101 Zebrawood 21"" Soprano Electric Acoustic Ukulele",3217,2019-03-20,4737
+65023,453.0493694490554,Digital_Ebook_Purchase,Amityville: House of Lies,1150,2019-03-20,13738
+65024,199.09585735687733,Books,Forever Craps,1218,2019-03-20,37681
+65025,679.9712335419761,PC,EVGA GeForce DVI/HDMI/VGA Low Profile Graphics Card,2353,2019-03-20,5568
+65026,369.06767268291975,Major Appliances,U-beauty 15 Hold Animal Love Flexible Silicone Bakeware Mold Mould Tray for Cake/ Chocolate/ Candy/ Jelly/ Ice/ Cookie,3307,2019-03-20,47293
+65027,699.0300421259382,Major Appliances,"Frigidaire FPES3085K 30"" Slide-In Electric Range with PowerPlus Preheat and PowerPlus Boil,",2228,2019-03-20,49764
+65028,798.9538202560267,Automotive,Keyless Entry Remote Fob Clicker for 2000 2001 2002 2003 2004 2005 2006 Toyota Camry,3532,2019-03-20,1650
+65029,719.2825496636545,PC,"Microsoft Xbox 360 Chatpad ""Genuine Original""",1762,2019-03-20,4650
+65030,664.340149460411,PC,Memory Card Carrying Case - Suitable for SDHC and SD Cards - 8 Pages and 22 Slots - ECO-FUSED Microfiber Cleaning Cloth Included,1865,2019-03-20,5245
+65031,992.822267726455,Grocery,Ancient Harvest Quinoa Flakes Organic Gluten Free 12 Oz (Pack of 3),1467,2019-03-20,17113
+65032,429.95165443214455,Music,Unleashed in the East,1328,2019-03-20,28820
+65033,99.52687478477272,Furniture,Home Dynamix Royalty Collection Area Rugs,1863,2019-03-20,13753
+65034,185.83061799754896,Mobile_Electronics,Cerwin Vega CV-900 HP Pro Power 900 watt Amplifier,2333,2019-03-20,37336
+65035,27.150401556835536,Digital_Ebook_Purchase,Pharma Sutra: Healing The Body And Mind Through The Art Of Yoga,3011,2019-03-20,43885
+65036,548.0370154168577,Music,Big Ones,3320,2019-03-20,43671
+65037,378.69540070941423,Office Products,Staedtler Tub Pencil Sharpeners double-hole sharpener 2 Pack,3571,2019-03-20,6001
+65038,808.7185116061852,Electronics,MONSTER MC CLNKIT HM-GO ScreenClean Dual Pack,1683,2019-03-20,28809
+65039,831.71131932254,Books,"The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future",1893,2019-03-20,34753
+65040,998.7903401331471,Digital_Music_Purchase,Hallelujah (Made Famous by Justin Timberlake & Matt Morris),1681,2019-03-20,36954
+65041,419.81715885194586,Baby,Sugarbooger Silverware Set,2656,2019-03-20,47490
+65042,702.4094180875773,Office Products,CoffeeDuck Refillable Coffee Capsules For Nespresso - 3 Pods - These Espresso Cups fit all Nespresso machines from after October 2010,3158,2019-03-20,20399
+65043,151.5794823739606,Office Products,32GB Strontium NITRO 466X Microsdhc UHS-1 memory Card with Idrive Card Reader,2892,2019-03-20,23158
+65044,533.1324313799913,Digital_Video_Download,Creature from the Black Lagoon,2505,2019-03-20,37385
+65045,542.7869104069084,Electronics,Pyle Home Weather Proof 2-Way In-Ceiling / In-Wall Stereo Speakers,2659,2019-03-20,34698
+65046,675.4736681576118,Furniture,5 Shelf Bookcase Alder Wood Finish,3186,2019-03-20,29935
+65047,536.5085904805724,Beauty,Mavala Eye-Lite Double Lash,2928,2019-03-20,25530
+65048,957.8581266556951,Baby,Britax B-Agile Stroller Rain Cover (Prior Model),2600,2019-03-20,30856
+65049,203.74211664546831,Office Products,Epson Replacement Lamp for the Epson PowerLite S5 and 77C (V13H010L41),1448,2019-03-20,14762
+65050,613.5451818814562,Musical Instruments,"Cannon DK-201B Drum Key Necklace Christ Cross, Black Nickel",1921,2019-03-20,47367
+65051,925.8893893370607,Apparel,Dockers Men's Classic Fit Signature Khaki Pants D3,2796,2019-03-20,44593
+65052,764.840061560641,Grocery,"Green Mountain Coffee Autumn Harvest Blend for Keurig Brewers, 24-Count K-Cups",3211,2019-03-20,1870
+65053,714.5325108528513,PC,COOLEAD-ipod USB Cable Cord,2817,2019-03-20,18379
+65054,417.1481350484171,Furniture,Luxbon Approx. 40*60cm Fiber Wholesales Color Purple Soft/Smooth/Flexible Carpet/Mat/Rug Floor/ Bedroom/Living Room/Bathroom/Kitchen/Area/Home Decoration,3488,2019-03-20,13887
+65055,36.3464133403944,Digital_Ebook_Purchase,Medicine Men:  Extreme Appalachian Doctoring,1119,2019-03-20,26198
+65056,56.650129473661224,Baby,"Graco Comfy Cove Swing, Ariel",1272,2019-03-20,7104
+65057,285.52274262008905,Digital_Video_Games,Bioshock Dual Pack [Online Game Code],2815,2019-03-20,27946
+65058,35.830505161931995,Baby,"Arm & Hammer Nursery Surface Wipes, 50-Count (Discontinued by Manufacturer)",2534,2019-03-20,37782
+65059,291.62286078682195,Musical Instruments,"Hamilton Folding Stand, Black, 2 section, with Bag",2922,2019-03-20,24279
+65060,695.4549721188833,Outdoors,Outdoor Products Sea-Tac Rolling Backpack,1746,2019-03-20,7480
+65061,880.2517248562,Mobile_Electronics,"Mivizu Nike,iPod Shoe Lace sensor Pouch for Nike , iPod Sport Kit-Red",3564,2019-03-20,41649
+65062,768.8931624588531,Health & Personal Care,Amazing Herbs Cold-Pressed Black Seed Oil Softgels - 90 Capsules,1554,2019-03-20,44318
+65063,96.30769356157593,Outdoors,Park Tool Head-Gear Lockring Wrench HCW17,2105,2019-03-20,15089
+65064,50.63273726951613,Books,The Last Continent,2096,2019-03-20,18517
+65065,340.00430773954196,Musical Instruments,A. Breton  Brazilwood Student Violin Bow,2224,2019-03-20,11451
+65066,128.72790578264485,Digital_Music_Purchase,Gabriel Bello,1812,2019-03-20,27441
+65067,571.1770349594913,Furniture,Legacy Decor 4 Panel Natural Room Divider Shoji Screen,3276,2019-03-20,20066
+65068,689.7221593668032,Health & Personal Care,Merthiolate Colorless 3 Pack Sanvall - Mertiolate Sin Color - Clear,2525,2019-03-20,29245
+65069,68.65867961567088,Major Appliances,KitchenAid KBFS25EWMS Architect Series II 24.8 cu. ft. French Door Refrigerator - Stainless Steel,1815,2019-03-20,860
+65070,603.5592008641958,Major Appliances,Panda Portable Compact Cloths Dryer Apartment Size 110v Stainless Steel Drum,1111,2019-03-20,12978
+65071,243.98757721770605,Digital_Video_Games,Batman Arkham Action Pack [Download],2899,2019-03-20,42894
+65072,537.0976311128011,Major Appliances,"Speed Queen AWN432S Top Load Washer With 3.3 cu. ft. Stainless Steel Wash Tub, Automatic Balancing System in White",1504,2019-03-20,42387
+65073,808.0296831548378,Camera,58mm Filter Adapter for CANON PowerShot,1987,2019-03-20,39428
+65074,824.9374213662782,Outdoors,Ventura 5.2 LED Taillight,1430,2019-03-20,15559
+65075,307.99639027127716,Health & Personal Care,Garcinia Cambogia Pure Extract 1600mg With 60% HCA Extract For Maximum Weight Loss,3419,2019-03-20,14947
+65076,342.78169394807003,Health & Personal Care,The Invisibles 8 pcs Cosmetology Hair Coloring Tint & Brush Kit by Cydraend,2865,2019-03-20,8130
+65077,652.2783523963773,Digital_Video_Download,Misogynist,2329,2019-03-20,45543
+65078,428.5523930477563,Music,Good Dog Bad Dog,2813,2019-03-20,41830
+65079,254.09072422807287,Outdoors,Delta Cycle Bike Hitch Locking Fork Mount,2394,2019-03-20,22256
+65080,357.68876306624014,Beauty,Ezflow - A Polymer Acrylic Powder 4oz/113g - Pick Any Color,2934,2019-03-20,36476
+65081,133.38430122856744,Outdoors,Lezyne CNC Floor Drive Pump,2185,2019-03-20,12707
+65082,290.6742570213954,Health & Personal Care,"Garden of Life Vegetarian Digestive Supplement for Women - Raw Enzymes Women for Digestion, Bloating, Gas, and IBS, 90 Capsules…",2826,2019-03-20,224
+65083,96.94268140655923,Beauty,Royal Wood Stick Cotton Swabs 1 Box - 300 Count,2853,2019-03-20,19227
+65084,435.5151476475148,Baby,"HALO SleepSack 100% Cotton Applique Wearable Blanket, Lime Green, Small",1163,2019-03-20,41324
+65085,893.3466271157528,Health & Personal Care,DMV Ultra Hard Contact Lens Remover - Orange (Pack of 6),2335,2019-03-20,39913
+65086,874.1946358407936,Digital_Video_Games,Have Faith Bundle [Download],2719,2019-03-20,30664
+65087,472.8141215786187,Baby,"Baby Doll Little Angel Bassinet Set Ribbon, Blue",3085,2019-03-20,33639
+65088,21.411588568937884,Electronics,Beats Studio Wireless Over-Ear Headphone,2775,2019-03-20,36497
+65089,700.2570001809524,Digital_Software,Bitdefender Antivirus Plus 2013 (3PC/1YR) [Download],2578,2019-03-20,46521
+65090,984.1513374411488,Digital_Music_Purchase,Up All Night,2505,2019-03-20,18156
+65091,523.7701262943614,Digital_Music_Purchase,Love CPR,2197,2019-03-20,386
+65092,350.3542471259974,Electronics,Monoprice Multimedia Desktop Stand,2322,2019-03-20,37443
+65093,629.1304564607796,Apparel,Sequin Glove,3590,2019-03-20,39513
+65094,139.76207121718065,Digital_Music_Purchase,In God's Hands (Single Version) [feat. Keith Urban],2950,2019-03-20,3974
+65095,724.7655060058804,Apparel,U.S. Polo Assn. Junior's Puffer Jacket with Hood,1120,2019-03-20,25392
+65096,979.3107483067553,Digital_Software,Microsoft Office Professional 2013 (1PC/1User),2229,2019-03-20,383
+65097,625.9626316928709,Camera,"Professor Kobre's Lightscoop, Warm Version Bounce Flash Device, Universal model, fits over the Pop-up Flash of most SLR Cameras",2840,2019-03-20,26680
+65098,458.0328729962867,Mobile_Apps,Simply Yoga Free,1660,2019-03-20,11883
+65099,116.94283250817419,Digital_Music_Purchase,Best of Bellydance,2260,2019-03-20,858
+65100,398.4156579556058,Baby,Evenflo FeatherLite 400 + Embrace35 TS - Aloe Green,1908,2019-03-20,31760
+65101,860.4732041521048,Beauty,Clinique Happy .14 oz Perfume Spray Miniature,1133,2019-03-20,614
+65102,514.7648521667898,Camera,"BIRUGEAR Pink Eva Zipper Pouch Case + Memory Card Reader + Screen Protector for Sony W830 TX30 WX300 WX150 TX20 W690 WX70 W650 W620 W610 WX50 T110 TX100V TX10 HX7V W510 W570 W560; Panasonic DMC-XS1, SZ9, SZ3, FH10, F5, ZS25, TS25, SZ1 SZ7 ZS20 ZS19 S2 Digital Cameras",1452,2019-03-20,9417
+65103,889.140992738024,Apparel,THOMAS THE TRAIN TANK ENGINE TRAIN ENGINEER Conductor HAT Play costume cap ADJUSTABLE,2547,2019-03-20,4201
+65104,354.22193350404797,Mobile_Electronics,Pioneer Cdsr100 Steering Wheel Remote Control,1762,2019-03-20,22310
+65105,650.5373340836402,Automotive,CURT 56002 Custom Wiring Harness,3062,2019-03-20,37318
+65106,225.44695348780894,Books,You Know Your Child Is Gifted When...: A Beginner's Guide to Life on the Bright Side,2945,2019-03-20,2991
+65107,925.6847841421909,Digital_Video_Download,The Parent Trap (1998),2254,2019-03-20,48161
+65108,380.1324211220001,Office Products,"BISSELL Stomp 'n Go with Febreze Freshness Stain Lifting Pads, 12C6",1653,2019-03-20,32838
+65109,817.0389322471251,Books,Bloodline,1282,2019-03-20,1594
+65110,319.33517009370814,Digital_Music_Purchase,Never Forget,1838,2019-03-20,21460
+65111,742.9008124544008,Mobile_Electronics,Eclipse Avn52d DVD GPS Mp3 Cd Navigation in Dash,3273,2019-03-20,12506
+65112,453.4146030491901,Office Products,Ace Clipper Staples,1018,2019-03-20,27100
+65113,659.3343822391348,Camera,"NIX Pro Series 12"" Digital Frame with Motion Detection Sensor",1947,2019-03-20,42245
+65114,381.42268707478934,Digital_Music_Purchase,Promise,1211,2019-03-20,13876
+65115,81.81923559630955,Camera,Car Dash Cam - Police Style Dashboard Color Video Camera & DVR Accident Recorder - Record Vehicle Windshield View,1101,2019-03-20,9915

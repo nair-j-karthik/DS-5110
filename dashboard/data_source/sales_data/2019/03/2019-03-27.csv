@@ -1,0 +1,179 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+65989,915.6833436912632,Grocery,neat Meat Substitutes,3025,2019-03-27,13448
+65990,497.0788289770277,Mobile_Apps,Toca Lab: Elements,2141,2019-03-27,49208
+65991,656.364946704649,Baby,Bright Starts Grab,3243,2019-03-27,3765
+65992,356.28845513849933,Digital_Music_Purchase,Lay It Down - The Remixes [Explicit],1246,2019-03-27,5414
+65993,788.9251252635393,Books,Dreamweaver UltraDev 4: The Complete Reference,3581,2019-03-27,15478
+65994,753.4281515022788,Baby,NUK Mash and Serve Bowl,2951,2019-03-27,12925
+65995,511.2224539068778,Camera,Uniden UDW10003 Wireless Video Surveillance Portable Security System (Discontinued by Manufacturer),1699,2019-03-27,25205
+65996,90.32480762957309,Apparel,PLAYGIRL LABEL Strong Steel Boned Waist Reducing Trainer Underbust Shaper Corset,1028,2019-03-27,27073
+65997,263.0943127007654,Outdoors,"Timbuk2 Freestyle Laptop Messenger Bag,Black/Black/Black,XS",2632,2019-03-27,46012
+65998,838.8266867199154,Grocery,"Trident Sugar Free Gum (Tropical Twist, 18-Piece, 12-Pack)",2991,2019-03-27,32519
+65999,643.6944016558476,Digital_Ebook_Purchase,The Hit (Will Robie),2010,2019-03-27,42174
+66000,664.9231658918553,Digital_Video_Download,Tyler Perry Presents Peeples,1112,2019-03-27,28101
+66001,213.34772308965722,Major Appliances,Fisher Paykel GWL15 EcoSmart Washer,1825,2019-03-27,21363
+66002,497.20440226481156,Camera,Foscam Pan And Tilt Wireless IP Camera with 9bdi antennas Black 3 pack - FI8918W,1324,2019-03-27,19714
+66003,46.2497810717464,Digital_Music_Purchase,You Don't Know Me (feat. McKenna Medley),1005,2019-03-27,19006
+66004,896.0455109996061,Health & Personal Care,"Stur - Variety Pack (Pack of 5), All-Natural, Sugar-Free, Calorie-Free, High antioxidant Vitamin C, Makes 100 Drinks",2814,2019-03-27,35694
+66005,899.7451924330684,Major Appliances,GE WHRE5550KWW 27 4.1 cu. ft. Top-Load Washer - White,3452,2019-03-27,47235
+66006,821.7570385814721,Digital_Ebook_Purchase,The Kommandant's Mistress,1750,2019-03-27,29487
+66007,921.7905771570801,Automotive,"Jessica Galbreth ""Moon Dreaming"" Universal-Fit Plasticlear Front Floor Mats - Set of 2",1016,2019-03-27,40243
+66008,252.13622617838794,Digital_Video_Games,Guild Wars 2 Heroic Edition [Download],1597,2019-03-27,33597
+66009,436.7072750060997,Outdoors,"Light My Fire Original Swedish FireSteel Scout 3,000 Strike Fire Starter",1119,2019-03-27,34362
+66010,274.56705369735874,Office Products,Uni-Ball Ink Pens 42,2346,2019-03-27,5479
+66011,857.5995726431355,Camera,NEEWER Lens Cap Keeper Holder for Canon Nikon Sony Pentax Fuji and all other SLR DSLR Cameras and Video Cameras,1783,2019-03-27,49703
+66012,824.0868210806453,Camera,Canon XH-A1S 3CCD HDV High Definition Professional Camcorder with 20x HD Video Zoom Lens III (Discontinued by Manufacturer),2143,2019-03-27,29409
+66013,919.398686803539,PC,Fire HD 6,2236,2019-03-27,1381
+66014,495.5194065937147,Digital_Ebook_Purchase,Crooked Man: A Hard-Boiled but Humorous New Orleans Mystery (Tubby Dubonnet Series #1) (The Tubby Dubonnet Series),3061,2019-03-27,3919
+66015,433.4411543678882,Books,Timeslide,2079,2019-03-27,15492
+66016,475.5107368697218,Digital_Video_Download,Overcome,2007,2019-03-27,34095
+66017,692.6945348160037,Digital_Video_Games,Dragon Age Inquisition,1699,2019-03-27,10278
+66018,804.3494407431991,Apparel,"Propper Cwu 27/P Nomex Flight Suit,Black,42 Long",1257,2019-03-27,4758
+66019,854.3534583170529,Furniture,Linon Tray Table Set - Brown Faux Marble - Set of 4,1063,2019-03-27,18721
+66020,298.5949814486481,Apparel,"Official Atlas Shrugged ""Who is John Galt?"" Cap",1522,2019-03-27,46193
+66021,620.0265214245087,PC,Cable Matters (3 Pack) Hi-Speed USB 2.0 Type A to B Printer Scanner Cable,2379,2019-03-27,24447
+66022,872.8714235665404,Mobile_Apps,"Notepad+ Free - Notebook for Handwriting, Note Taking, Sketches, Memos, Notes and To-do Lists",1407,2019-03-27,39455
+66023,746.5932973925777,Books,Likely to Die (Alexandra Cooper Mysteries),3445,2019-03-27,15592
+66024,244.77113434650997,Music,Static Age,3436,2019-03-27,4699
+66025,161.43816136794337,Digital_Ebook_Purchase,Pride and Prejudice,2725,2019-03-27,21428
+66026,402.708897079149,Baby,BABYBJORN Baby Carrier Original,1080,2019-03-27,21159
+66027,594.4006322703417,Beauty,Vegan Lip Balm by AAA Shea Butter,2061,2019-03-27,43107
+66028,474.9987991180997,Outdoors,Extreme Max 3005.0078 Rogue River Paddle,2580,2019-03-27,11634
+66029,723.590945840511,Furniture,Modern Problems Poster Movie 11x17 Chevy Chase Patti D'Arbanville Mary Kay Place Brian Doyle-Murray,1206,2019-03-27,22634
+66030,115.09874047206876,Automotive,Orange Electronic P409S Retrofit Tire Pressure Monitoring System,1782,2019-03-27,17831
+66031,245.39921446654625,Outdoors,Brooks Saddles Barbican Messenger Bag,1143,2019-03-27,43338
+66032,736.9834289782577,Apparel,Zoo York Men's Mercury Remix Woven,2236,2019-03-27,10158
+66033,820.5884930322807,Health & Personal Care,Braun IRT6500US ThermoScan Ear Thermometer with ExacTemp Technology,1250,2019-03-27,6781
+66034,864.1960614901927,Furniture,"Richards Homewares Gearbox Bedside Caddy, Kahki/Black,12.5"" W x 5"" D x 10"" H",3173,2019-03-27,38222
+66035,779.4529542254124,Digital_Software,"Bitdefender Antivirus Plus 2015 - 1 PC, 1 year [Download]",2354,2019-03-27,5450
+66036,871.9849526408659,Automotive,3M 39014 Lens Renewal Kit,2254,2019-03-27,41733
+66037,807.0350297049913,Electronics,Jynxbox M1V2 Media Center,1250,2019-03-27,31914
+66038,936.7007126758466,Office Products,Casio FX-9750GAPLUS Graphing Calculator,2233,2019-03-27,23034
+66039,478.7172199605854,Outdoors,WTB Speed V Comp Saddle,3079,2019-03-27,31294
+66040,522.0345541315421,Mobile_Apps,CBS,2660,2019-03-27,23035
+66041,264.9783216788627,Mobile_Apps,"Real Guitar Free: Chords, Tabs & Simulator Games",1466,2019-03-27,38758
+66042,479.78623338270955,Gift Card,Amazon Gift Card - Print - Bar Mitzvah,1533,2019-03-27,19070
+66043,840.1542649039515,PC,"[10.80V, 4400mAh, Li-ion], Replacement Laptop Battery for Toshiba Satellite L655D Series,L655D, L655D-12K, L655D-12L, L655D-12P, L655D-12U, L655D-133, L655D-13L, L655D-13M, L655D-13Q, L655D-144, L655D-14H, L655D-S5050, L655D-S5055, L655D-S5066, L655D-S5066BN, L655D-S5066RD, L655D-S5066WH, L655D-S5067, L655D-S5076, L655D-S5076BN, L655D-S5076RD, L655D-S5076WH, L655D-S5093, L655D-S5094, L655D-S5102WH",1142,2019-03-27,38593
+66044,249.1604706862696,PC,Cable Matters Mini DisplayPort (Thunderbolt&trade; 2 Port Compatible) to HDMI Male to Female Adapter in Black,1898,2019-03-27,36741
+66045,474.87030916492046,Grocery,"Coffee Variety Sampler Pack for Keurig K-Cup Brewers,  40 Count (selection may vary)",2468,2019-03-27,22297
+66046,758.150587252051,Baby,American Baby Company 100% Organic Cotton Terry Hooded Towel Set,2306,2019-03-27,16823
+66047,197.80374222447392,Apparel,Pendleton Women's Creme De Cashmere Turtleneck Sweater,2199,2019-03-27,1572
+66048,672.6879349749823,Apparel,Adult Achievement Unlocked Left The House Funny Gamers T-Shirt,3508,2019-03-27,22086
+66049,169.97613064574648,Digital_Music_Purchase,Greatest Military Marches - The Very Best of John Philip Sousa,2287,2019-03-27,42053
+66050,512.0840750864462,Digital_Ebook_Purchase,Infinity (The Immortals Book 2),3453,2019-03-27,105
+66051,342.17513892885347,Office Products,"Wave Fabric Wristlet Chevron Lanyard Key Chain for Key fob, Key, ID Badge Holder , USB, Purse",2676,2019-03-27,4850
+66052,995.072554673519,Electronics,La Crosse Technology BC1000 Alpha Power Battery Charger,2345,2019-03-27,11661
+66053,692.914023030496,Major Appliances,Nutone / Broan Blower Wheel Part # 99110735,3597,2019-03-27,1073
+66054,738.0493096686895,Automotive,"The Brite Box with Fog Light Control Model SF8.FLC.5B - Headlight enhancer - Keeps factory fog lights AND low beams ON with high beams. MAKES NIGHT DRIVING SAFER - your lights become high performance lights! Vehicle bulb data: Headlights - 9008, Foglights: 9145.",2716,2019-03-27,25199
+66055,966.8517062336832,Apparel,Sons of Anarchy Navy Samcro Shirt,2582,2019-03-27,2918
+66056,128.93685597214534,Major Appliances,GE Black Full Console 24-Inch Portable Dishwasher,3285,2019-03-27,21420
+66057,999.8839247497388,Digital_Video_Download,Yoga for Spinal Problems,1239,2019-03-27,47419
+66058,457.09429866598975,Automotive,"PIAA 10904 H4 Intense White - H4 60/55W=135/125W Xtra Intense White Bulb, Twin Pack",3125,2019-03-27,34267
+66059,89.28225050548981,Digital_Video_Games,World of Goo [Download],1798,2019-03-27,45814
+66060,769.0629326886219,Mobile_Electronics,PureGear Car Charger For Apple iPhone 5 and iPad 4 Retina with MiBox Adapter,3460,2019-03-27,33918
+66061,431.13763030313976,Mobile_Apps,Ultimate Hangman HD,3023,2019-03-27,3498
+66062,232.62372312467895,Furniture,Frenchi Home Furnishing Swivel wooden Coat Rack Stand,1147,2019-03-27,9202
+66063,901.5890489056061,Digital_Video_Games,Ace Patrol Pack [Online Game Code],1362,2019-03-27,2157
+66064,258.81174951511446,Electronics,"Cable Matters 5-Pack, Gold Plated Right Angle F-Type Coaxial RG6 Adapter",3401,2019-03-27,20471
+66065,549.9358925524331,Office Products,"2-Way RF FOFA® Find One Find All® Key Finder and Flat Wallet, Cell Phone Locator",1973,2019-03-27,41347
+66066,256.98318799897993,Musical Instruments,Professional Advanced Broadcast Microphone and accessories Kit for Canon EOS DSLR 5D Mark II III 6D 7D 7D II 77D 80D 70D 60D T6s T7i T6i T5i T4i T3i SL1 Cameras,2183,2019-03-27,45962
+66067,678.8741556616591,Major Appliances,Frigidaire Laundry Bundle | Frigidaire FAHE4044MW Top-Load Washer & Frigidaire FARE4044MW Electric Dryer - White,3019,2019-03-27,7017
+66068,118.65331762730668,Automotive,Mitsubishi Eclipse 00-02 Front Bumper Lights - Crystal Smoke,3363,2019-03-27,43418
+66069,624.6394668044906,Automotive,Dodge Ram Logo Bench Seat Cover,2774,2019-03-27,756
+66070,653.3161415864531,Beauty,"Mountain Ocean Skin Trip Moisturizer, Coconut, 8-Ounce",2388,2019-03-27,2692
+66071,931.820952877955,Books,Enemies of Hope: A Critique of Contemporary Pessimism,2529,2019-03-27,23055
+66072,348.5732674892211,Camera,DOD MI800 Mini High Definition Camera,2468,2019-03-27,32895
+66073,743.6691823923022,Music,The Best of Hui Ohana II,1662,2019-03-27,6483
+66074,974.9165056094504,Musical Instruments,Donner Yellow Fall Vintage Pure Analog Delay Guitar Effect Pedal True Bypass,3531,2019-03-27,45458
+66075,259.1084416147319,Major Appliances,Whirlpool Part Number W10254846: PANEL-CNTL,1702,2019-03-27,6853
+66076,110.92533552955031,Books,The Cartoon Guide to Statistics,2950,2019-03-27,19388
+66077,344.8849098498291,Grocery,"Trident Sugar Free Gum (Tropical Twist, 18-Piece, 12-Pack)",3474,2019-03-27,8757
+66078,263.5327870889611,Furniture,SEI Hand-Carved Secretary Desk,2209,2019-03-27,36070
+66079,867.7006141073008,PC,Anker Folio Keyboard Case Bluetooth for iPad 4 / 3 / 2 [ONLY] with 6-Month Battery Life Between Charges and Comfortable Low-Profile Keys,1185,2019-03-27,25432
+66080,304.4686065809609,Major Appliances,KitchenAid Stove / Oven / Range Infinite Switch 8203536,2512,2019-03-27,31443
+66081,492.6705189512443,Furniture,Flash Furniture Plush Brown Leather Lever Rocker Recliner with Brass Accent Nails,2818,2019-03-27,6707
+66082,437.2963674334181,Apparel,Hold-Ups Extra Long XL Navy Blue Suspenders with Jumbo Silver No-slip Clips,2419,2019-03-27,13181
+66083,644.5790115407915,Automotive,2003-2006 Infiniti G35 Keyless Entry Remote Fob Clicker With Free Do-It-Yourself Programming+ Free eKeylessRemotes Guide,1464,2019-03-27,4185
+66084,693.7761317627904,Health & Personal Care,Pure Green Coffee Bean Extract - Standardized to 50% Chlorogenic Acid - Weight Loss Supplement for Men & Women - Burns Both Fat and Sugar - High Grade Natural Ingredients - by Natures Design,1568,2019-03-27,15964
+66085,882.9329247594806,Outdoors,Bell Dashboard Multi Function Cyclocomputer,3245,2019-03-27,49063
+66086,999.0980312385956,PC,"3.5"" Aluminum External Enclosure w/ Unique Design, SATA to USB 2.0+eSATA",1729,2019-03-27,21588
+66087,802.3534860309827,Digital_Video_Download,All Is Lost,2461,2019-03-27,1983
+66088,544.787371031718,Musical Instruments,Boss RT-20 Rotary Ensemble Sound Processor,2223,2019-03-27,21769
+66089,634.3720210013012,Music,Lead Me On,1628,2019-03-27,3135
+66090,767.9161218390537,Baby,"Bright Starts Portable Swing, Blossomy Blooms (Discontinued by Manufacturer)",1413,2019-03-27,623
+66091,998.7636283935169,Books,Unix Secure Shell (McGraw-Hill Tools Series),2075,2019-03-27,20267
+66092,674.7669410071187,Electronics,"NudeAudio Super-M Portable Wireless Bluetooth Speaker; IPX-5 Waterproof and Sand Proof Rating; High Quality Hand Free Phone Audio; Apple MacBook, iPhone 5, iPhone 6/6s/6 Plus, and Samsung Galaxy, Android Compatible",2819,2019-03-27,28870
+66093,790.4943551304979,Major Appliances,"LG LSE3092ST Electric Range Slide-in - 30"" Wide - 1 Oven(s) - 5 Cooking Elements - Stainless Steel",2245,2019-03-27,8538
+66094,492.4390043089109,Digital_Video_Download,The Adjustment Bureau,2664,2019-03-27,6015
+66095,72.14745848107007,Digital_Software,"Punch! Landscape, Deck and Patio Designer v17.5 [Download]",1320,2019-03-27,25173
+66096,884.3402726795217,Electronics,Monoprice VGA to RCA,3450,2019-03-27,13826
+66097,735.9208730932983,Digital_Video_Download,Big Hero 6 (Theatrical),2209,2019-03-27,2913
+66098,612.4116096554508,Digital_Video_Games,SimCity: Cities of Tomorrow Plus,3207,2019-03-27,6525
+66099,704.6734394874613,Musical Instruments,"YMC Picguard-Acoustic-BK-Hummingbird Acoustic Guitar Pickguard, Self Adhesive, Black",3339,2019-03-27,17606
+66100,595.000590803313,Apparel,Tommy Hilfiger Women's Two-Piece Pajama Set,1625,2019-03-27,49551
+66101,922.384416080744,Automotive,2002-09 Hummer H2 5pc. Front Bumper Cover,1693,2019-03-27,9407
+66102,121.70704346127049,Automotive,POR-15 Cycle Tank Repair Kit,1186,2019-03-27,46122
+66103,249.30876355099403,Books,Critical Care: A Novel,1689,2019-03-27,20511
+66104,982.9304524319862,Apparel,Language of Hockey Player Kids' Premium T-Shirt by Spreadshirt,1978,2019-03-27,45507
+66105,918.7699259903643,Video DVD,The Sound of Music (Three-Disc 45th Anniversary Blu-ray/DVD Combo in Blu-ray Packaging),1109,2019-03-27,32409
+66106,851.3650943002006,Mobile_Apps,Airplane Fly Hawaii,1734,2019-03-27,46865
+66107,417.44503176346205,Mobile_Apps,PathPix Boo,1964,2019-03-27,39104
+66108,212.0079865895347,Automotive,Keyless Entry Remote Fob Clicker for 2000 2001 2002 2003 2004 2005 2006 Toyota Camry,2099,2019-03-27,28837
+66109,115.32515948190549,Outdoors,"Zippo Wick, Individual Card",2540,2019-03-27,38605
+66110,526.2237820300578,Major Appliances,Samsung 4.2 cu. ft. High-Efficiency Top-Load Washer - White,1574,2019-03-27,39793
+66111,36.792135309010106,Furniture,"Mission Futon Twin Lounger w/ 9"" Premium Futon Mattress",1614,2019-03-27,41652
+66112,891.0155807230398,Digital_Music_Purchase,You Don't Know Me (feat. McKenna Medley),2191,2019-03-27,2427
+66113,840.1785926399492,Apparel,Maggy London Women's Brushed Printed Fit-and-Flare Dress,1084,2019-03-27,2525
+66114,40.271413242039884,PC,MoKo Vertical Flip Cover Case for Amazon New Kindle Paperwhite.,2171,2019-03-27,47017
+66115,773.5980134262835,Baby,The First Years Disney Feeding Set,1763,2019-03-27,24946
+66116,643.8356252335461,PC,"Microsoft Xbox 360 Chatpad ""Genuine Original""",1815,2019-03-27,28935
+66117,301.5166466893991,Major Appliances,Replacement Jenn Air Infinite Switch (top burner switch) 700855K,2195,2019-03-27,7832
+66118,641.225885342207,Apparel,U.S. Polo Assn. Men's Solid Short-Sleeve Pique Polo Shirt,3534,2019-03-27,48943
+66119,175.900788328715,Digital_Music_Purchase,Your Home Is In My Heart (Stella's Love Theme),1567,2019-03-27,442
+66120,973.4551920129148,Grocery,"Keurig 2.0 Green Mountain French Roast Coffee , K-Carafe Packs",1925,2019-03-27,31114
+66121,729.0946594694187,Musical Instruments,Stageline PBK11 Piano Bench,3578,2019-03-27,23221
+66122,695.0451682983511,Grocery,"Van's The Perfect 10 Crackers, 4 Ounce Box",2191,2019-03-27,10158
+66123,965.8781431494923,Digital_Video_Download,Legend of the Superstition Mountains Season 1,1214,2019-03-27,38964
+66124,688.4933398097513,Automotive,2002 FORD FOCUS KEYLESS ENTRY KEY REMOTE FOB CLICKER W/ FREE PROGRAMMING & DISCOUNT KEYLESS GUIDE,1099,2019-03-27,39643
+66125,986.7150938359962,Outdoors,Power Grips High Performance Pedal Kit (Set Pedals + Straps + Hardware),2430,2019-03-27,9980
+66126,370.0168421159518,Books,To Boulez and Beyond: Music in Europe Since the Rite of Spring,2637,2019-03-27,6537
+66127,996.7341158747589,PC,MSI Intel H81 LGA 1150 DDR3 USB 3.1 Micro ATX Motherboard (H81M-E34),2721,2019-03-27,12590
+66128,963.8010788585455,Camera,CaseCrown Protective Compact Travel Camera Case (Black) for Samsung ST700 DualView Digital Camera (New Introduced at CES 2011),1602,2019-03-27,13952
+66129,736.5800694604803,Office Products,"E-Z Ink (TM) Remanufactured Ink Cartridge Replacement for New Generation HP 564XL CN684WN CN685WN CN686WN CN687WN CB322WN (3 Black, 3 Cyan, 3 Magenta, 3 Yellow, 3 Photo Black) 15 Pack Compatible With Photosmart 7515 e-All-In-One Photosmart B8550 Photosmart C5300 Photosmart C5373 Photosmart C5388 Photosmart C6300 Photosmart C6350 Photosmart C6383 Photosmart D5445 Photosmart D5468 Photosmart Premium",1635,2019-03-27,37556
+66130,976.9178727306232,Major Appliances,"FIREBIRD 30"" Under Cabinet Stainless Steel Kitchen Range Hood Vent",2136,2019-03-27,34953
+66131,645.547607254338,Digital_Video_Download,A Million Ways to Die in the West,1415,2019-03-27,26512
+66132,520.9902965328299,Office Products,"LD Compatible Samsung ML-1710D3 Toner for ML1500, 1510, 1510B, 1520, 1710, 1710B, 1710D, 1710P, 1740, 1750, &1755",3077,2019-03-27,27068
+66133,359.2010405208748,PC,"HAVIT HV-F2060 14""-15.4"" Laptop Cooler Cooling Pad with Adjustable Wind Speed (6 Fans )",3183,2019-03-27,39314
+66134,389.2526442844023,Digital_Video_Download,Love A La Carte,1536,2019-03-27,1950
+66135,474.8215753183992,Mobile_Electronics,"OUKU 2 Din 7-inch TFT Screen In-Dash Car DVD Player With Bluetooth,RDS,iPod-Input",1583,2019-03-27,24943
+66136,630.4130615517014,Books,Triathlon: Achieving Your Personal Best,1024,2019-03-27,5930
+66137,198.9712314400899,Books,And the Mountains Echoed,1994,2019-03-27,46166
+66138,289.02164662925014,Office Products,Vaultz Locking Laptop Case,3595,2019-03-27,16655
+66139,500.73037942173204,Major Appliances,"midea WHS-64W 16-Bottle Wine Cooler, Stainless Steel",1641,2019-03-27,5051
+66140,850.5449595852374,PC,LOG910001799 - Logitech M570 Trackball,1509,2019-03-27,25993
+66141,672.3964448741448,Major Appliances,Jetclean Undercounter Dishwasher 100% Stainless Steel Tub Interior Auto Clean Plus Cycle 14 Place Setting Capacity White,3162,2019-03-27,18917
+66142,654.5912970933508,Major Appliances,Danby DDW496W Countertop Dishwasher,3172,2019-03-27,32277
+66143,298.64189421457553,Baby,The First Years Drop and Lock Gate (Discontinued by Manufacturer),2644,2019-03-27,36343
+66144,125.39186593794173,Camera,Jenis J-C400D-P-B Professional Battery Grip for Canon XT and XTi Digital SLR Cameras (Black),3118,2019-03-27,40442
+66145,499.10673465665155,Major Appliances,Whynter BWR-171DS Elite 17-Bottle Seamless Stainless Steel Door Dual Zone Built-in Wine Refrigerator,3089,2019-03-27,8824
+66146,704.379663674592,Musical Instruments,Bespeco Silos Series Adapter with XLR Male Plug to RCA Female Socket,3153,2019-03-27,35710
+66147,554.1509860436704,Office Products,"MMF Industries Leatherette Zipper Wallet, 11 x 6 Inches, Black (2340416W04)",1814,2019-03-27,42614
+66148,30.818561367549556,Office Products,"99 Cents Sale Retail Pricing Label / Stickers 1.5"" - 500 labels per roll, 1 roll per package",3445,2019-03-27,36089
+66149,548.2238674830078,Mobile_Electronics,"exLED Honda Accord 9th Gen ('13~), custom interior light kit",3178,2019-03-27,2916
+66150,69.85651002331358,Digital_Ebook_Purchase,The Fox,3340,2019-03-27,20712
+66151,395.40658596318275,Digital_Ebook_Purchase,Amelia's Destiny: Finding my way (Amelia Series Book 2),1714,2019-03-27,8367
+66152,303.6100306860821,Major Appliances,Maryland Plastics 06-0976 9-Inch Black Plastic Plate Holder,3333,2019-03-27,33178
+66153,310.4664386023342,Electronics,3D Heaven Rechargeable 3-D Glasses,3568,2019-03-27,20776
+66154,337.75907487039274,Apparel,Rip Curl Juniors Sycamore Printed Baby Bell Leg Soft Pant,2476,2019-03-27,10313
+66155,587.7880026208584,Baby,Earlyears Spin-tacular Play Center (Discontinued by Manufacturer),1176,2019-03-27,7721
+66156,71.12401868123402,Office Products,Return Address Name Embosser/Seal,2288,2019-03-27,38876
+66157,545.4423011140932,Video DVD,The Big Lebowski - 10th Anniversary Edition,2148,2019-03-27,27318
+66158,871.3087198056223,Mobile_Apps,Theme Park - NEW,1266,2019-03-27,14232
+66159,397.7650814094143,PC,Samsung Galaxy Tab ProTablet,1701,2019-03-27,43472
+66160,580.923059117831,Digital_Ebook_Purchase,A Dark and Deadly Deception (Marti MacAlister Mysteries),2928,2019-03-27,43279
+66161,132.35343369800307,Mobile_Electronics,Fits 2002-2005 Mini Cooper S R50 R53 2 Buttons Keyless Ignition Remote Key Fob Case Shell Blank Housing Removable Uncut Blade,1970,2019-03-27,3988
+66162,985.4147914724192,Music,Metamorphosen,1490,2019-03-27,8356
+66163,783.7920212515232,Mobile_Electronics,Nook Simple Touch eReader,1406,2019-03-27,33300
+66164,309.2307269849081,Apparel,Music Legs Womens Rainbow Back Seam Fishnet Thigh Hi,2339,2019-03-27,44788
+66165,707.3701064359697,Camera,Motion Slider 36 Camera Slider,3287,2019-03-27,14593
+66166,996.0333310985078,Furniture,Flash Furniture HERCULES Lesley Series Contemporary Melrose White Leather Sofa with Encasing Frame,3072,2019-03-27,45110

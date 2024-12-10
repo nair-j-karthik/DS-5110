@@ -1,0 +1,102 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+112719,365.2169894385973,Digital_Ebook_Purchase,Stuka Pilot,3377,2020-02-03,21282
+112720,720.6891729412464,Digital_Ebook_Purchase,The Absolute Beginners Guide to Homesteading,2980,2020-02-03,15341
+112721,27.156105987551626,Camera,Fujifilm X100 Digital Camera,1105,2020-02-03,34735
+112722,294.130469760062,PC,AmazonBasics Mini DisplayPort (Thunderbolt) to HDMI Adapter,2240,2020-02-03,46549
+112723,424.1269698486514,Outdoors,Brooks Saddles Barbican Messenger Bag,2046,2020-02-03,24016
+112724,840.3025166611018,Musical Instruments,PylePro PDWM2500 Dual VHF Wireless Microphone System,1426,2020-02-03,12186
+112725,310.0177092827334,Musical Instruments,Martin 18AKIT0002 Professional Guitar Polish/Cleaner Kit,1845,2020-02-03,4143
+112726,610.0260235845882,Outdoors,Stansport 6 Chamber Air Mattress,1073,2020-02-03,29793
+112727,201.2378287409,Digital_Music_Purchase,Palabras del Monte,3340,2020-02-03,33626
+112728,204.1549074550321,Baby,Fisher-Price Rainforest Peek-A-Boo Leaves Musical Mobile,1263,2020-02-03,49426
+112729,962.4980444365783,Grocery,Orginal Cracklin Plain 6 bags (1.875oz),3442,2020-02-03,47305
+112730,857.3236525339515,Outdoors,TOE CLIPS SUNLITE ROAD STEEL w/LEATHER STRAP CP LG,1952,2020-02-03,18590
+112731,720.2056224882019,Major Appliances,"4"" WHT DRYER VENT WIDE MOUTH",2520,2020-02-03,43734
+112732,907.2602225077649,Baby,"Gerber Graduates Fun Grips Hard Spout Sippy Cup, 10-Ounce",2375,2020-02-03,43972
+112733,929.7983957032491,Digital_Software,Adobe Photoshop Extended CS6 Student and Teacher Edition,3602,2020-02-03,21227
+112734,202.122869359411,Apparel,Monsta Clothing Co. Men's Monsta: Signature (SRT31) Shorts,2718,2020-02-03,19933
+112735,819.0120762980608,Health & Personal Care,"Spartacus Blown Medium Realistic Glass Dildo, Clear",3132,2020-02-03,30901
+112736,277.86268975083755,Digital_Software,Movavi SWF to Video Converter 2 Personal Edition [Download],2788,2020-02-03,38319
+112737,378.67350134990085,Grocery,Weber`s Premium Horseradish Prepared Mustard Squeeze Bottle (2) 12 Oz. Containers,3541,2020-02-03,24729
+112738,27.075410933859253,Music,Supermodified,2065,2020-02-03,8200
+112739,795.4603258946679,Digital_Software,Adobe Acrobat XI Standard,3374,2020-02-03,40442
+112740,104.11315895315047,Office Products,"Black Nitrile Gloves, Powder Free, Latex Free, Semperforce®, 90 Gloves/Box Size XXL (90-XXL)",1093,2020-02-03,48773
+112741,676.3542287030037,Electronics,H2O Audio Interval + Waterproof Headphones with a Waterproof iPod Shuffle Case,2286,2020-02-03,32218
+112742,716.706381077502,Apparel,Alfa Global Women's Flower Printed Chiffon Crew-neck Sleeveless Top,1315,2020-02-03,15806
+112743,975.0236830275228,Digital_Video_Games,Defense Technica,3612,2020-02-03,13828
+112744,855.1331896641012,Major Appliances,"KleenWater KWHT4520 Whole House Water Filtration System - 4.5 X 20 Inch - Transparent with Sediment Cartridge, Mounting Bracket and Spare O-Ring - 1 Inch NPT",3373,2020-02-03,9253
+112745,749.0469351633166,Musical Instruments,"MUSYSIC 1600 Watts Professional Portable Dual Mic Wireless Rechargeable 15"" Speaker PA System MU-15PA",1144,2020-02-03,7492
+112746,499.3753978443695,Music,Il Trovatore,1804,2020-02-03,11364
+112747,296.95823912387914,Office Products,Scotch Long Lasting Moving & Storage Packaging Tape,2499,2020-02-03,17406
+112748,146.79853384527456,Musical Instruments,Elmo Sesame Street Ukulele by First Act - SS285,2659,2020-02-03,4535
+112749,682.2036000934608,Mobile_Apps,iFire,1482,2020-02-03,16347
+112750,513.5623239875501,Baby,Fisher-Price Discover 'n Grow Open Play Musical Gym,1042,2020-02-03,25671
+112751,576.1271018770053,Digital_Ebook_Purchase,Associated Pressure (The Heroes of Siegel City Book 4),2045,2020-02-03,39204
+112752,34.28649365041882,Apparel,Bodishape Plus Size Pants for Women - Slim Fit - Winter Thick Fabric - Black,2044,2020-02-03,29932
+112753,370.9630826560115,Electronics,Wireworld Chroma 7 HDMI Cable 1 Meter New 7 Series HDMI,2372,2020-02-03,2890
+112754,25.769788870922504,Baby,Simple Wishes D Lite Hands Free Breastpump Bra,2660,2020-02-03,38600
+112755,960.0141254329748,Camera,Profoto 901022 D1 Air 250 Monobloc (Black),1065,2020-02-03,21665
+112756,367.7281033288809,Music,Endtroducing,3432,2020-02-03,45795
+112757,271.9359276075537,Health & Personal Care,"Maxell AAA Alkaline Battery, 10 pack",1240,2020-02-03,24507
+112758,809.7565672808677,Electronics,Skech BluePulse BlueTooth HandsFree Calling Wireless HeadPhones w/Mic for iPhone 5S,3298,2020-02-03,36505
+112759,117.07740660429104,Apparel,Miusol Women's Scoop Neck Optical Illusion Belt Business Dress,3168,2020-02-03,24493
+112760,450.3242232569823,Apparel,French Connection Women's Mini Paisley Party Dress,1463,2020-02-03,7525
+112761,757.350900718216,Mobile_Apps,LDS Tools,2531,2020-02-03,12171
+112762,771.7583158608364,Outdoors,Zippo Stamped Street Chrome Pocket Lighter,3597,2020-02-03,23956
+112763,424.8572684216313,Health & Personal Care,"NutriGold #1 Organic Maca Root Powder Capsules - Maca Gold, 500 mg, 180 Vegetarian Capsules - GMO-free, Preservative-free, Gold Standard Peruvian Maca Root Pills",1359,2020-02-03,20836
+112764,108.43416924674408,Furniture,"Paterson Collection Color Dark Red Traditional Oriental Medallion Design Area Rug (8'2""X9'10"") Persian Style Living Room Rug By Ottomanson",2138,2020-02-03,25734
+112765,316.8534615294993,Mobile_Apps,PocketInvEditor,2722,2020-02-03,42279
+112766,273.56186816017157,Digital_Ebook_Purchase,I'd Rather Be Single 2,1121,2020-02-03,8304
+112767,287.1701163376548,Grocery,"Shelled Walnuts, Halves & pieces, 1.5 lbs Hoosier Hill Farm",1801,2020-02-03,49293
+112768,967.8012479984543,Musical Instruments,Zoom H6 Six-Track Portable Recorder,1237,2020-02-03,35264
+112769,721.4360657224235,Apparel,Fruit of the Loom Men's Exposed Waistband Woven Fashion Boxers(Pack of 5),1486,2020-02-03,17080
+112770,239.64430614728505,Electronics,"Bem Range Strum Bluetooth Speaker, Ebony (Black)",2967,2020-02-03,22088
+112771,801.277730338909,Outdoors,Osprey Digi-Stow Electronics Bag,1326,2020-02-03,26062
+112772,939.9426027489401,Furniture,Flash Furniture HERCULES Lesley Series Contemporary Melrose White Leather Sofa with Encasing Frame,2369,2020-02-03,12800
+112773,600.3783607114467,Baby,KidCo Magnet 4 Lock Set (4 locks per package - key sold separately),2302,2020-02-03,44230
+112774,852.2984556921716,Health & Personal Care,Premium Omega 3 - 180 Triple Strength Pills - 800mg EPA + 600mg DHA Essential Fatty Acids - Ultimate Natural Pharmaceutical Grade Fish Oil - Lemon Flavored & Burpless Moleculary Distilled,2238,2020-02-03,24271
+112775,541.486541972665,Office Products,"Master Products Mfg. Co. Replacement Punch Head for MAT3020B Heavy-Duty Punch, 0.281-Inch Diameter Hole (3025)",2898,2020-02-03,8238
+112776,529.8140212216807,Digital_Ebook_Purchase,Footsteps in Time (The After Cilmeri Series Book 2),1405,2020-02-03,11296
+112777,65.32485633828325,Mobile_Electronics,"Crescendo Audio CZ 5.25"" 2 Way Component Set",2973,2020-02-03,27284
+112778,161.92274739115368,Furniture,Winsome Morris Console Hall Table with 3-Foldable Basket,1201,2020-02-03,5560
+112779,27.310554745680953,Major Appliances,"Haier HVT12ABS 12-Bottle-Capacity Table-Top Wine Cellar, Black with Silver Trim",3367,2020-02-03,29090
+112780,705.3931657233734,Office Products,Inkjetcorner 7 New Compatible BLACK Ink Cartridge for Canon PGI-225BK Pixma iP4820 iP4920 iX6520 MG5120 MG5220 Wireless MG5320 MG6120 MG6220 MG8120 MG8220 MX882 MX892,3532,2020-02-03,10830
+112781,203.69049417596852,Music,Beyond The Thunder,3216,2020-02-03,17097
+112782,166.20175579486684,Digital_Music_Purchase,Come and Get It,3511,2020-02-03,44584
+112783,685.690750947704,Digital_Ebook_Purchase,Wrath (New Species Book 6),2935,2020-02-03,46006
+112784,695.1791033455875,PC,BenQ GL2760H 27-inch Full HD 1920 x 1080 2ms Response Time HDMI LED Monitor,3043,2020-02-03,48964
+112785,751.1455780810425,Digital_Software,Quicken Willmaker Plus 2014,1436,2020-02-03,22717
+112786,861.1625524007613,Music,Home for Christmas,1699,2020-02-03,37082
+112787,82.60901228096989,Camera,"Vivitar Deluxe Compact Hard Shell Camcorder Bag / Case For Canon Vixia HF S20, HF S200, HF21, HF R11, HF R10, HF R100, FS31, FS300, HF M32, HF M31 Digital Camcorder + LCD Screen Protectors + More",1455,2020-02-03,17769
+112788,562.7150288606243,Mobile_Electronics,Panasonic DMP-B15 Portable Bluray Blu Ray Player Kroo 11273 Cube Case (Black) + Includes a Determination Hand Strap,1117,2020-02-03,35152
+112789,74.98632812869593,Grocery,"50-count TOP BRAND COFFEE K-Cup Variety Sampler Pack, Single-Serve Cups for Keurig Brewers",3338,2020-02-03,41097
+112790,674.4444110278545,Outdoors,Knog Frog Strobe Ft+Rr Twinpack,2864,2020-02-03,39468
+112791,235.22103825608013,Books,Heather Has Two Mommies,1306,2020-02-03,2051
+112792,51.56464278973936,Digital_Ebook_Purchase,Blind Dating: A Light-Hearted Romantic Comedy,1446,2020-02-03,39412
+112793,390.0985629270545,Health & Personal Care,CytoSport Muscle Milk Collegiate Calorie Replacement Drink Mix,1544,2020-02-03,17267
+112794,913.6407497668812,Apparel,Best. Dad. Ever. Funny Father's Day Holiday or Gift Unisex T-Shirt,1831,2020-02-03,39177
+112795,102.75997385151767,Books,Who Moved My Cheese?: An Amazing Way to Deal with Change in Your Work and in Your Life,3160,2020-02-03,31405
+112796,691.879132160022,Gift Card,Amazon Gift Card - Print - Happy Birthday (Hats),3321,2020-02-03,40005
+112797,979.3634689978239,Digital_Software,Roxio Creator NXT 2,1492,2020-02-03,23586
+112798,476.5412724370831,Apparel,Arus Men's Deluxe Terry Cloth Turkish Cotton Bathrobe Robe,2419,2020-02-03,16529
+112799,717.7025937121717,Mobile_Apps,Good Fart,1238,2020-02-03,36365
+112800,316.05150222059154,Major Appliances,Whirlpool WHIRLPOOL P# 6-918873 / W10224675 SILVERWARE BASKET,2297,2020-02-03,18196
+112801,664.0408314831778,Apparel,MDP107 Mens Ballroom Latin Competition Practise Dance Pants,3187,2020-02-03,47974
+112802,788.8863915784127,Major Appliances,Frigidaire Bake Element 5303051519,1092,2020-02-03,7181
+112803,158.38465445539282,Camera,"Samsung ST100 - Digital camera - compact - 14.2 Mpix - optical zoom: 5 x - supported memory: microSD, microSDHC - black",3404,2020-02-03,46448
+112804,539.3658198967817,Mobile_Apps,Galaxy at War Online,1756,2020-02-03,6898
+112805,977.9619286711949,Video DVD,X-Men: The Last Stand (Widescreen Edition),2846,2020-02-03,44896
+112806,582.5200892639467,Digital_Video_Games,Tom Clancy's Splinter Cell,1094,2020-02-03,26120
+112807,781.7258956269815,Digital_Video_Games,Bookworm Deluxe [Online Game Code],2870,2020-02-03,35368
+112808,762.4698902117619,Music,Light,1601,2020-02-03,10439
+112809,79.98371472305861,Gift Card,Amazon eGift Card - Amazon Boxes,2433,2020-02-03,39224
+112810,248.52384869047097,Digital_Music_Purchase,Our Truth [Explicit],3292,2020-02-03,17410
+112811,36.2354420441077,PC,"OMOTON Kindle Paperwhite Case Cover -- The Thinnest and Lightest PU Leather Smart Cover for All-New Kindle Paperwhite (Fits All versions: 2012, 2013, 2014 and 2015 All-new 300 PPI Versions)",2073,2020-02-03,47325
+112812,656.4768410184292,Office Products,Slinger Digital Storage Aluminum Case for Eight SD/MMC Secure Digital Cards,2407,2020-02-03,128
+112813,337.9839351737012,Furniture,Hillsdale Harbortown Bed Set,1777,2020-02-03,38537
+112814,891.2954345172031,Major Appliances,"Danby DDW1809W 18"" Built-In Dishwasher - White",2789,2020-02-03,20411
+112815,318.52606310268055,Camera,"Mennon DV-s 58 Screw Mount 58mm Digital Video Camcorder Lens Hood with Cap, Black",2731,2020-02-03,41644
+112816,709.5252812144165,Baby,BooginHead Squeez'Ems Reusable Food Pouches,1489,2020-02-03,34540
+112817,45.203223359696,Office Products,Rustic Italian Leather Messenger Bag Satchel. Made in USA. The Dan Bag,2336,2020-02-03,22582
+112818,271.14387859584593,Musical Instruments,ChromaCast Acoustic Gig Bag with Pick Sampler & Strap,1333,2020-02-03,43202
+112819,585.5825646924586,Electronics,"Sykik Sound Wireless Bluetooth speaker Powerful Bass system w/ 3.5mm Aux Port Home Audio for Smartphones , Tablets , Desktop Computers , Laptops , TV & More!",2408,2020-02-03,3587

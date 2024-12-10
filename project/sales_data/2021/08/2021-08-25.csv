@@ -1,0 +1,125 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+197997,83.65485867625175,Music,Shaking the Tree: 16 Golden Greatest Hits,1273,2021-08-25,8500
+197998,47.12378499692491,Grocery,KIND PLUS Gluten Free Bars,3341,2021-08-25,36809
+197999,710.0272727016816,Office Products,Punch Studio PUN43008 Sticky Notes Portfolio Calico Notes Sticky Notes Pad Calico Notes,2859,2021-08-25,15451
+198000,315.10405305408545,Grocery,"Marshalls Creek Spices Onion Granulate, XX-Large, 6 Pound",1303,2021-08-25,11211
+198001,388.20961023694434,Digital_Software,Quicken Home & Business 2011,1052,2021-08-25,26064
+198002,78.60700506332671,Musical Instruments,DOBANI 8-Key Box Kalimba - Natural *Blemished,1018,2021-08-25,20409
+198003,36.55921521722273,Books,Modern Saints Their Lives and Faces: Book Two,2625,2021-08-25,32424
+198004,293.668972123571,Grocery,"Tattle Tea 1856 Organic Dragonwell Green Tea, 1 Pound",2989,2021-08-25,48102
+198005,848.429475853031,Books,"An Earthly Crown (The Jaran, Book 2; The Sword of Heaven, Book 1)",1015,2021-08-25,47271
+198006,784.5533475584443,Digital_Ebook_Purchase,Between Here and April,2390,2021-08-25,35071
+198007,848.2638290354107,Health & Personal Care,"Starwest Botanicals Organic Kelp Powder, 1 Pound (Pack of 3)",1002,2021-08-25,13947
+198008,339.585331256867,Outdoors,Disney Princess EZ Bed Sleeping Bag,2549,2021-08-25,40083
+198009,927.8152086243056,Digital_Video_Games,Ice Cream Craze: Natural Hero [Download],1953,2021-08-25,9792
+198010,441.5984197226451,Major Appliances,Miele : Dishwasher Conditioner 8.5 oz (06848160 / 09042920),1103,2021-08-25,46097
+198011,714.213959557001,Baby,Harmony Kids Classic Kids Chair,3449,2021-08-25,34188
+198012,992.6062496546773,Books,Bloodline,1119,2021-08-25,48490
+198013,92.80740686779308,Outdoors,Camelbak Elixir 12 Tablet Tube,1451,2021-08-25,38983
+198014,952.6016318152231,Automotive,Dee Zee DZ956 Tread Aluminum Non-Rusting Brite Tool Box,1913,2021-08-25,46080
+198015,753.5515891536857,Grocery,"Marmara Mediterranean All Natural, No Preservatives Seasoning Spice Mixes",1651,2021-08-25,43256
+198016,969.2860983488325,Health & Personal Care,Nourishlife (Speech Nutrients) speak - 60 Softgels,1939,2021-08-25,18867
+198017,338.95787634259455,Electronics,Toyota iPod iPhone Car Integration System Kit Module Radio Adapter Interface,2760,2021-08-25,44716
+198018,519.4862716831879,Musical Instruments,"Mendini 1/2 MV Solid Wood Violin with Hard Case, Shoulder Rest, Bow, Rosin and Extra Strings",2376,2021-08-25,42646
+198019,46.24868421674172,Health & Personal Care,philips Ronsit NEW HQ8505 Shaver Power Charging Cord,1196,2021-08-25,7904
+198020,307.1812363553333,Digital_Music_Purchase,Quickie,1736,2021-08-25,29915
+198021,168.160952933325,Baby,"Creative Converting Referee Stripe Plastic Shirt Shaped Serving Tray, Football (Discontinued by Manufacturer)",1109,2021-08-25,22085
+198022,920.5864986865441,Gift Card,Amazon Gift Card - Print - Happy Birthday (Cupcake),1068,2021-08-25,45017
+198023,933.772105302443,Digital_Software,Manga Studio Debut 4,3535,2021-08-25,22879
+198024,639.4863473202139,Camera,"Jobu Design Micro Gimbal/Ballhead Adapter, Converts Arca-Swiss Ballhead to Fully Functional Gimbal Head",3346,2021-08-25,39890
+198025,636.3078891722953,Apparel,WearAll Plus Size Women's Lace Sequin Peplum Top,2890,2021-08-25,6121
+198026,422.0559424998645,Books,Chicano Renaissance: Contemporary Cultural Trends,1063,2021-08-25,33301
+198027,677.8161810079783,Major Appliances,"Luma Comfort IM200SS Portable Clear Ice Maker, 28-Pound",2520,2021-08-25,9948
+198028,840.3798811735339,Outdoors,Pearl iZUMi Pro Softshell Lite Glove,3117,2021-08-25,19603
+198029,238.71454974358164,Apparel,Vikoros Waist Tummy Slimming Body Shapewear Belt Corset Cincher Trimmer Girdle,3306,2021-08-25,1028
+198030,861.8887141683751,Musical Instruments,NEW! CHAUVET (4) 25' & (4) 10' Male to Female 3 Pin DMX Lighting Effect Cables,2172,2021-08-25,29534
+198031,210.12433676303107,PC,"ReVIVE Rapid 6 Outlet Wall AC Adapter with 2.1A Dual USB Ports & Surge Protector - Works With Apple , Samsung , Sony Smartphones , Tablets & More",3160,2021-08-25,22688
+198032,336.28815246683786,Digital_Music_Purchase,Quiero Adorarte,2519,2021-08-25,21033
+198033,693.1949231196468,Digital_Ebook_Purchase,"One Summer: America, 1927",2821,2021-08-25,10874
+198034,364.80400867062025,Electronics,"Aduro AquaSound WSP20 Shower Speaker, Portable Waterproof Wireless Bluetooth Speaker",3114,2021-08-25,47306
+198035,327.4145102776057,Beauty,"Aveda Stress Fix Body Lotion, 1.7 Ounce",2203,2021-08-25,3300
+198036,961.4894895665312,Furniture,"VERDUGO GIFT Distressed Scalloped Hall Table, White",2292,2021-08-25,6984
+198037,735.611838620619,Health & Personal Care,"Extra Strength Stool Softener, 250mg, 140ct, By Equate, Compare to Colace Stool Softener",2323,2021-08-25,21735
+198038,965.0056037824056,Beauty,Darkness False Eyelashes Glue and Gel,2412,2021-08-25,48772
+198039,158.92165409469786,Automotive,Dorman 696-203 Air Intake Hose,1872,2021-08-25,5837
+198040,464.77204232423304,Digital_Ebook_Purchase,"Just One Night, Part 2: Exposed",3037,2021-08-25,10781
+198041,580.5709045394614,Major Appliances,SAMSUNG DC64-00519B DOOR-LOCK S/W GW-PJT OEM Original Part,1601,2021-08-25,6277
+198042,182.16897169713508,Digital_Ebook_Purchase,Tribulation Force: The Continuing Drama of Those Left Behind,2684,2021-08-25,29292
+198043,339.621135588444,Gift Card,Amazon.com $15 Gift Card in a Greeting Card (Amazon Surprise Box Design),1917,2021-08-25,42080
+198044,787.247570205333,Digital_Ebook_Purchase,Coconut Flour Dinner To Dessert (Gluten Free Recipes Book 1),3278,2021-08-25,4719
+198045,544.1169115964321,Digital_Video_Games,Work Pack - 3 in 1 - Hidden Object Game [Download],2252,2021-08-25,6577
+198046,102.54870623521501,Digital_Video_Download,Villa Des Roses,1293,2021-08-25,23155
+198047,782.0907003112802,Camera,Car Dash Cam - Police Style Dashboard Color Video Camera & DVR Accident Recorder - Record Vehicle Windshield View,3551,2021-08-25,35501
+198048,868.1542621823817,Office Products,"Epson WorkForce WF-3520 Wireless All-in-One Color Inkjet Printer, Copier, Scanner, 2-Sided Duplex, ADF, Fax. Prints from Tablet/Smartphone. AirPrint Compatible (C11CC33201)",3483,2021-08-25,32142
+198049,898.0746298772323,Digital_Music_Purchase,Big Boy Bloater and the Limits,3281,2021-08-25,37783
+198050,700.8851379284076,Major Appliances,Waring Pro Snow Cone Maker,3152,2021-08-25,34022
+198051,576.6815404302512,Automotive,3M Dynapro Professional Grade Rubber Flex Seal Spray - Case of 6,1419,2021-08-25,12590
+198052,315.91673654306555,Digital_Software,QuickBooks Pro 2013,2790,2021-08-25,18651
+198053,331.3072548019181,Grocery,"Mrs. May's Trio Bar Variety Pack,  1.7-oz Bars (Pack of 20)",2114,2021-08-25,8771
+198054,910.4877494007527,Books,Breakthrough On Skis: How to Get Out of the Intermediate Rut,1085,2021-08-25,41098
+198055,606.2224821878892,Musical Instruments,TC Helicon Mic Mechanic,1651,2021-08-25,7674
+198056,643.7333585178063,Furniture,Winsome Wood End Table/Night Stand with Drawer and Shelf,2521,2021-08-25,13243
+198057,120.14953779757332,Apparel,French Connection Women's Valentine Viscose Mesh Yoke Long-Sleeve Dress,1227,2021-08-25,6296
+198058,993.4623546534946,Electronics,Sony 211566803 Replacement Single Pad for Sony MDR-V6 Headphones,2666,2021-08-25,43504
+198059,464.15756794403313,Camera,LensPEN Lens Cleaning System [Old Version],3607,2021-08-25,30984
+198060,448.1469643873581,Automotive,Battery Tender 081-0148-12 12.5' Extension Cable,1636,2021-08-25,17329
+198061,460.3927007080615,Major Appliances,"Kitchenaid KSC24C8EYY 35 1/2-Inch, 24 Cu. Ft. Counter-Depth Side-by-Side Refrigerator",2208,2021-08-25,9864
+198062,97.12941515971808,Music,Everything Falls Into,3000,2021-08-25,40957
+198063,418.81436558468846,Health & Personal Care,Always Infinity Heavy Flow Without Wings 16 ct.,3115,2021-08-25,2071
+198064,455.21467484564346,Digital_Ebook_Purchase,The Language of Flowers: A Novel,1048,2021-08-25,28096
+198065,925.8855078158731,Music,Electric Warrior,2847,2021-08-25,29116
+198066,311.5606398819599,Beauty,Value 6 Pack- Lemongrass 100% Pure & Natural Aromatherapy Herbal Soap- 4 oz each,2160,2021-08-25,2573
+198067,108.2809456099514,Office Products,GE TL26506 Cordless Phone Battery,2180,2021-08-25,17105
+198068,423.28227034564657,Digital_Music_Purchase,Stereo Love (feat. Vika Jigulina),1339,2021-08-25,48022
+198069,790.7844419479364,Outdoors,Arctic Zone 30 Can IceCold High Performance Cooler,1182,2021-08-25,46715
+198070,746.5084534061538,Mobile_Electronics,"TOOGOO Car Truck Universal LED Light, Fog Light",3596,2021-08-25,46040
+198071,170.11515572240296,Office Products,"Exit Sign - ADA compliant sign. 6""x4"" sign made from durable plastic with raised lettering and Braille. Designed to meet ADA (Americans with Disabilities Act) regulations. Available in 17 colors.",1897,2021-08-25,32624
+198072,289.7438129251053,Baby,"Safety 1st Sounds n Lights Discovery Walker, Dino",1019,2021-08-25,45327
+198073,141.70345892781074,Office Products,Wausau Astrobrights Premium Assorte,2211,2021-08-25,4121
+198074,908.722580269318,Camera,Lowepro Ridge 10 Camera Case,1675,2021-08-25,265
+198075,701.9961043596005,Apparel,Fresh Tees Brand- No Days Off Men's Gym Workout Tank Top,3219,2021-08-25,17031
+198076,377.8904383335167,PC,Wifi Sd Memory Card 8GB Class 10 New New Inc® 2nd Generation Ez Share,2864,2021-08-25,22594
+198077,99.52556177011044,Digital_Ebook_Purchase,The Beginning of the End (Apocalypse Z Book 1),1358,2021-08-25,14164
+198078,590.2218705540485,Office Products,"TS 10-PK 200 T200XL (NOT T220) Remanufactured compatible ink cartridges for 200XL T200XL (4 BLACK,2 YELLOW,2 MAGENTA,2 CYAN) Expression Home XP-200,XP-300,XP-400, workforce WF-2530, WF-2540",1083,2021-08-25,15562
+198079,181.8758170593856,Office Products,"Pilot FriXion Clicker Retractable Erasable Gel Pens, Fine Point, Black Ink, 3-Pack (31464)",2538,2021-08-25,1499
+198080,139.75255623622306,Digital_Music_Purchase,Smetana: The Bartered Bride,1840,2021-08-25,32053
+198081,998.7979428027451,Electronics,"Bluetooth Speaker, DKnight Magicbox Ultra-Portable Wireless Bluetooth Speaker Powerful Sound with build in Microphone, Works for Cellphone",2128,2021-08-25,40163
+198082,439.6985971638081,Musical Instruments,Perris Leathers P25SBJ-210 2.5-Inch Soft Suede Banjo Strap,2495,2021-08-25,17628
+198083,128.0901622574865,Outdoors,Kryptonite Kryptolok Series 2 Mini Bicycle U-Lock (3.25),1786,2021-08-25,39226
+198084,880.1501228098085,PC,Heat Waterproof Metal,2848,2021-08-25,17583
+198085,463.3858092627258,Apparel,Iot Ltd Women's Palazzo Printed Wide Leg Pants Casual Trousers,1299,2021-08-25,36407
+198086,932.05758904233,Books,"One for the Money (Stephanie Plum, No. 1) (Stephanie Plum Novels)",2137,2021-08-25,32843
+198087,214.5473037201545,PC,Bose Companion 2 Series III Multimedia Speakers - for PC (with 3.5mm AUX & PC input),1116,2021-08-25,44799
+198088,160.60926578681145,Furniture,Viva Beads and Viva Bead Jewelry Bracelet Classic Crystal Bits Plum Orchard,2563,2021-08-25,33910
+198089,919.1303489464342,Beauty,Flower Arch Contouring Princess Tiara Crown,3189,2021-08-25,19576
+198090,699.4272299746372,Baby,Happi Tummi Natural Colic Relief Waistband,2218,2021-08-25,21399
+198091,276.0542445846482,Outdoors,Smith & Wesson Taylor - S&w Magnesium Rescue Ez-open - SWHRTMGCP,2675,2021-08-25,41315
+198092,202.14368139971103,Digital_Music_Purchase,Victorious: Music From The Hit TV Show,3277,2021-08-25,35057
+198093,846.620663404488,Musical Instruments,"Gibson Vintage Reissue Electric Guitar Strings, Light 10-46",3331,2021-08-25,47170
+198094,494.62344059606437,Electronics,Wireworld Chroma 7 HDMI Cable 1 Meter New 7 Series HDMI,1855,2021-08-25,28555
+198095,375.7259564843971,Music,Tragic Epilogue,2417,2021-08-25,36949
+198096,407.2785687873083,Furniture,Safavieh Courtyard Collection CY6914-268 Navy and Beige Indoor/ Outdoor Area Rug,1007,2021-08-25,40803
+198097,161.8900219437007,Digital_Software,TurboTax Deluxe Federal + State 2007,2846,2021-08-25,7554
+198098,914.5632962770364,Grocery,Crystal Hot Sauce Louisiana's Pure Hot Sauce - 12 oz (Pack of 3),2361,2021-08-25,48738
+198099,294.40185011867817,Baby,Roan Rocco Classic Pram Stroller 2-in-1 with Bassinet and Seat Unit - Multiple Colors,3444,2021-08-25,29960
+198100,334.1769988660794,Books,Coyote Medicine: Lessons from Native American Healing,3286,2021-08-25,33256
+198101,723.8039716922182,Digital_Software,AVG Internet Security 2014 - 1 User 1 Year,2757,2021-08-25,26598
+198102,939.0956666601479,Grocery,Anna and Sarah Shelled Georgia Pecans,1106,2021-08-25,44524
+198103,277.90003021418033,Outdoors,Coleman Fishing Series M33 Belt Pack,1912,2021-08-25,3774
+198104,918.42211106208,Major Appliances,"G.E. Microwave Glass Turntable Plate / Tray 11 1/4 "" WB49X10222",3162,2021-08-25,46286
+198105,480.98789941627086,Musical Instruments,ADJ Products MEGA FLASH DMX 750 W DMX STROBE,2691,2021-08-25,48800
+198106,907.9277197987641,Grocery,"Jiva Organics USDA Organic Turmeric Powder, 1 Pound",2631,2021-08-25,43010
+198107,67.32440543759867,Music,Secret People,1145,2021-08-25,42507
+198108,528.1935532137796,Digital_Music_Purchase,Things Are What They Used To Be,3085,2021-08-25,20644
+198109,544.452889653988,PC,"JASCO PRODUCTS 97893 6' USB 2.0 Ext Cable,",1922,2021-08-25,6846
+198110,217.96583730577532,Major Appliances,EasyGo Washer Mobile Hand Powered Washing Machine,2638,2021-08-25,47388
+198111,468.1159698804794,Grocery,"Keurig 2.0 Green Mountain French Roast Coffee , K-Carafe Packs",3161,2021-08-25,24324
+198112,228.6196977868222,Office Products,Scotch Thermal Laminating Pouches,1240,2021-08-25,10948
+198113,501.7301608101612,Digital_Ebook_Purchase,Friendship According to Humphrey,3544,2021-08-25,12624
+198114,501.4179975095691,Baby,"Luvable Friends Velour Pacifier Holder, Brown",2117,2021-08-25,25530
+198115,372.7859589537134,Mobile_Electronics,customized Attack on Titan for IPod Touch 5th case ipod 5-brandy-140050,1963,2021-08-25,45485
+198116,224.44650223580885,Digital_Software,Professor Teaches Excel 2010 Advanced  [Download],1950,2021-08-25,8266
+198117,993.8759603561102,Gift Card,Amazon eGift Card - Happy Birthday (Elephants),1716,2021-08-25,14250
+198118,447.2275690377074,Beauty,Dr. Bronner's Pure-Castile Liquid Soap - Peppermint 32oz.,2309,2021-08-25,36163
+198119,637.240880071076,Musical Instruments,Rovner P-1R Platinum Clarinet Ligature,1811,2021-08-25,49928
+198120,155.4972380754291,Music,Gospel,1675,2021-08-25,34892

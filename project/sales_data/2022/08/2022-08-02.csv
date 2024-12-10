@@ -1,0 +1,105 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+249472,228.33194080816634,Digital_Ebook_Purchase,The Dark Man,3404,2022-08-02,7135
+249473,429.32159207498677,Beauty,Fran Wilson Moodmatcher Lipstick,1247,2022-08-02,2856
+249474,456.877355615949,Musical Instruments,Samson Go Mic Portable USB Condenser Microphone,2916,2022-08-02,6026
+249475,146.915833151222,Digital_Software,Microsoft Office 365 University 4 Year | PC or Mac Download,3167,2022-08-02,13302
+249476,408.248546781958,Digital_Video_Games,Euro Truck Simulator 2 Go East [Download],3260,2022-08-02,15463
+249477,151.2643659980783,Office Products,"HP Officejet Pro 8600 e-All-in-On Wireless Color Printer with Scanner, Copier & Fax",2628,2022-08-02,31528
+249478,835.9485479797266,Grocery,"Barilla Pasta, 16 Ounce",3092,2022-08-02,4167
+249479,361.07658932622985,Grocery,"Marmara Mediterranean All Natural, No Preservatives Seasoning Spice Mixes",1199,2022-08-02,650
+249480,104.58901781696393,Furniture,"ACME 96010 Set of 2 Gaylord Barstool, White",2544,2022-08-02,19938
+249481,888.3170213020034,PC,LaCie d2 Thunderbolt-2 & USB 3.0 Desktop Hard Drive 6TB (9000472U),2787,2022-08-02,31148
+249482,208.02905494057072,Digital_Video_Download,Flight,1999,2022-08-02,46517
+249483,364.888765844039,Camera,"Fujifilm NP-50 Lithium Ion Rechargeable Battery for Fuji F60fd, F50fd & F100fd Digital Cameras - Retail Packaging",2492,2022-08-02,30680
+249484,210.90960149636751,Electronics,"ARCTIC P311 Bluetooth Stereo Headphones, Integrated Microphone, 20-Hr Playback",2401,2022-08-02,6469
+249485,189.00245779357277,Baby,"Baby Jogger 2012 City Mini Single Stroller, Sand/Stone (Discontinued by Manufacturer)",3565,2022-08-02,2099
+249486,335.17680871008235,Musical Instruments,Golden Gate F-3605 Acoustic Guitar Bridge Pins - Ebony - Set of 6,1414,2022-08-02,9030
+249487,667.789640779869,Office Products,Crazy K&A Hero 9296 Accounting Ultrafine Iridium Nib Writing Fountain Pen for Office School Black & Silver,1237,2022-08-02,35941
+249488,319.9451242672502,Mobile_Apps,Wildlife Simulator: Wolf,2423,2022-08-02,36691
+249489,578.6510009107665,Automotive,Meguiar's Wax and Polish Bundle with Microfiber Cloths Foam Pads and Compound,1222,2022-08-02,40120
+249490,236.07841651359632,Apparel,Ed Hardy Big Boys' Sleeveless Hoodie,2094,2022-08-02,20042
+249491,495.7618028580757,Musical Instruments,Slapklatz Drum Dampers - Clear,1069,2022-08-02,29808
+249492,97.85910710768283,Music,The Marshall Mathers LP,3181,2022-08-02,23397
+249493,329.0300121401633,Office Products,"Next-GEN © OEM Quality Brother TN115 Toner Cartridge Set (Black, Cyan, Yellow, and Magenta) Professionally Remanufactured - Brother DCP-9040CN, DCP-9045CDN, HL-4040CDN, HL-4040CN, HL-4070CDW, MFC-9440CN, MFC-9450CDN, MFC-9840CDW Printers",3155,2022-08-02,36800
+249494,281.21484322417024,Outdoors,Wenzel Tundra Minus 10-Degree Rectangular Hooded Sleeping Bag (Green),2222,2022-08-02,38640
+249495,925.683927416288,Apparel,Valentine's Day Heart Suspenders,2526,2022-08-02,10503
+249496,765.4174852221847,Music,Dongs of Sevotion,1294,2022-08-02,16551
+249497,147.93867335558772,Digital_Ebook_Purchase,E-Squared: Nine Do-It-Yourself Energy Experiments That Prove Your Thoughts Create Your Reality,1626,2022-08-02,8230
+249498,695.8711774721774,Camera,Tenba Shootout Mini Backpack - Olive/Black (632-501),1531,2022-08-02,34699
+249499,494.7193445021063,Mobile_Electronics,"Zone Tech Headrest 7"" LCD Car Monitors with Region Free DVD Player USB Sd Inc. Wireless Headhones and 32 Bit Games (Black, Pair)",1782,2022-08-02,17951
+249500,476.9223664160126,Grocery,The Bean Coffee Company Aloha Bean (Hawaiian Hazelnut),2721,2022-08-02,26051
+249501,596.7223866186664,Digital_Music_Purchase,Röd,1692,2022-08-02,11238
+249502,784.7781408263851,Automotive,POR-15 Cycle Tank Repair Kit,2799,2022-08-02,45743
+249503,797.5892120918356,Mobile_Apps,Angry Birds Slingshot Stella,3178,2022-08-02,38623
+249504,870.0672379184949,Digital_Music_Purchase,Bhangrafornia,1648,2022-08-02,10934
+249505,755.0317705491933,Digital_Ebook_Purchase,Hilt's Pride (The Bowl of Souls),3180,2022-08-02,46651
+249506,179.225692458884,Books,The Magicians's Ward (Mass Market),2297,2022-08-02,19058
+249507,824.8997106614204,Digital_Ebook_Purchase,The Only Genuine Jones (Tales of Ice and Iron Book 2),3278,2022-08-02,15913
+249508,410.80504435165983,Office Products,Officemate Clipboard Storage Box,1943,2022-08-02,26704
+249509,254.72062325282639,Apparel,DC Comics Wonder Woman T-Shirt With Cape And Headband Costume,3375,2022-08-02,27695
+249510,379.9197634562393,Baby,Dreambaby Swing Closed Security Gate,1499,2022-08-02,37356
+249511,640.1465955048939,Beauty,"Panasonic ES-LT71-S, Arc3 Electric Razor, Men's 3-Blade Cordless with Wet/Dry Convenience, Automatic Premium Clean & Charge Station Included",1486,2022-08-02,8543
+249512,621.1685357482096,Grocery,COMBOS Cheddar Cheese Pretzel Baked Snacks 1.8-Ounce Bag 18-Count Box (Pack of 2),3053,2022-08-02,27308
+249513,89.60936135874968,Camera,Logitech Alert 750i Indoor Master - HD-Quality Security System,2907,2022-08-02,47027
+249514,640.0154363060523,Mobile_Apps,Cat Balls [connect three or more of the same kind],3104,2022-08-02,47929
+249515,93.64494260705243,Musical Instruments,Vktech 1 Pair Classic Guitar String 3+3 Tuning Pegs Tuners Machine Head,2671,2022-08-02,8476
+249516,622.8627156405195,Digital_Music_Purchase,If You Wait,2387,2022-08-02,34334
+249517,258.86449649450265,Apparel,Secret Wishes Costume Superman Man Of Steel Secret Wishes Faora,1149,2022-08-02,4769
+249518,492.1332252146032,Mobile_Apps,ES File Explorer File Manager,3194,2022-08-02,6039
+249519,694.9448895368107,Music,Libera,1409,2022-08-02,3526
+249520,323.1157881975858,Digital_Ebook_Purchase,Indelible Love - Emily's Story (Indelible Love Series Book 1),3365,2022-08-02,49270
+249521,499.290507690631,Baby,Gerber Girls Training Pants - 2t,2114,2022-08-02,195
+249522,665.5482629499229,Books,"Samuel Yellin, Metalworker",2203,2022-08-02,34727
+249523,332.99899166865004,Major Appliances,Whirlpool Part Number 4318047: VALVE-INLT,2054,2022-08-02,48031
+249524,589.3657179891284,Apparel,DKNYC Women's Long Sleeve Colorblock Forward Seamed,2015,2022-08-02,41949
+249525,446.4302597863939,Digital_Ebook_Purchase,Monster High: Ghoulfriends Forever (Monster High Ghoulfriends Book 1),2887,2022-08-02,2569
+249526,472.1764641739337,Video DVD,Miracle on 34th Street,2560,2022-08-02,3396
+249527,991.4316470623105,Music,Hallucination Engine,1753,2022-08-02,40174
+249528,234.37014210847747,Outdoors,Coleman 20mm PVC Rain Suit,1442,2022-08-02,44145
+249529,253.98499141007898,Beauty,Caruso Molecular Steam Hairsetter,3176,2022-08-02,34749
+249530,204.49056399014154,Digital_Music_Purchase,Rorshock,3263,2022-08-02,5175
+249531,652.8180540596198,Mobile_Electronics,SQdeal® Universal Windshield Car Mount Holder Cradle for Samsung Galaxy Tab 3 10.1 inch,3613,2022-08-02,37653
+249532,280.5177983008026,Apparel,Fruit of the Loom Women's Unlined Underwire Bra(Pack of 2),1221,2022-08-02,34372
+249533,204.53580864299735,Apparel,U.S. Polo Assn. Junior's Hooded Puffer Jacket with Elastic-Waist Tabs,2826,2022-08-02,45422
+249534,117.70659856797862,Office Products,HP JetDirect 610n Print Server (J4169A),1734,2022-08-02,32257
+249535,471.77741166248893,Grocery,"Jiva Organics USDA Organic Turmeric Powder, 1 Pound",3434,2022-08-02,5908
+249536,793.0638133485353,Digital_Video_Games,Victoria II: A Heart of Darkness [Download],2969,2022-08-02,18392
+249537,192.05232443913766,Camera,NEEWER® KLIC-8000 Battery & Charger For Kodak Z / ZD Cameras Digital Cameras,2848,2022-08-02,448
+249538,215.6003412053065,Office Products,Panasonic Link2Cell Bluetooth Enabled Phone KX-TG7875S,2770,2022-08-02,23813
+249539,191.95428138419499,Mobile_Electronics,The Friendly Swede 5 x Penguin Silicone Cases Skins Covers - Hot Pink Purple Green Black Blue - Microfiber Cloth and Retail Packaging,1664,2022-08-02,47349
+249540,218.13086805694655,Beauty,"Mountain Ocean Skin Trip Moisturizer, Coconut, 8-Ounce",1412,2022-08-02,38464
+249541,947.1954273794346,Major Appliances,"Aluminum Range Hood Filter - 5-7/8"" X 7-7/8"" X 3/32"" Pull Tab, Center - Short Side",1375,2022-08-02,37686
+249542,271.4746943792008,Digital_Ebook_Purchase,Ready or Not (All-American Girl Book 2),2458,2022-08-02,27463
+249543,533.9157432388458,Digital_Software,Corel Painter 12,1788,2022-08-02,7727
+249544,43.7326593744191,Apparel,Lilyette Women's Enchantment Three-Section Unlined Minimizer Underwire Bra,3495,2022-08-02,48092
+249545,169.19777413905206,Camera,"2 Packs of High Capacity Panasonic DMW-BLC12 Replacement Lithium-Ion Battery Pack for Panasonic DMC-GH2S, DMC-GH2K With 1 Hour AC/DC Rapid Charger and Bonus Cleaning Kit",3101,2022-08-02,20921
+249546,429.01777377961884,Office Products,Background Pad,1828,2022-08-02,12381
+249547,124.37351438155294,Music,The Boss,2264,2022-08-02,774
+249548,350.0432342585579,Outdoors,Zippo Hand Warmer High Polish Chrome Pocket Lighter,2690,2022-08-02,8897
+249549,566.8915853287015,Music,Psychedelic Pill,3459,2022-08-02,40398
+249550,522.4414067347694,Camera,"52MM 0.45X Wide Angle Lens + Macro Includes LIFETIME WARRANTY, Lens Caps, Lens Bag and DavisMAX FiberCloth for Nikon D5000 D5100 D90 D3100 D300 D300s D200 D60 & More!",1959,2022-08-02,3240
+249551,246.61915671649817,Major Appliances,Bosch Nexxt 500 Plus Series : WFMC5301UC 27 Front Load Washer,2824,2022-08-02,38524
+249552,674.7577658564604,Beauty,"Philips Satinelle Essential HP6401, Compact Hair Removal Epilator",2413,2022-08-02,38945
+249553,611.3913466036863,Camera,Dropcam Wi-Fi Wireless Internet Home Security Camera,1558,2022-08-02,48722
+249554,915.1886666028162,PC,NZXT Technologies SOURCE 220 CA-SO220-01 Matt Steel Mesh Front Mid Tower Case with USB 3.0,1848,2022-08-02,2248
+249555,10.45426065814009,Mobile_Electronics,Amjimshop Hot New 2x 15 LED Soft Strip Daytime Running Driving DRL Eagle Eye Fog LED Light Lamp,1242,2022-08-02,27246
+249556,483.41558728826186,Electronics,Lorex BB4325X LorexBaby Care 'n' Share+ 4.3-Inch Video Baby Monitor and Wi-Fi,2049,2022-08-02,24318
+249557,597.9864741068766,Mobile_Electronics,Mini GPS Receiver + Location Finder with Display Screen and Keychain,3320,2022-08-02,7545
+249558,522.9117760596229,Office Products,"Parker Urban Fountain Pen, Fine Nib with Blue Ink Refill",3264,2022-08-02,2526
+249559,859.2994644814787,Outdoors,Tech4o  Accelerator Women's Fitness - Watch (Black Iris),2079,2022-08-02,4680
+249560,940.9162018878684,Books,Facts from Figures (Pelican),1920,2022-08-02,19125
+249561,530.8755756310596,Grocery,"Torani Caramel Sauce, 16.5 oz Squeeze Bottle, New Packaging",2824,2022-08-02,34411
+249562,201.311019713081,Major Appliances,SquareTrade 3-Year Large Appliance Protection Plan ($400 - 450),2580,2022-08-02,25702
+249563,414.08482429164735,Digital_Video_Download,24: Live Another Day,2707,2022-08-02,43466
+249564,868.5600472147069,Books,How the Mind Works,2051,2022-08-02,32732
+249565,599.3410925914988,PC,Red Remote Wireless Dual-Shock Game Controller Joypad for Microsoft XBox 360,3261,2022-08-02,30745
+249566,132.88122598109143,Major Appliances,Maytag : MVWB700VQ 4.7 cu. ft. Washer - White,1798,2022-08-02,58
+249567,402.0964152439803,Grocery,Nutiva Hi Fiber Hemp Protein Powder - 16 OZ,3164,2022-08-02,38437
+249568,429.052726814819,Health & Personal Care,Alligator Oven Mitt,1362,2022-08-02,49081
+249569,81.56864682021917,Camera,Vivitar UV-67 67mm Ultraviolet Lens Filter,1810,2022-08-02,186
+249570,176.31301325654536,Musical Instruments,"Taylor Guitars TS-BT, Taylor Swift Baby Taylor, 3/4 Size Dreadnought, Solid Sitka Spruce Top, Saplele Back/Sides, Natural",3180,2022-08-02,6141
+249571,355.0086142242215,Furniture,Flash Furniture Solid Kids Bean Bag Chair,2452,2022-08-02,41518
+249572,289.6776916696013,Health & Personal Care,Ecover Automatic Dishwashing Tablets,3233,2022-08-02,27145
+249573,541.9940208578373,Outdoors,Blackstone 36-Inch Commercial Griddle/Grill,1755,2022-08-02,834
+249574,614.172395790732,Books,Handling Sin,2361,2022-08-02,24808
+249575,457.4196406219166,Health & Personal Care,Energizer Cr2032 3 Volt Lithium Coin Battery,1499,2022-08-02,9500

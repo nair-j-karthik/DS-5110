@@ -1,0 +1,197 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+310320,333.28957762747785,PC,"M-Edge Universal Stealth for 7"" Devices (Purple)",2819,2023-09-20,5971
+310321,572.1191423463935,Beauty,"Cremo Shave Cream, Astonishingly Superior Shaving Cream for Men",2199,2023-09-20,21812
+310322,429.4949634543535,Music,It Feels So Good,2710,2023-09-20,39152
+310323,964.7344703186503,Major Appliances,"Keystone KSTRC26BBP Energy Star Mini-Fridge with Wipe-Off Board Front, Black with Pink Trim",2850,2023-09-20,33161
+310324,17.191937457573406,Furniture,"ACME 05855 Mode Adjustable Futon Sofa, Beige",3448,2023-09-20,16377
+310325,197.15138585241502,Office Products,"Scotch Decorative Plastic Bubble Mailer Assorted Designs Size, 12-Pack",2612,2023-09-20,15070
+310326,596.4726058899838,Major Appliances,"Electrolux EW27EW65GS Wave-Touch 27"" Stainless Steel Electric Double Wall Oven - Convection",2977,2023-09-20,19901
+310327,592.1499461494577,Grocery,Sour Punch Strawberry & Watermelon Sour Candy Bits 3.5oz Box (12 Pack),3166,2023-09-20,34599
+310328,645.6465086125246,Major Appliances,"SPT WC-31U Under-Counter 32-Bottle Wine and Beverage Cooler, Stainless Steel",3080,2023-09-20,3780
+310329,820.8404555777626,Major Appliances,Maytag MGDC200XW Centennial 7 Cu. Ft. White Gas Front Load Dryer,2437,2023-09-20,6500
+310330,497.2336113410321,Digital_Video_Games,Total War: Shogun 2,2433,2023-09-20,38163
+310331,265.91770923931756,Mobile_Apps,Eternity Warriors,1689,2023-09-20,36230
+310332,596.6954748148762,Automotive,Dodge Neon Headlights OE Style Replacement Headlamps Driver/Passenger Pair New,2418,2023-09-20,9873
+310333,985.4427412389003,Mobile_Apps,Kik Messenger,1760,2023-09-20,28652
+310334,942.8189976069352,Digital_Ebook_Purchase,The Razor's Edge (Vintage International),1052,2023-09-20,33970
+310335,100.21878650768738,PC,"Samsung Galaxy Tab 4, 10.1-Inch",1860,2023-09-20,25400
+310336,906.8967560848354,Digital_Video_Download,"Food, Inc",3388,2023-09-20,44979
+310337,934.0922789966393,Mobile_Electronics,1988-1992 Toyota Corolla Outside outer Door Handle Front Left Rear Right 4pcs,2172,2023-09-20,26384
+310338,145.88111761581345,Baby,Munchkin Sesame Street Dining Set,1992,2023-09-20,10746
+310339,131.97845419351916,Baby,Vulli 2 Pack Vanilla Flavored Ring Teether,2895,2023-09-20,8158
+310340,614.5560776889697,Camera,Canon EF 75-300mm f/4-5.6 III USM Telephoto Zoom Lens for Canon SLR Cameras,3567,2023-09-20,18997
+310341,438.19110236746144,Beauty,Philips Sonicare,3163,2023-09-20,48761
+310342,293.9618059805532,Beauty,e.l.f. Cosmetics 12 Piece Brush Set,3479,2023-09-20,12284
+310343,249.47902923572568,Gift Card,Amazon eGift Card - Merry Christmas (Santa's Cookies),1325,2023-09-20,30383
+310344,987.4190537921288,Outdoors,The Mako Group Shotgun Barrel Flashlight Mount,3034,2023-09-20,19880
+310345,437.6538478285391,PC,Simbans Ultimax 10-Inch 16 GB Tablet Bundle with Cover Case,1564,2023-09-20,48719
+310346,812.062775442429,Digital_Ebook_Purchase,The LIEography of Babe Ruth,2845,2023-09-20,36152
+310347,502.0735712894666,Mobile_Apps,Super Battle Tactics,1428,2023-09-20,12043
+310348,411.29177815972037,Outdoors,"Ventura Silver Alloy ""Ding Dong"" Bell",3596,2023-09-20,13999
+310349,402.9456976322684,Mobile_Electronics,"Perrin Performance Universal 4"" Antenna PEP-BDY-100 PEP-BDY-100",1206,2023-09-20,27207
+310350,446.2440951090539,Mobile_Apps,InkPad Notepad (for notes),3066,2023-09-20,6046
+310351,237.29164402827755,Music,Book Of Shadows,1179,2023-09-20,36067
+310352,254.81252067662618,Apparel,Private Label - Mens Long Sleeve Broadcloth Pajamas,1421,2023-09-20,37737
+310353,455.27106720440156,Books,Darth Maul: Shadow Hunter (Star Wars),2434,2023-09-20,37253
+310354,981.1963317744544,Books,Mirror,2510,2023-09-20,31078
+310355,811.6853370647573,Digital_Music_Purchase,Gabriel Bello,2955,2023-09-20,23628
+310356,157.92292320340496,Office Products,"Sparco Transparent Plastic Clipboard, Flat Clip, 9X12x7/64,",3598,2023-09-20,15870
+310357,475.76353818231456,Beauty,Full Face Forma Size Medium,1743,2023-09-20,35652
+310358,826.4191483437472,Digital_Music_Purchase,Weightless EP,1252,2023-09-20,25677
+310359,157.52588700165268,Baby,Cotton Tale Designs Nightingale Standard Lamp Shade,1725,2023-09-20,35537
+310360,519.3267931225586,Mobile_Electronics,"Docooler® Streambot Y Wireless Bluetooth FM Transmitter Radio Adapter Handsfree Car Kit with Hands-Free Calling, Music Control, and Charging Port for iPhone 5S 5 5C 4S 4 iPod, Android cell phone, MP3 Players and other devices",1961,2023-09-20,2140
+310361,569.4632794937957,Beauty,Dreamworldfashion 30cm Short Bob Straight Kanekalon Hair Party Wig Jf710 (Dark Brown),3593,2023-09-20,36882
+310362,666.5077799238034,Electronics,RCA ANT121Z Durable Passive Indoor Antenna,3270,2023-09-20,19967
+310363,217.41172464494576,Music,Dreamies,1100,2023-09-20,40669
+310364,329.44916053114,Digital_Music_Purchase,Dragon Age: Origins,2824,2023-09-20,14686
+310365,935.2161895074754,Apparel,Russell Athletic Men's Basic Cotton Muscle T-Shirt,1713,2023-09-20,26536
+310366,815.8514921498752,Mobile_Apps,Can You Escape 3,1768,2023-09-20,28965
+310367,467.16050924356927,Digital_Music_Purchase,"Ground Zero, Episode 1: 12/26/2009",1919,2023-09-20,43486
+310368,634.3288474220032,Books,Moon Handbooks Havana (Moon Michigan's Upper Peninsula),2625,2023-09-20,26702
+310369,914.7922991333329,Outdoors,Rollerblade Bladerunner Men's Fury Aggressive Skate,1862,2023-09-20,23565
+310370,313.00400616130605,Electronics,"SONY 211566803 SONY Original Earpads Replacement for headset, Compatible with Sony MDR-7506, MDR-V6, MDR-CD900ST. (Packaged 1 pair (2 pieces)",3595,2023-09-20,21921
+310371,622.8026865805878,Mobile_Electronics,Car Vent Mount for Magellan Maestro 3100 3140 3200 3210 3220 3250 4000 4040 4050 4200 4210 4220 4250 RoadMate 1200 2000 2200T Crossover 3000T 2050T 6000T 360 760 800 860T GPS,2330,2023-09-20,29503
+310372,340.4042664342128,Baby,UPPAbaby BabyGanossh Footmuff with Primaloft (Discontinued by Manufacturer),2979,2023-09-20,29757
+310373,491.11989437274536,Outdoors,JanSport Big Student Classics Series Daypack (Romance Red Twlight),2449,2023-09-20,24251
+310374,376.95237074200065,Major Appliances,"Air King Designer Series Under Cabinet Range Hood, 30 Inch Wide",2629,2023-09-20,20847
+310375,985.2534627372914,Furniture,Crown Mark Pierce Side Table,3110,2023-09-20,997
+310376,817.1357829885463,Furniture,Kaleen MAT01 Matira Indoor / Outdoor Rug,3020,2023-09-20,8383
+310377,429.7349535056152,Musical Instruments,"Latin Percussion LPA646 Aspire 10"" & 11"" Wood Conga Set-Double Stand",2777,2023-09-20,11267
+310378,34.04373325210495,Grocery,Fray Bentos Steak & Kidney Pie (213g),2740,2023-09-20,10595
+310379,38.79673636129366,PC,Mosiso Chevron Style Canvas Fabric Laptop Briefcase Handbag Carrying Case Cover,2046,2023-09-20,12875
+310380,792.7260233604874,Digital_Ebook_Purchase,The Secret Zoo,1137,2023-09-20,38068
+310381,90.9739629374636,Electronics,Professional DVD/CD Disc Cleaner and Reconditioner - Cleans Blu-Ray Discs,2208,2023-09-20,16834
+310382,984.478727516887,Digital_Music_Purchase,On Lighter and Darker Matters,2858,2023-09-20,6680
+310383,231.20329308980098,Automotive,"StrongArm 4699 Liftgate / Hatch Lift Support, Pack of 1",2939,2023-09-20,1600
+310384,905.0665627810732,Major Appliances,WB48K5019 WB48T10095 GE Hotpoint Kenmore Oven Rack,1275,2023-09-20,48334
+310385,418.6891315403974,Musical Instruments,"Pickboy Pos-a-Grip, Blue, Meta Carbonate, 1.00mm, 10 picks",1631,2023-09-20,17791
+310386,454.1460675446775,Digital_Software,Adobe Illustrator CC,3531,2023-09-20,47697
+310387,818.3194471025508,Baby,"HALO Sleepsack 100% Cotton Wearable Blanket, Pink Graphic Flower, Medium (Discontinued by Manufacturer)",2474,2023-09-20,36963
+310388,424.38483352924766,Camera,Canon SX30IS 14.1MP Digital Camera with 35x Wide Angle Optical Image Stabilized Zoom and 2.7 Inch Wide LCD (OLD MODEL),2861,2023-09-20,44274
+310389,31.802635111264102,PC,Belkin Pro Series USB 2.0 Extension Cable,2615,2023-09-20,41676
+310390,379.1955890572419,Digital_Ebook_Purchase,Stuka Pilot,3484,2023-09-20,40898
+310391,109.99190600330475,Digital_Video_Download,Yoga for Spinal Problems,1374,2023-09-20,38889
+310392,911.7707648929963,PC,Screen Protector Kit (3-Pack) for Kindle Fire HD 7 (4th Generation),2932,2023-09-20,26068
+310393,19.0730080510145,Baby,Kipling New Large Baby Bag with Changing Mat TM2406 - True blue,1838,2023-09-20,150
+310394,941.668733262182,Automotive,Hopkins Subzero 16621 Ice Crusher Ice Scraper (Colors May Vary),1762,2023-09-20,34075
+310395,489.1758206176215,Health & Personal Care,"Mueller Ice Bag, Blue, 9 Inch",1249,2023-09-20,41058
+310396,186.64858663824944,Digital_Video_Games,SEGA Genesis Classics Series 2 [Download],1597,2023-09-20,9775
+310397,93.25019895478383,Health & Personal Care,"Nature Made Triple Probiotic, 30-Count",3340,2023-09-20,27726
+310398,794.6205915960322,Apparel,MBJ Womens Sleeveless Comfy Tunic Tank Top with Various Hem - Made in USA,2655,2023-09-20,48415
+310399,931.7998237789018,Musical Instruments,Danelectro D-5 Fab Chorus Effects Pedal,2798,2023-09-20,30428
+310400,965.7960827296149,Apparel,Metal Lapel Pin - National Football League - NFL Pin - Seattle Seahawks Star Logo,1164,2023-09-20,46182
+310401,37.70774248137873,Mobile_Electronics,Ibrightspot 8gb(4th Gen) Pink 1.7'' Screen Mp4/mp3 Player Media/music/audio Player with Fm Radio,3514,2023-09-20,20168
+310402,666.3176374205029,Digital_Software,Envelope Printer [Download],1232,2023-09-20,30350
+310403,138.46609580802902,Automotive,Battery Tender Waterproof 800 Charger,2055,2023-09-20,6842
+310404,335.36568292075816,Health & Personal Care,Core Products CorPak Soft Comfort Hot & Cold Therapy Pack - Made in the USA,1578,2023-09-20,47302
+310405,274.4414705726486,Major Appliances,EdgeStar 1.1 Cu. Ft. Stainless Steel Freezer w/ Lock - Stainless Steel,3555,2023-09-20,5019
+310406,158.36041406574364,Electronics,Panlong Optical SPDIF Toslink/ Coaxial Digital to Analog Audio Decoder Converter with PCM,2275,2023-09-20,41058
+310407,645.7635612346966,Office Products,"SophiaGlobal Compatible Ink Cartridge Replacement for Canon PGI-5 and CLI-8 (3 Large Black, 3 Small Black, 3 Cyan, 3 Magenta, and 3 Yellow)",1497,2023-09-20,43893
+310408,250.7332148480244,Outdoors,High Sierra Export Wheeled Travel Pack,1061,2023-09-20,31027
+310409,44.29465242078501,Health & Personal Care,Healthy Care Siemens Lotus Touching High Performance Hearing Personal Sound Amplifier (Automatic Microphone Noise Reduction),3526,2023-09-20,2130
+310410,476.90796884852824,Books,"The Death of Innocents: A True Story of Murder, Medicine, and High-Stake Science",2116,2023-09-20,43175
+310411,309.84126952571177,Beauty,Eyelash Extensions Wink Me Collagen Anti-wrinkle Eye Pads Patches QTY 100 Pairs,1451,2023-09-20,23267
+310412,603.7586488541558,Baby,"Gerber Prefold Birdseye Diaper,White",2195,2023-09-20,10582
+310413,447.1836291971642,Electronics,Battery Chargers,2291,2023-09-20,27289
+310414,172.8712499591733,Electronics,Grado PH-1 Phono Stage,1893,2023-09-20,48671
+310415,113.11396172596825,Outdoors,Avenir Flower Bike Basket,1208,2023-09-20,21737
+310416,67.19146946362028,Books,Enemies of Hope: A Critique of Contemporary Pessimism,2670,2023-09-20,43755
+310417,216.50345692231815,Office Products,CL82401 na 4-Handset Landline Telephone,1877,2023-09-20,10011
+310418,958.870746855257,Automotive,Lisle 52750 Stethoscope Kit,3271,2023-09-20,13611
+310419,908.4370946210815,Musical Instruments,Lyons Recorder Cleaning Rod,1170,2023-09-20,18713
+310420,15.979637924989174,Baby,Motorola MBP33 Wireless Video Baby Monitor with Infrared Night Vision and Zoom …,1183,2023-09-20,20579
+310421,848.3786211976702,Health & Personal Care,"Cyclone Cup Shaker, White",3024,2023-09-20,21901
+310422,240.00504741827487,Office Products,"Dri-Mark Smart Money Counterfeit Bill Detector Pen for Use with U.S. Currency, Black/Dark Brown (351B1)",2759,2023-09-20,20191
+310423,380.7308568616163,Books,Midnight Salvage: Poems 1995-1998,3470,2023-09-20,10063
+310424,616.4525480016566,Major Appliances,"Kitchenaid KSC24C8EYP 35 1/2-Inch, 24 Cu. Ft. Counter-Depth Side-by-Side Refrigerator",1605,2023-09-20,45962
+310425,108.07725377464426,Electronics,Kaito T-1 Radio antenna,2765,2023-09-20,9186
+310426,991.1198046314249,Mobile_Electronics,BBTbox ® 10mm 40 Pcs sets Push-type Nylon Bumper Fender Flare Fastener Rivet Clips 91503-SZ3-003 For Honda Accord Civic CR-V CRX Del Sol Element Fit Insight Odyssey Pilot Prelude Ridgeline S2000 Acura CL Integra MDX RDX RL RSX TL TSX,2124,2023-09-20,43730
+310427,532.838188936599,Apparel,DKNYC Women's Faux Leather Calf Insert,1460,2023-09-20,32827
+310428,821.2176715427842,Musical Instruments,Manhasset Model #48 Sheet Music Stand Packs,2047,2023-09-20,40897
+310429,643.8094811369067,Mobile_Electronics,Black n White Skulls Design Crystal Hard Skin Case Cover for Apple Ipod Touch iTouch 4th Generation Gen 4g 4 8gb 32gb 64gb,3232,2023-09-20,24313
+310430,893.9176085897514,Digital_Software,FileCenter Standard 7 for 1 PC [Download],1789,2023-09-20,20199
+310431,756.2010637552005,Digital_Video_Games,100% Hidden Objects,3470,2023-09-20,35493
+310432,671.2713351564435,Camera,Neewer 5 Lens Cap Leash Lens Cap Holder/Safety Cord For Sony Canon Nikon Olympus Pentax Lens Cap,1327,2023-09-20,16347
+310433,484.5947084670138,Grocery,"Tea Forté SINGLE STEEPS Loose Leaf Tea Sampler, Assorted Variety Tea Box, 15 Single Serve Pouches",1262,2023-09-20,11326
+310434,247.8998165922069,Electronics,Noontec ZORO Professional Steel Reinforced SCCB Sound Technology Headphones,1375,2023-09-20,17296
+310435,150.91478832082322,Grocery,"Hime Dried Udon Noodles, 28.21-Ounce",1103,2023-09-20,6224
+310436,233.3938973698392,Furniture,"Simpli Home Warm Shaker TV Media Stand for TVs up to 52""",3343,2023-09-20,17414
+310437,999.087255212694,Health & Personal Care,"Sunbeam King-Size Microplush/SoftTouch Heating Pad,  4 Temperature Settings with Digital LED Controller, 2-Hour Auto Shut-Off, Machine Washable, 12'' x 24''",3408,2023-09-20,46449
+310438,149.14501210817437,Health & Personal Care,"The Roots Naturelle Virgin Hair Fertilizer Conditioning Treatment - Helps Strengthen Hair, Promote Rapid Hair Growth and Protect/ Restore Damaged Hair",2807,2023-09-20,30553
+310439,801.4342970001384,PC,HP 15-p030nr 15.6-Inch Special Edition Laptop with Beats Audio (Red),2283,2023-09-20,16854
+310440,267.1911881130877,Apparel,Bamboo Cay Bamboo - Black Hawaiian Shirt,2742,2023-09-20,533
+310441,979.6909831768053,Digital_Music_Purchase,Hidden Away,2007,2023-09-20,20927
+310442,54.01328707006913,Outdoors,"DAKINE Men's Pipe Board Bag,165cm",1341,2023-09-20,32242
+310443,118.085222428191,Camera,Sony HVLF20AM TTL Digital Flash for Sony Alpha Digital SLR Cameras,2238,2023-09-20,16132
+310444,56.881664849043375,Digital_Video_Games,Making History: The Calm and the Storm [Download],1207,2023-09-20,11745
+310445,715.0399140928545,Digital_Music_Purchase,Qu,3320,2023-09-20,445
+310446,826.744328153407,Apparel,RVCA Men's BJ Hood Sweatshirt,2273,2023-09-20,9302
+310447,944.5069541784385,Mobile_Apps,The Room Two (Kindle Tablet Edition),1785,2023-09-20,19271
+310448,135.01816728840845,Beauty,"Intimately Beckham By Beckham For Women Eau De Toilette Spray, 2.5-Ounces",2070,2023-09-20,1956
+310449,660.5298191474737,Apparel,Dickie's Men's Short Sleeve Heavyweight Crew Neck,1318,2023-09-20,33735
+310450,964.9229951163157,Mobile_Apps,Bingo,1808,2023-09-20,11945
+310451,985.0704799952553,Digital_Ebook_Purchase,The Name of the Wind (The Kingkiller Chronicle Book 1),1171,2023-09-20,44541
+310452,409.59262986391417,Digital_Ebook_Purchase,The Tegen Cave,1272,2023-09-20,6380
+310453,128.5681578737427,Digital_Video_Games,Fable: The Lost Chapters [Online Game Code],3257,2023-09-20,6553
+310454,20.130134825891616,Baby,"Hot Pink and Lime Green Modern Circles and Dots Tote Handbag (Great for Diaper Bag, Tote Bag, Purse or Beach Bag)",2178,2023-09-20,30128
+310455,304.7158483624045,Electronics,"QualGear QG-TM-001 37-Inch to 70-Inch Universal Ultra Slim Low Profile Picture Hanging Style Wire Rope Wall Mount LED TVs, Stainless Steel",1866,2023-09-20,47136
+310456,238.64673060856938,Camera,"PANASONIC LUMIX G LENS, 25MM, F1.7 ASPH., MIRRORLESS MICRO FOUR THIRDS, H-H025K (USA BLACK)",1508,2023-09-20,13451
+310457,880.6022058705778,PC,Kinobo Wireless Slimline USB Mouse For Laptops/Desktop PC XP/Vista/Windows 7 (green detail),1763,2023-09-20,38631
+310458,679.5954566208953,Mobile_Electronics,"Bundle Monster Barnes & Noble Nook Color (NookColor) Synthetic Leather Opening Case Cover Jacket with Interior Compartments - Purple - Fits both Nook Color and Nook Tablet (Released Nov. 7, 2011) Devices",1887,2023-09-20,3921
+310459,761.9903913671142,Music,From the Cradle to Enslave,1331,2023-09-20,16921
+310460,627.0890761473539,Books,The Maze Runner (Book 1),2771,2023-09-20,1602
+310461,443.5332904584561,Books,I Kissed Dating Goodbye: A New Attitude Toward Relationships and Romance,3081,2023-09-20,40421
+310462,823.2088140504617,Musical Instruments,BQLZR 1 Pair Jazz Drum Brushes Retractable Drum Sticks 32cm,1496,2023-09-20,11307
+310463,103.12652521992763,Camera,Swann Sw211-Cdp Digital Privateeye Clock With Hidden Camera (Obs Systems/Home Security / Specialty Cameras),1070,2023-09-20,6906
+310464,993.3361447593142,Music,Riverside,3438,2023-09-20,45615
+310465,46.68709126921072,Electronics,Sangean RCR-5 Digital AM/FM Clock Radio,3121,2023-09-20,49213
+310466,206.9948663091383,Musical Instruments,Remo,1862,2023-09-20,27409
+310467,25.877386300019012,Grocery,"Athena Brands Vitaminfizz Sparkling Water, Strawberry Leomonade, 15 Pound (Pack of 12)",2890,2023-09-20,28973
+310468,142.22550435061655,Apparel,Forum Patriotic Party Uncle Sam Costume,3524,2023-09-20,4437
+310469,445.4299648723829,Mobile_Apps,Genius Scan+,2572,2023-09-20,20530
+310470,815.7242599213168,Digital_Video_Games,Demon's Souls,2924,2023-09-20,39416
+310471,775.4129366066796,Automotive,Dowco Guardian Scooter Cover,2819,2023-09-20,41435
+310472,101.30662212797688,Baby,Chicco 360 Degree Rotating Hook On Chair,1949,2023-09-20,43995
+310473,506.2003160091653,Grocery,World Confections Cigarettes,2755,2023-09-20,12091
+310474,18.804091482653064,Digital_Ebook_Purchase,The Imaginary Friend,2124,2023-09-20,23498
+310475,938.8419509953527,PC,Sabrent USB 3.0 TO SATA/SATA II Aluminum Hard Drive Enclosure with cooling fan (EC-7F83),1446,2023-09-20,44215
+310476,343.37686993317334,Books,Whites,1793,2023-09-20,24093
+310477,643.6902735427861,Baby,Graco Spree Travel System Stroller/Car Seat - Bluegrass,3454,2023-09-20,27442
+310478,648.2991669956356,Automotive,Nissan 350Z Stamped High Quality Chrome Plating Cast Zinc License Plate Frame,3087,2023-09-20,25529
+310479,997.1226642116285,Major Appliances,WQA Certified -Samsung DA29-00003G Refrigerator Water Filter Replacement SGF-DSB30 Swift Green Filters-2 Pack,1254,2023-09-20,10415
+310480,78.90599159631478,Digital_Video_Download,Hachi: A Dog's Tale,1952,2023-09-20,4293
+310481,386.43279379269524,Music,Jim Peterik & World Stage,3255,2023-09-20,11854
+310482,116.28716055131223,Music,Where Beauty Moves and Wit Delights,1003,2023-09-20,4783
+310483,887.4520138966445,Health & Personal Care,"#1 Booster Supplement – Enhance Stamina, Strength, Energy & Muscle Mass - RUSH by Neovicta - Powerful All Natural Support - 60 Count - Money Back Guarantee",2502,2023-09-20,27166
+310484,650.0213861571888,Automotive,Dorman 923-011 Tail Lamp Circuit Board,2798,2023-09-20,39015
+310485,435.6822416138654,Electronics,Belkin Fusive Portable Bluetooth Speaker,1415,2023-09-20,15845
+310486,570.4886968226441,Automotive,Motorcraft DY1123 Speed Sensor,2518,2023-09-20,39812
+310487,122.01790121224747,Beauty,Mary Kay Creme Lipstick ~ Tanned,3165,2023-09-20,26552
+310488,938.8923199851148,Digital_Video_Download,The Theory of Everything,2244,2023-09-20,34295
+310489,205.7946546121539,Digital_Video_Games,Borderlands The Pre Sequel Season Pass,3112,2023-09-20,45157
+310490,152.94029540100826,Major Appliances,"Bertazzoni MAS365DFMXE Master 36"" Stainless Steel Dual Fuel Sealed Burner Range - Convection",1370,2023-09-20,38251
+310491,212.71309790800873,Furniture,"Homelegance 9636CC-2 Laurelton Textured Plush Microfiber Dual Glider Recliner Love Seat with Console, Gray",1887,2023-09-20,46076
+310492,469.7048799960422,Digital_Ebook_Purchase,Dreams from My Father: A Story of Race and Inheritance,3362,2023-09-20,12973
+310493,438.4062696104773,Apparel,Kenmont Summer Women Dots Sun Uv Protection Outdoor 100% Cotton Driving Gloves,1403,2023-09-20,3099
+310494,530.6104016496238,Digital_Video_Games,Hotel Mahjong Deluxe [Download],3175,2023-09-20,46970
+310495,601.9225915877089,Baby,Ergo Baby BCII2EPNL Bundle of Joy Original Carrier and Insert in Galaxy Grey with LED Safety Reflector Light,2116,2023-09-20,15087
+310496,942.5591375734905,Major Appliances,Frigidaire FRIGIDAIRE 240337103 Refrigerator Crisper Drawer,1160,2023-09-20,43502
+310497,347.8483676138129,Music,Cruel Summer,1660,2023-09-20,36605
+310498,45.10573651140194,Furniture,Dorel Home Products Junior Loft Bunk,1275,2023-09-20,48446
+310499,836.9612855703389,Digital_Music_Purchase,For the First Time [Explicit],1878,2023-09-20,33014
+310500,59.15357952646024,Mobile_Electronics,Lightning Power Cable Extra Long 10 ft wth AC Charger Cube Pack of 2,1806,2023-09-20,47861
+310501,811.4828166219144,Apparel,LRG Men's Acidic T-Shirt,3170,2023-09-20,44237
+310502,696.808453651149,Outdoors,"Coleman Double-High Wrap 'N' Roll Quickbed, Queen",3264,2023-09-20,24661
+310503,388.9099133407497,Musical Instruments,Music Ossia Staff Rubber Stamp,2230,2023-09-20,36439
+310504,139.0845356666368,Grocery,9GreenBox - Money Tree Bonsai with Ceramic Pot,2756,2023-09-20,36798
+310505,494.2698257545894,Beauty,"RoC Deep Wrinkle Serum, 1 Ounce",2473,2023-09-20,36543
+310506,900.8225292500448,Baby,"Natursutten BPA Free Natural Rubber Pacifier, Butterfly Shield, Orthodontic nipple",3265,2023-09-20,21959
+310507,172.5947128662346,Books,"Expecting Adam: A True Story of Birth, Rebirth, and Everyday Magic",1572,2023-09-20,32644
+310508,967.5489991212322,Digital_Music_Purchase,If You Could See Me Know,2657,2023-09-20,11904
+310509,481.91620891532386,Electronics,Cable Matters Micro USB to HDMI Cable for Samsung Galaxy S3/S4 & Note 2 with Built-in USB Cable in Black 6 Feet,1714,2023-09-20,17057
+310510,906.1913045903807,Mobile_Apps,Sniper Shooting,1037,2023-09-20,38118
+310511,471.85048175025025,Major Appliances,Sunpentown WC-20TL ThermoElectric with Touch Sensitive Controls 20-Bottle Wine Cooler,1163,2023-09-20,39787
+310512,624.2704292756122,Apparel,Hammer Anvil RFID Blocking Minimalist Genuine Leather Slim Front Pocket Wallet,2683,2023-09-20,46683
+310513,283.24125418601994,Gift Card,Amazon eGift Card - Seasonal (Celebrate Fall),1038,2023-09-20,47363
+310514,939.4084975632641,Apparel,Sakkas Zayna Embroidered Caftan Dress,3442,2023-09-20,3321
+310515,132.13338756635346,Digital_Music_Purchase,The Way I Am,2414,2023-09-20,35646

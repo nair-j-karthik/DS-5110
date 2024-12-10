@@ -1,0 +1,101 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+113146,45.08321102561034,Major Appliances,"Whirlpool Part Number 9750213: Element, Bake",1851,2020-02-06,10418
+113147,978.4979332172339,PC,"AVANTEK Laptop Cooling Pad with 6 Speed-Adjustable Fans, Ultra Slim Notebook Cooler, Quiet Chill Mat for 9'' - 16'' Laptops, 2 USB Ports for both Data and Charging",3177,2020-02-06,37539
+113148,518.8427326617082,Automotive,UWS TBC48W Chest Box,1538,2020-02-06,32346
+113149,421.7206874166652,Automotive,Q Industries MF-1035 Santa Ana Portable High Volume 12V Air Compressor,2059,2020-02-06,3597
+113150,163.55030857775466,Musical Instruments,Phantom YoYo PCM2704 USB DAC USB Power Fiber Optic Coaxial Analog Output sz-11 Raspberry Windows 7 Pi Need No Driver,2822,2020-02-06,48734
+113151,502.2657376365605,Books,News Values: Ideas for an Information Age,1388,2020-02-06,40710
+113152,151.34740888479328,Grocery,"Bit-O-Honey Candy, 16 Oz",3031,2020-02-06,32281
+113153,282.25584966740644,Grocery,Bumble Bee Sensations Seasoned Tuna Medley,2604,2020-02-06,21696
+113154,441.34524272340144,Digital_Ebook_Purchase,Scotsmen Prefer Blondes (Muses of Mayfair Book 2),3389,2020-02-06,36612
+113155,877.4492866850758,Health & Personal Care,Kirkland Signature Extra Strength Glucosamine 1500mg/Chondroitin 1200mg,1354,2020-02-06,17986
+113156,237.21433053744514,Major Appliances,Frigidaire WF1CB Compatible Refrigerator Replacement Water Filter,3492,2020-02-06,46879
+113157,895.1657620691739,Automotive,Autel MaxiScan MS300 CAN Diagnostic Scan Tool for OBDII Vehicles,2568,2020-02-06,27324
+113158,949.4070004829862,Furniture,Napa Bathroom Space Saver - Oil Rubbed Bronze Finish,2749,2020-02-06,24782
+113159,205.55855580056965,Digital_Music_Purchase,Motown Songbook,1940,2020-02-06,34473
+113160,80.74422572749383,Office Products,Fenzer Rechargeable Cordless Phone Battery for Uniden BT-800 BT800 Cordless Telephone Battery Replacement Pack,1694,2020-02-06,32048
+113161,414.5509820121393,Digital_Ebook_Purchase,A Dollar Outta Fifteen Cent,3349,2020-02-06,45181
+113162,416.5637961473943,Musical Instruments,Merano MC100PS 4/4 Full Size Student Cello Bag and Bow with 2 Sets Of Strings and Cello Stand,1135,2020-02-06,13450
+113163,551.3260218524588,Health & Personal Care,"Icy Hot Extra Strength Medicated Patch, 5 Count",1420,2020-02-06,36567
+113164,893.0488499375183,Digital_Ebook_Purchase,Amelia's Destiny: Finding my way (Amelia Series Book 2),3217,2020-02-06,32041
+113165,247.7521048785212,Electronics,AmazonBasics High Speed HDMI Cable,2818,2020-02-06,5403
+113166,528.9153149057107,Beauty,Baby Phat Luv Me Ladies - Edt Spray,1951,2020-02-06,42252
+113167,658.3888435330952,Grocery,"Pistachio Extract, Natural Flavor Blend - 4 Ounce Bottle",1409,2020-02-06,260
+113168,649.3401086126672,Camera,Fujifilm FinePix J40 12.2 MP Digital Camera with 3x Optical Zoom and 3-Inch LCD (Includes 2 GB SD Memory Card),2420,2020-02-06,48520
+113169,340.53473587536183,Beauty,Dual Identity Wet/Dry Cream,2435,2020-02-06,33421
+113170,432.44951844264665,Outdoors,Park Tool PW-3 Pedal Wrench (15mm and 9/16 - Inch),3272,2020-02-06,3551
+113171,840.9215209114939,Digital_Video_Download,Funeral Home (1980),3312,2020-02-06,49579
+113172,809.2199801561865,Outdoors,Columbia Men's Portage Glacier Down Jacket,1381,2020-02-06,7993
+113173,478.04858597465596,Electronics,Belkin PureAV S-Video Cable,2377,2020-02-06,8060
+113174,264.9533329852436,PC,"mCover Hard Shell Cover Case for HP Pavilion 14"" DM4 1xxx / 2xxx series (DM4 / DM4t) Laptop - RED",1115,2020-02-06,23571
+113175,130.3828960852537,Grocery,Lindt Swiss Bar,3404,2020-02-06,5772
+113176,270.6540471897036,Apparel,Soyagift Ladies Headwear Pineapple pattern Wide Rim Flat top fishing Bucket Hat,1896,2020-02-06,11997
+113177,94.11658167533808,Digital_Ebook_Purchase,Proof of Heaven: A Neurosurgeon's Journey into the Afterlife,1313,2020-02-06,40509
+113178,306.09468013265484,Furniture,SEI Hand-Carved Secretary Desk,1362,2020-02-06,13568
+113179,961.0350468861641,Furniture,Nexera Pinnacle 56 in TV Console,3109,2020-02-06,34577
+113180,794.1271819169447,Digital_Ebook_Purchase,A Lady in Defiance: A Christian Historical Western Romance Set in Colorado (Romance in the Rockies Book 1),1501,2020-02-06,36726
+113181,910.2924701854505,Electronics,Klipsch In-Ear Headphones,3221,2020-02-06,3247
+113182,333.98578722467823,Digital_Video_Games,Freyja's Bundle [Online Game Code],2427,2020-02-06,4
+113183,303.2977074189571,Camera,Lorex Wireless System,1516,2020-02-06,34562
+113184,846.9573745693507,Beauty,Eveline Cosmetics 24K Gold & Diamonds Luxury Rejuvenating Mask,2034,2020-02-06,28819
+113185,617.7408683038559,Electronics,"BIC America HT8W 8-Inch 3-Way Acoustech Series In-Wall Speakers, 1 Pair",2053,2020-02-06,11191
+113186,581.915055457122,Furniture,Acme Furniture Drake Dining Side Chairs - Set of 2,3539,2020-02-06,31237
+113187,776.3737716318631,Automotive,Silblade Premium Black Silicone Wiper Blade,1617,2020-02-06,4253
+113188,656.7235312724835,Books,Elementary Introduction to Number Theory,1203,2020-02-06,38697
+113189,949.9200572860748,Mobile_Apps,WWE,2013,2020-02-06,47798
+113190,271.82864073181094,Automotive,Flowmaster 17475 Cat-back System - Dual Rear/Side Exit - Force II - Mild Sound,2979,2020-02-06,21604
+113191,446.7891386030306,Health & Personal Care,72 Thank You Cards - Simple Thank You - Blank Cards - Gray Envelopes Included,1350,2020-02-06,15127
+113192,240.05450452363525,Digital_Video_Download,The Killing Season 1,1535,2020-02-06,1847
+113193,757.134937169672,PC,Hp Elitebook 8440p Laptop Notebook Computer - Core I5 2.4ghz - 4gb Ddr3 - 250gb HDD – Dvdrw – Windows Home Premium,3178,2020-02-06,36611
+113194,876.2969465780634,Office Products,Alvin DM07 Draft-Matic Mechanical Pencil 0.7mm,1023,2020-02-06,20857
+113195,720.4901762740653,Outdoors,X-Treme X-360 Electric Scooter 350 Watts,3189,2020-02-06,10752
+113196,449.17385366649734,Health & Personal Care,"ORGANIC SUPER GREENS Powder | Raw Green Smoothie Superfood Drink Mix - Boost Energy & Vitality, Abundant Vitamins, Minerals, Antioxidants, Pleasant Taste, Non-GMO, Vegan Supplement, 38 Servings",3369,2020-02-06,49714
+113197,357.451355855074,Gift Card,Amazon eGift Card - Happy Birthday (Español),2865,2020-02-06,24096
+113198,69.15596477388229,Books,Have A Nice Day: A Tale of Blood and Sweatsocks,1302,2020-02-06,21142
+113199,31.44766413621528,Mobile_Electronics,iPad Car Headrest Mount Holder for iPad 2/ iPad 3/ iPad 4 with Long Mounting Strap,2545,2020-02-06,32764
+113200,849.0768720505736,Digital_Video_Games,Sid Meier's Civilization V: Brave New World,2460,2020-02-06,7685
+113201,724.180404490441,Office Products,Aluminum Aluma Hard Case Credit Cards Wallet (Assorted 6 Pack),1131,2020-02-06,20763
+113202,850.2536915278959,Furniture,"Convenience Concepts American Heritage Flip Top End Table, Black",2863,2020-02-06,36798
+113203,207.18753015732344,Digital_Video_Download,Vikings Season 1,2043,2020-02-06,32042
+113204,736.404042008965,Automotive,Coverking Custom Fit Car Cover for Select Mercedes-Benz Models - Stormproof,1169,2020-02-06,21852
+113205,292.5062432086985,Health & Personal Care,Wowlife SUPER LONG STRONG sex stimulator Blue Glass Dotted Dildo Dilddo Anal Plug for Women Crystal Masturbator for Moman Glass Pleasure Wand Double Head Design for G-spot Stimulation,1678,2020-02-06,5755
+113206,24.23927051797604,Baby,Cloud B Tranquil,3270,2020-02-06,35539
+113207,33.47136502835001,Office Products,"ADVANTUS Grip-A-Strip Display Rail, Small Note Holder, 6 Inches Long, Satin Finish Aluminum (1005)",2175,2020-02-06,28860
+113208,112.37378563179983,Apparel,Lovaru women's 2014 New style Spaghetti Strap Backless Fashion One-piece Dress,1499,2020-02-06,2018
+113209,474.607768019132,Digital_Music_Purchase,Spanish & English Sing and Learn,2817,2020-02-06,45698
+113210,29.38633138514248,Music,I Love to Sing the Songs I Sing,2005,2020-02-06,13480
+113211,890.9302687394626,Camera,"FAUX Leather Camera Case For Sony NEX-5 E 18-55mm or F3,5-5,6 (DarkBrown)",2192,2020-02-06,23282
+113212,985.2574144206984,Digital_Video_Download,The Incredibles,1263,2020-02-06,46898
+113213,412.8869451160485,Baby,"Angelcare Baby Movement and Sound Monitor Deluxe Plus, Blue (Discontinued by Manufacturer)",1844,2020-02-06,2234
+113214,656.4890458940093,Beauty,Revlon - The Spotlight LED Slanted Tweezers (colors will vary),1150,2020-02-06,38913
+113215,21.572521816205747,Grocery,Virgil's Rootbeer 12pack,2823,2020-02-06,729
+113216,950.9658205210488,Furniture,Rubber Collection Circles Brown Printed Slip Resistant Rubber Back Latex Contemporary Modern Area Rugs and Runners (1008),3116,2020-02-06,36665
+113217,341.48651105335273,Books,I'm Three Years Old,3052,2020-02-06,19287
+113218,41.357674872892915,Office Products,Texas Instruments BA II Plus Financial Calculator,1899,2020-02-06,31705
+113219,481.0323302141265,Digital_Software,Chief Architect Premier X6 Student PC Version  [Download],1200,2020-02-06,22996
+113220,383.5569937665636,Grocery,"Green Mountain Coffee Decaf Hazelnut, 24-Count K-Cups for Keurig Brewers (Pack of 2)",1537,2020-02-06,4393
+113221,346.400732496938,Beauty,Fusion Beauty Define Lip Fusion Micro-Injected Collagen Lip Plumping Pencil Pout,3165,2020-02-06,15491
+113222,20.227600149738798,Mobile_Apps,You Must Escape,3543,2020-02-06,36023
+113223,958.4656705788768,Apparel,Poetic Justice Curvy Women's Elastic Waistband Basic Legging Green Black Grey,1538,2020-02-06,48126
+113224,306.8741577153167,Baby,Newco International Grand Ottoman,3283,2020-02-06,44469
+113225,564.1663563839177,Automotive,"NGK (2262) ZFR5F-11 V-Power Spark Plug, Pack of 1",2549,2020-02-06,9319
+113226,561.5169982978073,Beauty,Sodynee Nail Polish Wall Rack Holds 96 Bottles,3298,2020-02-06,16734
+113227,190.44487381136713,Music,A Taste of Asia,2659,2020-02-06,47249
+113228,363.1276978577861,Music,"Nothin' but Blues, Vol. 2",2081,2020-02-06,14947
+113229,897.534003096444,Digital_Video_Games,Tales From The Borderlands - Season Pass - PS4 [Digital Code],2526,2020-02-06,40208
+113230,135.55533992907405,Digital_Ebook_Purchase,"A Game of Thrones 4-Book Bundle: A Song of Ice and Fire Series: A Game of Thrones, A Clash of Kings, A Storm of Swords, and A Feast for Crows",1228,2020-02-06,49156
+113231,240.64630646687084,Mobile_Apps,New Free Hidden Object Game - Super Market - Find 400 new hidden objects in this free hidden object game,2435,2020-02-06,4290
+113232,745.8439552746787,Electronics,Bluecell Protection Carrying Full Sized Headphone Case Hard Case/Bag for Sennheiser Monster Dr Dre Beats Solo/Studio Headphone,3447,2020-02-06,42313
+113233,726.9382998291167,Digital_Music_Purchase,Army Of Love (Remixes Pt. 2),2690,2020-02-06,1385
+113234,713.7731466755415,PC,"ColorYourLife Bundle of Canvas Fabric Tablet laptop Sleeve Case Bag for iPad Air 2 iPad Air / 9 inch Barnes & Noble NOOK HD+ / Tablet / Notebook with 2 Stylus Pens and Microfiber Cleaning Cloths (Colorful Bohemian pattern, 9.5 inch)",3482,2020-02-06,19775
+113235,960.8981360913418,Camera,Foscam Pan And Tilt Wireless IP Camera with 9bdi antennas Black 3 pack - FI8918W,1251,2020-02-06,15575
+113236,850.7925251805451,Furniture,"SPACE Seating Professional AirGrid Dark Back and Padded Black Eco Leather Seat, Fixed Arms and Lumbar Support Sled Base Visitors Chair",1471,2020-02-06,651
+113237,911.303577766499,Digital_Video_Download,Wild,2320,2020-02-06,21786
+113238,31.21086969999689,Major Appliances,"Frigidaire FGET3065K 30"" Electric Double Wall Oven with Effortless Convection, SpaceWise Half Rack an,",1586,2020-02-06,17357
+113239,740.7897436599151,Books,Nineteen Minutes,2613,2020-02-06,43935
+113240,656.3153576576061,Music,Digital Empire: Trance,3544,2020-02-06,19017
+113241,388.37908059916265,PC,"LG G pad 7.0 Case,Beebiz PU Leather and Hard PC Back Smart Cover Flip Folio Case for LG G Pad 7.0 V400 / V410 (LTE) 7-Inch Android Tablet Cases and Covers with Screen Protector and Touch pen (3-Fold,Black)",2403,2020-02-06,36177
+113242,978.7527489825669,Music,Spend A Night In The Box,2307,2020-02-06,15612
+113243,847.1000099368318,Baby,Kids Preferred Disney Plush,2771,2020-02-06,14999
+113244,305.97498584726895,Office Products,ROYAL NAILS ANTI UV GLOVES FOR UV LIGHT/LAMP NAIL DRYER ONLY NAIL EXPOSED,1557,2020-02-06,37889
+113245,458.38599910754783,Apparel,DC Comics Supergirl Cape Juniors T-shirt,2921,2020-02-06,7061

@@ -1,0 +1,198 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+212065,924.8799217305941,Beauty,So Beauty 10pcs Microphone Alloy 3D Rhinestone Nail Art Tips Slice Decoration,1810,2021-11-26,37411
+212066,771.5137481564368,Musical Instruments,Lanikai Ukulele Bundles,1770,2021-11-26,16325
+212067,18.518381683197436,Apparel,Quiksilver Waterman Men's Off The Wall 2 Long Sleeve Surf Shirt,1763,2021-11-26,44147
+212068,463.86449969985335,Furniture,"Honey-Can-Do SHF-01939 4-Inch Caster Wheels, 3/8-Inch Diameter Thread, Black, 4-Pack",2455,2021-11-26,11135
+212069,183.3439220665849,Camera,"Remote Shutter Release Cord for Canon EOS 5D, 50D, 40D, 20D, & 10D Digital SLR Cameras",2845,2021-11-26,45840
+212070,907.9529263748224,Outdoors,Fox Men's Baseline Mountain Bike Short,3088,2021-11-26,27501
+212071,329.74634574734506,Mobile_Electronics,REF1.500 - Soundstream Monoblock 500 Watt RMS Reference Series Power Amplifier,2594,2021-11-26,32828
+212072,335.8412653874518,Automotive,Gibson 312800 Single Exhaust System,1917,2021-11-26,32396
+212073,229.73392747659392,Musical Instruments,LM Products B-ACC Banjo Conversion Kit,1251,2021-11-26,35179
+212074,571.8916493571987,Music,In Moderation,2792,2021-11-26,3721
+212075,83.7470590691266,Digital_Music_Purchase,Smetana: The Bartered Bride,3060,2021-11-26,43786
+212076,385.52725531888433,PC,XFX Black Edition DD Radeon R9 390 1050MHz 8GB DDR5 DP HDMI 2XDVI Graphics Cards,3011,2021-11-26,5290
+212077,35.776295764967045,PC,New Acer Iconia Tab A100 A101 A200 A210 A500 A501 Gateway Tab TP A60 Tablet Ac Power Adapter w/ Plug - PSA18R-120P,2857,2021-11-26,38915
+212078,788.3195134990798,Apparel,Charter Club Women's,2092,2021-11-26,23776
+212079,375.24750828321237,Beauty,Microplane Colossal Pedicure Rasp Foot File,3387,2021-11-26,460
+212080,335.70504440763494,Apparel,O'Neill Men's Contact Cotton Twill Short,2917,2021-11-26,37359
+212081,704.0677304684284,Automotive,Jeep Commander Rear Tailgate Handles CHROME!,1547,2021-11-26,20958
+212082,510.30336609421846,Furniture,"Kwikset 740TNL Signature Series Tustin Keyed Entry Door Leverset,",3449,2021-11-26,11449
+212083,384.34440051345194,Furniture,Ikea Play Mat Children's Rug,1762,2021-11-26,41236
+212084,983.2477699247215,Mobile_Apps,OverDrive: Library eBooks & Audiobooks,3378,2021-11-26,12286
+212085,564.1692880458828,Major Appliances,LG LFX31925ST Genuine Replacement Refrigerator Air Purifying Filter from GFP,1024,2021-11-26,20165
+212086,374.5123011980094,Mobile_Apps,Egg Baby,2334,2021-11-26,49317
+212087,680.6264651646753,Furniture,"Simpli Home Warm Shaker TV Media Stand for TVs up to 52""",1297,2021-11-26,31380
+212088,87.63381707602224,Electronics,AMPHENOL UHF Male PL259 (10 Pack) (A),2879,2021-11-26,12266
+212089,387.58970614240246,Health & Personal Care,"Penetrex - Pain Relief Cream, 2 Oz :: Ranked #1 in Medications & Treatments 5 Years Running. 100% Unconditionally Guaranteed.",2422,2021-11-26,7793
+212090,963.686176488956,Mobile_Apps,Ice Age Village,1951,2021-11-26,18647
+212091,265.22701388007033,Digital_Video_Games,The Sims 3 Roaring Heights,2390,2021-11-26,2896
+212092,84.41479145161995,Major Appliances,Coca-Cola Soccer Ball Cooler,2197,2021-11-26,39684
+212093,399.91417470910125,Furniture,Boveda Medium 8 Gram Humidipak 62% - 12 Pack,2676,2021-11-26,34076
+212094,961.8767584565583,Automotive,"7 x 11 Black Mat Complete w/1 1/8"" Black CD Frame & Glass",2071,2021-11-26,8798
+212095,862.1772543425209,Furniture,"Romanoff Jr Step Stool, Yellow",3326,2021-11-26,3643
+212096,709.3643325161105,Apparel,KMystic Women's Basic Long Linen Pants,1860,2021-11-26,13942
+212097,716.1954477428064,Electronics,Acoustic Research   Bluetooth Wireless Speaker,3410,2021-11-26,25180
+212098,661.3215515423334,Books,"Dragons of Summer Flame (Dragonlance Chronicles, Volume 4)",2739,2021-11-26,44277
+212099,645.1805651954139,Automotive,"American Trails - Utility ATV Rack Bag Black - Carries Gas Cans, Coolers, Tool Boxes, and other bulky items.",1811,2021-11-26,21808
+212100,251.57623967663062,Music,Queen II,2502,2021-11-26,21202
+212101,938.1252659137092,Digital_Ebook_Purchase,A Zombie Apocalypse 2: Spreading The Disease,2882,2021-11-26,11942
+212102,230.7318700465247,Grocery,Wel-Pac - Fueru Wakame (Dried Seaweed) Net Wt. 2 Oz. (Pack of 4),2698,2021-11-26,3956
+212103,167.66516959900682,Health & Personal Care,doTERRA Fractionated Coconut Oil,2792,2021-11-26,8148
+212104,888.9034436199333,Health & Personal Care,"Combo: 2 Pcs - NiMh 1.2V AA 1650/1700 mAh Shaver battery with solder tabs for Braun, Norelco, Remington shaver models",1422,2021-11-26,16627
+212105,312.88955295516195,Major Appliances,"Burner Assembly for Maytag, Magic Chef, 74003963, 12500050, 3412D024-09",2248,2021-11-26,31743
+212106,492.77086610292173,Baby,Munchkin Caterpillar Spillers Stacking Cups,1167,2021-11-26,42794
+212107,193.97240093014688,Digital_Music_Purchase,The Best of Andrea Bocelli - 'Vivere',1303,2021-11-26,38079
+212108,204.92129666258774,Major Appliances,Lg LFX31945ST: Super-Capacity 3 Door French Door Refrigerator with Door-in-Door,1726,2021-11-26,25632
+212109,828.800144740076,Books,Bodybuilding a Realistic Approach: How You Can Have a Great Body!,3612,2021-11-26,46220
+212110,793.3539529224502,Digital_Video_Games,The Saboteur,3570,2021-11-26,38009
+212111,188.07966881734112,Office Products,Sony XL-2400 Replacement Lamp for Grand WEGA 3LCD Rear Projection HDTV,1368,2021-11-26,39616
+212112,623.2822996474974,Camera,"Ravelli APGL4 New Professional 70"" Tripod with Adjustable Pistol Grip Head and Heavy Duty Carry Bag",2927,2021-11-26,13526
+212113,807.228772794463,Automotive,K&N 69-7061TS 69 Series Silver Typhoon Performance Intake Kit,2513,2021-11-26,38115
+212114,767.4009486540012,Gift Card,Amazon Gift Card - Print - Love,1793,2021-11-26,48374
+212115,532.3221094538652,Baby,Peg Perego Tatamia Stripes,3351,2021-11-26,17445
+212116,294.0761310379255,Outdoors,GCI Outdoor PackSeat,1067,2021-11-26,34582
+212117,780.3970913872217,Camera,Case Logic SLR Camera Sling,1119,2021-11-26,27075
+212118,436.6600452037835,Musical Instruments,BEHRINGER MICROMON MA400,2952,2021-11-26,10531
+212119,267.1724286698959,Major Appliances,Haier Portable Washer Caster/wheels(hlp21e/hlp23e/hlp21n)-4 Set,2562,2021-11-26,9505
+212120,67.4692991233601,Mobile_Apps,Pool Master Pro,2992,2021-11-26,8458
+212121,968.9950592087964,Beauty,"Even Glow Serum Vitamin C Serum Antioxidant Treatment Advanced Plant Stem Cells Natural & Organic Ingredients Includes Organic Rosehip Oil & Sea Buckthorn Oil, 1.18 oz",1243,2021-11-26,31727
+212122,798.198520677755,Outdoors,Columbia Bugaboo II Systems Fleece Bag,2238,2021-11-26,35852
+212123,902.6291686522366,Apparel,SlimMe By MeMoi Full Length High-Waisted Shaper Leggings,2800,2021-11-26,39467
+212124,884.5659948125583,Outdoors,Ultra Bright Waterproof 5 LED Bike Headlight,1054,2021-11-26,19298
+212125,381.8926006267113,Electronics,Wolverine RSR100 Retro Table Top Bluetooth Speaker and AM/FM Radio,2700,2021-11-26,6750
+212126,834.4037940277199,Electronics,"Tekpower TP1803D Lab Grade Variable Linear DC Power Supply 0-18V @0-3A With Alligator Cable and Power Cord, for Computer, Hardware service, HY1803D",2513,2021-11-26,42471
+212127,82.99432165274966,Musical Instruments,Snark SN-1 Tuner,1536,2021-11-26,1049
+212128,49.24223025269102,Health & Personal Care,Procter & Gamble 04815 Swiffer Sweep + Vac,2818,2021-11-26,48241
+212129,800.4894263123967,Mobile_Electronics,NingB 10 Pieces 2 x 40 Pin Double Row 2.54mm Break Away Female Header Wire Connector DIY,1729,2021-11-26,41584
+212130,412.162502382495,Office Products,Bracketron Durable Stand for iPad and Other Tablets (IP360L),1349,2021-11-26,38312
+212131,458.7080303790643,Mobile_Apps,Five Nights at Freddy's,2116,2021-11-26,42502
+212132,516.1075123896214,Mobile_Apps,What's the Word? - Word Puzzle Quiz,2887,2021-11-26,16107
+212133,998.2729450404802,Grocery,"Barilla Pasta, Veggie Rotini",2003,2021-11-26,17365
+212134,661.5668239477981,Baby,"J.Lamb & Friends Waterproof Fitted Crib Pad, White (Discontinued by Manufacturer)",2601,2021-11-26,43533
+212135,35.38055677842813,Musical Instruments,"Guitar Picks Pack of 60 (Tanbi Music P202): Premium Assorted Celluloid Thin, Medium and Heavy Gauge",2415,2021-11-26,11903
+212136,616.3406443749252,Camera,"Studiohut Timer Remote Control for Canon EOS Digital Rebel XT, XTi, XS, T1i Digital SLR cameras",1502,2021-11-26,24393
+212137,597.0781203662369,Digital_Software,Reader Rabbit 2nd Grade Mis-cheese-ious Adventures [Download],2926,2021-11-26,11379
+212138,177.7099583583168,Camera,Sigma 17-70mm f/2.8-4 DC Macro OS HSM Lens for Sony Mount Digital SLR Cameras,2274,2021-11-26,15236
+212139,253.85971544954361,Digital_Video_Download,Check it Out! Season 2,2592,2021-11-26,40425
+212140,629.2318327304196,Furniture,Altra Deluxe Parsons Desk,2838,2021-11-26,29201
+212141,141.94195298268298,Beauty,HELLO KITTY 4 pack Nail Polish Nail File & Cosmetic Bag,1703,2021-11-26,7371
+212142,11.382774010759906,Electronics,Diesel Vektr by Monster,1992,2021-11-26,18146
+212143,45.01901153454749,Books,Girl with a Pearl Earring: A Novel,1089,2021-11-26,46099
+212144,240.27674059810812,Grocery,KISSES Milk Chocolates Filled with Caramel,1058,2021-11-26,34451
+212145,260.55653987925035,Automotive,Custom Accessories 57773 70PSI Cast Iron Bicycle Tire Pump,2359,2021-11-26,29800
+212146,960.7394331602732,PC,Kootek Raspberry Pi Wifi Dongle Adapter 300Mbps Hi-speed Fully Compatible USB Wifi Adapter for Raspberry Pi Windows Linux OS,2248,2021-11-26,17792
+212147,850.5290355525955,Baby,American Baby Company Waterproof fitted Quilted Portable/Mini Crib Mattress Pad Cover,2164,2021-11-26,9644
+212148,734.478050875699,Major Appliances,Bosch 24' Bar Handle Dishwasher 800 Plus Series- Stainless Steel SHX7PT55UC,2332,2021-11-26,42685
+212149,180.14838953676212,Major Appliances,Frigidaire Wf2cb Puresource2 / Frigidaire Fc100 Refrigerator Water Filter,1524,2021-11-26,10578
+212150,144.4589170497727,Books,Old Telephones (Shire Library),1782,2021-11-26,19981
+212151,866.5402926467115,Mobile_Apps,AVP: Evolution,2658,2021-11-26,26464
+212152,356.7467719611507,Major Appliances,"AKDY 36"" Island Mount Stainless Steel Both Side Range Hood W/Baffle Filter Remote Control Kitchen Stove Vent",2102,2021-11-26,32569
+212153,374.21748608363737,Mobile_Electronics,LCD Screen Display Replacement For Apple iPod Nano 6th Gen & 7pcs Tools,1913,2021-11-26,18077
+212154,851.4403050848948,Apparel,Oneill Juniors Kanani Jersey,2570,2021-11-26,11835
+212155,853.9509471159467,Health & Personal Care,Glasses Cleaner Spray Kit - Includes Thick Microfiber Cloth For Eyeglass Cleaning Solution,1160,2021-11-26,20
+212156,992.8803904296575,Digital_Video_Download,Mea Makamae,1172,2021-11-26,25255
+212157,332.08410764445154,Beauty,Aztec Secret Indian Healing Clay Deep Pore Cleansing,2014,2021-11-26,30336
+212158,987.5964085400068,Books,High Tech Tennis,1894,2021-11-26,30726
+212159,129.10252125752484,Music,Axis: Bold As Love,2959,2021-11-26,23536
+212160,172.57166027286365,Mobile_Electronics,"E-PRANCE 2.7"" LCD Car Rear View Mirror DVR with 1920*1080P 25FPS + 162 Ultra-Wide Angle Degree + IR Night Vision,w/ 16GB Card",1906,2021-11-26,27698
+212161,310.7601327194126,Musical Instruments,Walnut Wood Top Grand Piano Bench with Music Storage,3506,2021-11-26,20090
+212162,35.95957534234778,Camera,"Benro Mach3 9X CF Series 2 Monopod, 4 Section, Twist Lock 2",1044,2021-11-26,31537
+212163,540.9301470154426,Baby,"BabyDoll Embossed Damask Creation Liner/Skirt & Hood, Ecru, 16"" x 32""",3016,2021-11-26,35020
+212164,607.9977994932519,Digital_Software,Microsoft Publisher 2010 (2 PC / 1 User) [OLD VERSION],1083,2021-11-26,23823
+212165,931.8698734401576,Major Appliances,"Frigidaire 30"" Slide-In Gas Range with PowerPlus Preheat and True Convection,",3542,2021-11-26,11568
+212166,389.12658161809196,Music,Pacini - Maria Regina d'Inghilterra / Miricioiu · Ford · Plazas · Fardilha · A. Miles · PO · Parry,2181,2021-11-26,32549
+212167,304.81947003207773,Digital_Ebook_Purchase,A Little White Lie,1473,2021-11-26,26424
+212168,436.52386683073416,Digital_Ebook_Purchase,"The Difference a Day Makes (Perfect, Indiana Book 2)",2758,2021-11-26,15515
+212169,498.54682443469017,Office Products,"Brother Printer LC753PKS 3 Pack- 1 Each LC75C, LC75M, LC75Y Ink",2152,2021-11-26,2558
+212170,201.36340221176556,Electronics,Mitsubishi WD-65833 150 Watt TV Lamp Replacement,1618,2021-11-26,35492
+212171,890.1319301388651,Mobile_Electronics,Sony Heavy Duty Radio CD/MP3 Player,1354,2021-11-26,33524
+212172,629.4887411253231,Digital_Video_Games,The Legend of Korra,2143,2021-11-26,22493
+212173,940.3588271342253,Health & Personal Care,Tummy Tuck Miracle Slimming System,2581,2021-11-26,24696
+212174,436.77474920200984,Music,BEST OF ISAAC HAYES VOLUME 1,1140,2021-11-26,19904
+212175,421.49177386901926,Grocery,"Trader Joe's Peppermint Bark - Old Fashioned, Handmade",2377,2021-11-26,44466
+212176,593.7533611253973,Apparel,Perry Ellis Men's PE Solid Knit Sleep Pant,3008,2021-11-26,19756
+212177,436.6983442809025,Digital_Music_Purchase,"Dear Maria, Count Me In",1708,2021-11-26,13110
+212178,667.3162720561228,Furniture,Safavieh Courtyard Collection CY6914-268 Navy and Beige Indoor/ Outdoor Area Rug,3165,2021-11-26,36556
+212179,170.61849768375367,Health & Personal Care,Veggie Krunch Sweet Onion 2 Ounces (Case of 12),2869,2021-11-26,7595
+212180,996.2823437931809,Digital_Video_Games,Farmscapes [Download],2234,2021-11-26,40802
+212181,692.0716722444423,Musical Instruments,DR Strings Tite Fit Electric Round Core 11-50,2603,2021-11-26,13766
+212182,262.5255608228937,Office Products,Palm Tungsten E2 Handheld,2387,2021-11-26,47316
+212183,823.5328836927896,Digital_Music_Purchase,Where The Spirit Of The Lord Is,1573,2021-11-26,15329
+212184,108.15439298334746,Major Appliances,Sanyo BC1206 Kegerator Beer Cooler,2744,2021-11-26,5776
+212185,710.2880098116589,Apparel,Disney Women's Minnie Mouse Microfleece Pajama Set,1066,2021-11-26,26924
+212186,771.7375121617304,Grocery,"Frontier Co-op Nutritional Yeast Mini Flakes, 1 Pound Bulk Bag",1156,2021-11-26,17798
+212187,949.8936771095814,Music,Northern Star,3094,2021-11-26,4340
+212188,132.90351508967063,Office Products,Floortex Ultimat Polycarbonate Anti-Slip Mat for Hard Floors,1899,2021-11-26,27003
+212189,577.2332467405296,Apparel,Columbia Big Girls'  Triple Run II Jacket,1101,2021-11-26,36349
+212190,582.6006551377842,Music,White Pepper,2040,2021-11-26,39995
+212191,266.7616866170137,Digital_Video_Games,Crysis,2603,2021-11-26,12988
+212192,324.4042602109902,Digital_Music_Purchase,Ambient White Noise Sleep - Ambient White Noise for Sleep,1903,2021-11-26,47998
+212193,773.350723917807,Digital_Music_Purchase,First Edition,3430,2021-11-26,434
+212194,839.7442359574068,Digital_Video_Games,The Secret World,2752,2021-11-26,43524
+212195,32.66242621385274,Office Products,TI-89 Titanium Programmable Graphing Calculator,2659,2021-11-26,3987
+212196,42.72426140668105,Digital_Video_Download,I Married a Monster from Outer Space,2198,2021-11-26,9918
+212197,248.70840391118102,Health & Personal Care,AliveCor Mobile ECG,1074,2021-11-26,15927
+212198,25.377159488661476,Digital_Video_Games,Hidden Object Movie Studios - I'll Believe You - SPECIAL EDITION [Download],2945,2021-11-26,6383
+212199,280.02542646078774,Electronics,"VGA Cable 30ft - Computer / Monitor / Projector / PC / TV Cord 15 PIN, 30 Feet Long Video Cord - TP606 ...",3453,2021-11-26,28704
+212200,264.8696023303743,PC,TOP CASE Zipper Sleeve Bag with Handle and Pockets,3375,2021-11-26,3264
+212201,391.6332285257491,Office Products,"Fun Express Prism Spiral Notepads, Pack of 6 (12 Per Poly Bag Header, 72 Total)",2502,2021-11-26,7519
+212202,820.0936700560183,Digital_Video_Download,Dil Hai Tumhaara (English Subtitled),3614,2021-11-26,31827
+212203,941.2282649200654,Digital_Software,Microsoft Windows 7 Anytime Upgrade [Home Premium to Ultimate],1405,2021-11-26,32810
+212204,754.525366915404,Automotive,FANMATS NFL Pittsburgh Steelers Vinyl Car Mat,3143,2021-11-26,36011
+212205,975.8719003000484,Beauty,"Apothecary Extracts - Tea Tree Oil - 100% Pure Australian Tea Tree Oil - 4-Ounce Value Pack - Pharmaceutical Grade Essential Oil - Treats Acne, Cutaneous Skin Tags, Bacterial Infections and More",3253,2021-11-26,23930
+212206,984.990462882142,PC,ACER Aspire one D250-1026 Laptop Battery - Premium Bavvo® 6-cell Li-ion Battery,3131,2021-11-26,45299
+212207,485.94884974224783,Office Products,(3 Packs) Clear LCD Screen Protector for Amazon Kindle 2 E-Book Reader,2240,2021-11-26,41744
+212208,529.5875311061515,Musical Instruments,ION Audio Tape 2 PC | USB Cassette Deck Conversion System with RCA & USB cables,1241,2021-11-26,16974
+212209,761.2231701969105,Books,The Book on the Bookshelf,2718,2021-11-26,49663
+212210,310.8145676875838,Mobile_Apps,Little Hand Doctor - kids games,2548,2021-11-26,29033
+212211,706.9844750896292,Music,I've Forgotten How You Feel,1564,2021-11-26,1704
+212212,541.331247356784,Electronics,AmazonBasics High Speed HDMI Cable,3312,2021-11-26,21545
+212213,859.660221681448,Beauty,Roux 233 Repairing Conditioner,3275,2021-11-26,21856
+212214,736.7734507717119,Digital_Ebook_Purchase,Still Alice,2802,2021-11-26,35534
+212215,529.2982782823523,Digital_Video_Games,Modern Warfare Bundle [Download],3098,2021-11-26,32983
+212216,754.7318482192849,Outdoors,"Sunlite Cloud-9 Bicycle Suspension Cruiser Saddle, Cruiser Gel, Tri-color Black",2163,2021-11-26,41260
+212217,187.57897046838568,Health & Personal Care,Tanita BF680W Duo Scale Plus Body Fat Monitor with Athletic Mode and Body Water,1209,2021-11-26,3808
+212218,269.83960508159987,Electronics,Panasonic Monitor Headphones with Remote and Mic,2316,2021-11-26,13806
+212219,84.51219634190167,Camera,GGS II LCD Optical Screen Protector for Nikon D7000 New,3612,2021-11-26,49763
+212220,492.7028925064987,Grocery,Popin' Cookin',1385,2021-11-26,36422
+212221,561.5031691876235,Major Appliances,"PART # WE12X82 OR 134163400 GENUINE FACTORY OEM CLOTHES DRYER DRUM BELT FOR GE, HOTPOINT, FRIGIDAIRE AND KENMORE",1567,2021-11-26,30896
+212222,533.7424899172063,Mobile_Electronics,IBrightspot 8GB(4th Gen) Silver 1.8'' Screen MP4/MP3 Player Media/Music/Audio Player with FM Radio,2309,2021-11-26,1530
+212223,126.44375965504919,Baby,"Moby Wrap Original 100% Cotton Baby Carrier, Black",2189,2021-11-26,39910
+212224,913.1522011301836,Music,Graduation,3465,2021-11-26,17304
+212225,690.0267809908927,Outdoors,CygoLite Milion 200 LED Rechargable 1-Piece HeadLight W/ Helmet Mount.,3066,2021-11-26,16443
+212226,439.49966163035873,Grocery,Japanese Kit Kat- Japan-limite Japan West Chocolate Box 5.2oz (12 Mini Bar),1152,2021-11-26,44955
+212227,984.9473193686798,Digital_Video_Games,Weird Park: Scary Tales [Download],2183,2021-11-26,25566
+212228,386.10951259539377,Health & Personal Care,"Philips Sonicare HX6013/66 Pro Results Brush Head (Generic), Standard, 8 Units",1707,2021-11-26,10810
+212229,113.68414747323287,Grocery,RiceSelect Arborio Rice Jars,3270,2021-11-26,21602
+212230,51.38133462685091,Digital_Music_Purchase,Outback (CTI Records 40th Anniversary Edition - Original Recording Remastered),2525,2021-11-26,15969
+212231,127.19831702666015,Books,Rose,1751,2021-11-26,18082
+212232,115.56492744631457,Office Products,GP Copy & Print Paper,2800,2021-11-26,40175
+212233,227.90350948062792,Health & Personal Care,Alegria Womens Wedge Footbed - Medium,3578,2021-11-26,10378
+212234,625.780751089456,Beauty,"Redken Diamond Oil Shatterproof Shine Intense Oil Treatment, 3.4 Ounce",1809,2021-11-26,10161
+212235,92.11306824705572,Books,Wishing Stone #9 (Spooksville),2050,2021-11-26,27325
+212236,808.6556289580267,Electronics,JAM Plus Portable Speaker 2-Pack,2293,2021-11-26,25264
+212237,886.7808617221402,Books,52-Week Baseball Training,2843,2021-11-26,2514
+212238,96.20565938209681,Musical Instruments,Neewer 3.5mm Hands Free Computer Clip on Mini Lapel Microphone (3X Lapel Microphone),1569,2021-11-26,45444
+212239,611.7193634358049,Baby,Dr. Brown's BPA Free Polypropylene Natural Flow Wide Neck Bottle 8 Ounce,2805,2021-11-26,17950
+212240,968.6433261028378,Digital_Video_Download,Scenes From A Gay Marriage,1110,2021-11-26,49159
+212241,797.8511753119856,Automotive,New Condenser Radiator Fan Nissan Maxima B1481-5U003,1913,2021-11-26,47158
+212242,257.6608384922385,Books,"Zen Mind, Beginner's Mind: Informal Talks on Zen Meditation and Practice",2405,2021-11-26,17056
+212243,977.2140629395807,Digital_Software,"Kaspersky Anti-Virus 2015 1 User, 1 Year",1111,2021-11-26,27426
+212244,556.0521894910397,Automotive,"3/8"" Large Ratchet Twin Pawl Mechanism",2489,2021-11-26,36321
+212245,102.6395259621402,Digital_Ebook_Purchase,Spontaneous (Jeffries Book 3),3339,2021-11-26,45636
+212246,50.20253518605934,Health & Personal Care,"Wahl Professional Senior Premium Hair Clipper, with V-9000 Shunt Motor Stay Cool Operation, Lightweight and Ergonomically Designed, with Adjustable Thumb Lever and High Precision Locking Blades with 3 Cutting Guides (1/16""-3/16""), Extra Long 8 Ft. Power Cord, Oil, Cleaning Brush, Operating Instructions and Red Blade Guard Included",2738,2021-11-26,48854
+212247,237.614159356191,Grocery,Killer Hogs The BBQ Rub (5 Lb Bag),1124,2021-11-26,33710
+212248,51.33571240960842,Health & Personal Care,"Lysol Disinfecting Wipes, Lemon, Early Morning Breeze, & Crisp Linen, 480ct (2X3x80ct)",1470,2021-11-26,43686
+212249,134.45907274968766,Digital_Software,"Bitdefender Total Security 2015 - 1 PC, 1  year [Download]",2301,2021-11-26,37573
+212250,798.5885400408056,Electronics,OREI Grounded-2,2989,2021-11-26,16411
+212251,983.115851582616,Health & Personal Care,Liroyal Facial beauty tools,2772,2021-11-26,22953
+212252,68.86091568479631,Music,Millennium Collection - 20th Century Masters,1682,2021-11-26,10779
+212253,351.680276526163,Outdoors,Yakima Wheel Fork Tire Mount,3533,2021-11-26,27428
+212254,404.06397256140275,Digital_Ebook_Purchase,The Bastard (The Kent Family Chronicles Book 1),1761,2021-11-26,10547
+212255,29.5363331043007,Music,The Definitive Collection,2166,2021-11-26,14503
+212256,74.54038578817615,Digital_Ebook_Purchase,Associated Pressure (The Heroes of Siegel City Book 4),3480,2021-11-26,44456
+212257,897.8499349087633,Electronics,"Sinjimoru Sync Stand Charge Dock Cradle for Samsung Galaxy S4, S3, S2 & Other MicroUSB Devices",3179,2021-11-26,9019
+212258,640.4370236925228,Major Appliances,"Whirlpool Part Number 3196068: Lens, Ind.",3314,2021-11-26,6025
+212259,564.9321997041395,Automotive,Yuasa YUAM620BH YTX20HL-BS Battery,3092,2021-11-26,34252
+212260,205.88434273908047,Digital_Video_Games,Men of War Red Tide,1794,2021-11-26,35538
+212261,750.0836891099627,PC,Bright Color 2 Meter (6.5 Feet) Long Data and Charging Cord for NABi Jr and NABi XD Tablets,3076,2021-11-26,4428

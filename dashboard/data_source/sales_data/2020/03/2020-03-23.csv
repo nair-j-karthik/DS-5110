@@ -1,0 +1,175 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+120147,759.5195966224003,Books,TCP/IP Addressing and Subnetting by Example,3483,2020-03-23,964
+120148,258.97058504686777,Health & Personal Care,"Deva Vegan Vitamins Daily Multivitamin Iron Free, 90 Tablets",1956,2020-03-23,6516
+120149,195.20559658362313,Video DVD,Mars Attacks!,3500,2020-03-23,11201
+120150,878.7725036693639,Electronics,"Cable Matters 5-Pack, Gold Plated Right Angle F-Type Coaxial RG6 Adapter",3182,2020-03-23,11818
+120151,237.99439304578772,Apparel,LnLClothing Lace Peplum Top ID.2983-BLK.MR7,1176,2020-03-23,14058
+120152,101.40168633488058,Baby,Prince Lionheart Backseat Kick Mat,3512,2020-03-23,25661
+120153,181.01058693236632,Apparel,Little Lass Baby Girls' Flower Printed Denim Shortall,2016,2020-03-23,10462
+120154,367.4137643799526,Books,Tender Triumph (Sonnet Books),3118,2020-03-23,48065
+120155,361.8841442640174,Camera,Black Color Carry Speed Cs-1 MK II Camera Sling Strap Rapid for DSLR,3187,2020-03-23,34463
+120156,402.23349782934736,Baby,Ergobaby Sport Baby Carrier,3442,2020-03-23,43325
+120157,574.6268127115941,Beauty,Dax Short & Neat Light Hair Dress 3.5oz,2082,2020-03-23,6469
+120158,606.7968786512374,Outdoors,New Wave Shower Filter With Free Aromatherapy Diffuser Ring,1682,2020-03-23,37261
+120159,185.31251376018278,PC,Intel 530 Series Internal Solid State Drive,2428,2020-03-23,7989
+120160,913.746777537457,Apparel,Cubavera Men's Big-Tall Long Sleeve Fashion Woven with Contrast Detail,1087,2020-03-23,13349
+120161,961.7213032379232,Mobile_Electronics,"FM Transmitter /Car Charger/ Holder for iPhone 3GS 3G iPod Touch- 4GB, 8GB, 16GB, 32GB, 64GB, 120GB, 160GB",3214,2020-03-23,14473
+120162,572.7941371669306,Furniture,Large Red/black Mexican Falsa Blanket Yoga Mat,3523,2020-03-23,1002
+120163,741.0440381735896,Digital_Video_Download,"Alexander and the Terrible, Horrible, No Good, Very Bad Day (Theatrical)",3579,2020-03-23,37128
+120164,359.5136200829373,Health & Personal Care,"Nature's Bounty Ultra Soya Lecithin, 1200mg, 100 Softgels -- Multi-Packs",3507,2020-03-23,2534
+120165,809.7976592615429,Digital_Video_Games,Total War: Shogun 2 - Fall of the Samurai [Download],3516,2020-03-23,38208
+120166,973.1031921263843,Digital_Video_Download,Exodus: Gods and Kings,2536,2020-03-23,30631
+120167,806.1139138831913,Books,Resurrecting Mingus,3177,2020-03-23,40544
+120168,132.28608247727914,Baby,Kids Preferred Attachable Light Up Musical Toy,1257,2020-03-23,18680
+120169,810.6612548135537,PC,"Amazon All-New Kindle Fire HDX 7(2013) Case Cover, FYY Ultra Slim Magnetic Smart Cover Case for Amazon All-New Kindle Fire HDX 7(2013) (With Auto Wake/Sleep Feature)",1762,2020-03-23,46248
+120170,415.50974400551706,Apparel,Women's Hollow Out Waist Belt Waistband Lady Dresses Tie Belt,2028,2020-03-23,24180
+120171,389.6693848384233,Digital_Ebook_Purchase,Fifty Shades of Beige: Book One of the Fifty Shades Parody,3368,2020-03-23,24718
+120172,801.6145654603251,Office Products,"Avery Big Tab Insertable Plastic Dividers, Multicolor, 1 Set of 8 Tabs (11901)",2022,2020-03-23,5951
+120173,619.367038737404,Books,Navies in the Nuclear Age: Warships Since 1945 (Conway's History of the Ship),3614,2020-03-23,4057
+120174,20.37079523713866,PC,KB_MASTER_800_DIMM,2658,2020-03-23,35835
+120175,990.8830865423646,Digital_Video_Games,Fishdom 3 [Download],1567,2020-03-23,3620
+120176,975.1209011334581,Camera,(3 Pack) AA / AAA Bright Orange 4 Cell Battery Case with Charge Reminder Markings,3452,2020-03-23,34208
+120177,913.0389029824378,Musical Instruments,"Music Stand Light: Clip On Book Reading Lamp, Adjustable Brightness, USB Cord/AC Adapter included, AAA Battery Powered, Bright 4 Bulb LED by Certain Way - Black",2600,2020-03-23,40241
+120178,620.5132982531602,Apparel,Lace Long Fingerless Gloves Sleeve with Ruffles,1936,2020-03-23,12603
+120179,774.172429035306,Music,"Johnny Cash - Love, God, Murder",2295,2020-03-23,19346
+120180,527.3258441545354,Automotive,Power Probe III - Black,3207,2020-03-23,7753
+120181,953.3622568514536,Musical Instruments,PageFlip Cicada Bluetooth Page Turner Pedal,1002,2020-03-23,24160
+120182,352.9781845179815,Furniture,Sauder Palladia High Boy,2452,2020-03-23,32317
+120183,211.68411038879248,PC,Flash Drive Blade,2098,2020-03-23,10324
+120184,656.0218427058643,Health & Personal Care,"Bar Mate - Hangover Relief & Liver Support Supplement - For Headache, Dizziness & Nausea Prevention - Restores Vital Electrolytes - With Prickly Pear Extract + Vitamin B12, B1 & C - 90 Capsules",3394,2020-03-23,20804
+120185,608.8762854220123,Digital_Video_Download,Missionary,2018,2020-03-23,36099
+120186,771.2370392653148,Electronics,ELPLP41 / V13H010L41 Projector Replacement Lamp for EPSON PowerLite 77c / PowerLite 78 / PowerLite S5 / PowerLite S6 / PowerLite W6 / CINEMA 700 / EX21 / EX30 / EX50 / EX70 / EB-S6 / EB-S62 / EB-S6LU / EB-W6 / EB-X6 / EB-X62 / EB-X6LU / EMP-X5 / EMP-X52 / EMP-S5 / EMP-X5E,2848,2020-03-23,33534
+120187,588.5625136220093,Baby,Electronic Crib Rocker Sleeper for Crying Baby's,2784,2020-03-23,202
+120188,685.7326309129045,Digital_Video_Download,Paradise Lost: The Child Murders at Robin Hood Hills,3069,2020-03-23,19708
+120189,126.65110600037764,Digital_Software,H&R Block At Home 2010 Deluxe Federal + State + eFile,2451,2020-03-23,4681
+120190,41.02540331812266,Digital_Music_Purchase,Here Comes the Sun,1635,2020-03-23,1653
+120191,584.2347290639975,Digital_Ebook_Purchase,All You Could Ask For: A Novel,1566,2020-03-23,15485
+120192,665.3906639848799,Music,Abbey Road,2477,2020-03-23,26780
+120193,902.6461103131157,Camera,LensPEN Lens Cleaning System [Old Version],2400,2020-03-23,27914
+120194,663.9328573332539,Mobile_Apps,Number Chase - Math Vs Zombies - Math Games K4,2444,2020-03-23,17522
+120195,916.49586510991,Apparel,"GOT SINATRA? - Mens Cotton T-Shirt, M, Black",2356,2020-03-23,7378
+120196,213.90890034699677,Digital_Ebook_Purchase,Degrees of Silence,2272,2020-03-23,45430
+120197,496.61319800810804,Apparel,HEAD Men's Power Cushion Crew Sock / Size 9-12 (6 Pair),1981,2020-03-23,34988
+120198,440.82304723406503,PC,Patriot Signature Flash MicroSDXC with USB Reader and Adapter,3493,2020-03-23,18404
+120199,896.9460818088954,Digital_Music_Purchase,Omspun,1965,2020-03-23,26161
+120200,933.9202867569924,Camera,Nikon Coolpix S60 10 Megapixel Digital Camera (Champagne Pink) with 5x Optical Zoom + EN-EL10 Battery + 8GB Card + Leather Case + Accessory Kit,3116,2020-03-23,16832
+120201,743.6282742199838,Camera,Canon TS-E 24mm f/3.5L II Ultra Wide Tilt-Shift Lens for Canon Digital SLR Cameras,1553,2020-03-23,25478
+120202,447.14074552439797,Mobile_Apps,Flow Free,3096,2020-03-23,6884
+120203,401.06593183619486,Grocery,Yummy Earth Organic Drops Pouches,2337,2020-03-23,16357
+120204,143.69553806580822,Automotive,Fly Racing Switch Snow-X Gloves - 2012 - 9/Black/Grey,3032,2020-03-23,40499
+120205,343.2145059721689,Baby,"Regalo Hide Away Double Sided Bed Rail, White",3461,2020-03-23,40609
+120206,686.8753539700966,Digital_Video_Download,The Best Exotic Marigold Hotel,1751,2020-03-23,13919
+120207,589.1201268742876,Musical Instruments,"Planet Waves NS Guitar Capo, Black",3043,2020-03-23,19229
+120208,832.0564239190807,Beauty,"Professional Stylists and ""Divas"" Will Love 15"" Wide, Spinning Cosmetic Organizer. Great for Salons or for Cosmetic Divas! Made by PPM in the USA!",1202,2020-03-23,2482
+120209,919.3276480324276,Books,When I Lived in Modern Times,2466,2020-03-23,814
+120210,828.4757526496049,Music,The Fragile,3473,2020-03-23,25072
+120211,675.483628539008,Furniture,Home Dynamix Royalty Collection Area Rugs,3597,2020-03-23,15604
+120212,506.3737209467505,Apparel,Ruby Rox Big Girls' Surplice Bubble Dress,2571,2020-03-23,37262
+120213,630.3152224617268,Automotive,CIPA 10200 Chevrolet/GMC Custom Pair Towing Mirrors,2969,2020-03-23,2765
+120214,677.6679768399367,Baby,DEX Products Sound Sleeper SS-01,1494,2020-03-23,1368
+120215,562.394068701845,PC,Cabod(TM) Laptop And Tablet Messenger Nylon Bag 15.6 Inch - Black,3128,2020-03-23,39575
+120216,551.6576240685349,Digital_Video_Games,Guild Wars 2 [Download],1200,2020-03-23,17955
+120217,251.06552250698633,Camera,"Fotodiox Neoprene Zoom Camera Cover Sleeve (Travel Case) for Panasonic Lumix DMC-G3, DMC-G2, DMC-G1, DMC-G10, DMC-GF2, DMC-GF1, Lumix DMC-FZ40, DMC-FZ45, DMC-FZ100, DMC-FZ35, DMC-FZ38, DMC-FZ28, DMC-FZ18,",1501,2020-03-23,47903
+120218,661.5967021231573,Automotive,Backseat Valet,2582,2020-03-23,46439
+120219,202.98961841362214,Digital_Software,Adobe CS6 Production Premium Student and Teacher Edition,1156,2020-03-23,13858
+120220,609.5061711391929,Camera,"Sony DSCTX1 10MP ""Exmor R"" CMOS Digital Camera with 3-inch Touch-Screen LCD",2437,2020-03-23,31658
+120221,132.20605567857368,Major Appliances,"Hitachi 10.8-12V Lithium-ion Flashlight UB10DL (bare tool - no battery, charger or case)",3484,2020-03-23,28870
+120222,457.4129034571821,Digital_Software,TurboTax Deluxe Fed and Efile 2013,3265,2020-03-23,6148
+120223,388.61081083141124,PC,"Kuzy - Foreign Language Keyboard Cover for MacBook Pro 13"" 15"" 17"" (with or w/out Retina Display) Silicone Skin for iMac and MacBook Air 13""",2937,2020-03-23,49030
+120224,716.2480719630169,Digital_Video_Games,Styx: Master of Shadows [Online Game Code],2501,2020-03-23,41128
+120225,315.9845059558092,Gift Card,Amazon eGift Card - Dad Is #1 (Animated) [American Greetings],1869,2020-03-23,2176
+120226,46.76175229751347,Musical Instruments,Apogee Microphone,1537,2020-03-23,29694
+120227,42.55041383985399,Digital_Ebook_Purchase,Doctor Sleep: A Novel (The Shining Book 2),3332,2020-03-23,33829
+120228,174.33529330136466,Office Products,"LD © Compatible Ink Cartridges Replacement for Canon PGI225 & CLI226 (4xBlack PGI225, 2xCLI226 B/C/M/Y, 12-pack)",1504,2020-03-23,42988
+120229,940.8512363624062,PC,ViewSonic VA2759-SMH IPS 1080p HDMI Frameless LED Monitor,2459,2020-03-23,44748
+120230,583.1317931822086,Electronics,LINKYO Heavy Duty CD DVD Wallet Album Binder,2357,2020-03-23,44519
+120231,471.5559225562042,Digital_Ebook_Purchase,The Silver Linings Playbook: A Novel,3513,2020-03-23,48108
+120232,568.7611091882861,Mobile_Electronics,6-Pack Mirror Screen Protector for Apple iPod Touch 4th Gen,1417,2020-03-23,18527
+120233,847.3126321859909,Camera,NEW TV High-Def Personal Video Rec (TV & Home Video),1588,2020-03-23,19296
+120234,516.2896468193617,Digital_Video_Games,Natural Threat: Ominous Shores [Download],1658,2020-03-23,5911
+120235,211.82382359956313,Health & Personal Care,"Dr. Tobias Colon: 14 Day Quick Cleanse to Support Detox, Weight Loss & Increased Energy Levels",2632,2020-03-23,2870
+120236,989.3017536543488,Mobile_Electronics,LYL® 4.3'' and 5'' GPS sun shade Clip-on Glare Shield Visor,1088,2020-03-23,35247
+120237,776.5362512101842,Musical Instruments,Oscar Schmidt OS21CQTBL Autoharp,3590,2020-03-23,40601
+120238,576.2408295664545,Digital_Music_Purchase,"Ancient Voices from Within: Native American and South American Flute Music for Meditation, Massage, Relaxation, Insomnia",1705,2020-03-23,1482
+120239,213.39079546181637,Books,"Chronicles of a golden era: A biography of Aliyu Musdafa, 11th Lamido Adamawa",3396,2020-03-23,43144
+120240,547.4896227996048,Books,Architecture: The Critics' Choice,2326,2020-03-23,26598
+120241,909.5153691844281,Electronics,J-Tech Digital JTD-BIDI-HDSW Premium Quality HDMI Bi-Directional Two Ways One Input to One Output or Two Inputs to One Outputs Switcher,1927,2020-03-23,11015
+120242,687.0171917687153,Mobile_Apps,Terraria,1449,2020-03-23,16232
+120243,204.18795198699655,Apparel,Rekucci Women's Soft Jersey Knit Sleeveless Tank Top (S-XXL),1012,2020-03-23,42368
+120244,357.6116760693595,Digital_Software,QuickBooks Premier with Enhanced Payroll 2014 [Old Version],2864,2020-03-23,18999
+120245,476.9690573662657,Beauty,"Cremo Shave Cream, Astonishingly Superior Shaving Cream for Men",1798,2020-03-23,35962
+120246,737.4164321104455,Video DVD,Homeland: Season 2,3132,2020-03-23,18109
+120247,662.8973862440052,Books,The Girlfriend Handbook,3035,2020-03-23,16976
+120248,813.465210921757,Digital_Music_Purchase,Nexus Polaris,2514,2020-03-23,17647
+120249,71.49538023398053,PC,Sentey micro usb metal cables,2817,2020-03-23,5488
+120250,44.700464945454605,Baby,"Nuk Sip N' Smile Spill Proof Cups 7 Ounce, Colors May Vary",1968,2020-03-23,30225
+120251,652.2747474086842,Digital_Video_Games,Druid Kingdom,3007,2020-03-23,23302
+120252,772.9801660318757,Books,The New Testament (The William Barclay Library),1742,2020-03-23,7609
+120253,512.6174061476999,Mobile_Electronics,Rh Right Tail Back Rear Lights Toyota Hilux Vigo Champ 2011 2012 2013,3113,2020-03-23,47616
+120254,195.6664490158075,Apparel,Moonar Athletic 3pcs Swimsuit Bikini Swimwear Beachwear Women,3418,2020-03-23,26923
+120255,219.76379503637847,Office Products,"Mount-It! Monitor Desk Stand LCD Mount, Adjustable, Free Standing Two Computer LED Displays Stand 20, 23, 24, 27 Inch Screen Sizes, Black",1603,2020-03-23,11455
+120256,938.2159549330053,Mobile_Apps,Crazy ConnectZ Lines,1761,2020-03-23,5963
+120257,324.21215631136556,Furniture,Alera Single-Tier Rolling File Cart,2839,2020-03-23,42494
+120258,506.2439492587421,Mobile_Apps,How to Draw: Cats and Kittens,2604,2020-03-23,24264
+120259,519.811813701466,Camera,rooCASE Carrying Case for Panasonic Lumix DMC-TS3 Digital Camera,1674,2020-03-23,30985
+120260,45.27218006285321,Music,Internationale,1363,2020-03-23,18076
+120261,268.0440466985773,Automotive,Raider MX Adult Glove,1904,2020-03-23,23990
+120262,752.0416595387851,Electronics,uxcell 6 x Staight Type 6.35mm Stereo Audio Male Connector to 2 RCA Female Jack Adapters,1144,2020-03-23,33333
+120263,610.6164182698334,Beauty,"Fullips Lip Plumping Enhancer Combo (All 3 Sizes, Gloss & Free Gift!!!)",3197,2020-03-23,7515
+120264,868.5119372573206,Books,CCNA Virtual Lab e-trainer,2155,2020-03-23,32289
+120265,553.0841016574158,Baby,Baby Food Containers- Sprout Cups - Reusable Stackable Storage Cups with Tray and Dry-erase Marker - 100% BPA Free,3239,2020-03-23,42534
+120266,542.3884406230379,Musical Instruments,"Neewer&reg; SilverUniversal Microphone Shock Mount Holder Clip Anti Vibration Suspension High Isolation, Bearable Load 3KG / 106oz",1610,2020-03-23,19859
+120267,656.0784666632414,Apparel,Quiksilver Baby Boys Boardies Boy Hat Blue One Size,2141,2020-03-23,40323
+120268,379.8061774609321,Digital_Ebook_Purchase,Miyamoto Musashi: His Life and Writings,2802,2020-03-23,9865
+120269,96.7831265611486,Beauty,Panasonic WES9064PC Men's Electric Razor Replacement Inner Blade,1668,2020-03-23,47430
+120270,107.55421993016643,Apparel,Cubavera Men's Solid Swim Trunk,3297,2020-03-23,10118
+120271,74.31450253468313,Books,Divided Lives: The Untold Stories of Jewish-Christian Women in Nazi Germany,1616,2020-03-23,1620
+120272,902.7235840585225,Music,Points of View,2812,2020-03-23,34104
+120273,503.57347218538206,Gift Card,"Amazon.com Gift Cards, Pack of 3 (Various Designs)",1448,2020-03-23,25172
+120274,439.15166792390215,Major Appliances,Avanti WD31EC Table Top Thermoelectric Water Cooler,1880,2020-03-23,42776
+120275,882.5136008884787,Books,x Technical Analysis of Stock Trends,1149,2020-03-23,36025
+120276,810.3989113421837,Outdoors,Smart Source Stainless Steel Water Bottles - w/3 Neoprene Sleeves,2241,2020-03-23,3802
+120277,942.1434464708399,Furniture,DX Racer DOH/MY07/NO Black Orange Racing Bucket Seat Office Chair Gaming Chair Ergonomic Computer Chair eSports Desk Chair Executive Chair Furniture with Free Cushions,3389,2020-03-23,38320
+120278,824.295287358618,Grocery,"Naked Me Tea 28 Day Teatox - Aids Weight Loss, Boost Metabolism, Increases Energy, Suppresses Appetite and Reduces Bloating. Detox & Cleanse.",2455,2020-03-23,40395
+120279,410.4905424875769,Beauty,Missha M Signature Real Complete BB Cream SPF 25 PA++ No. 23 Natural Yellow Beige,1477,2020-03-23,22010
+120280,958.7153893011707,Major Appliances,HMV3051U 300 Series 1.6 cu. ft. Over-The Range Microwave Oven with 1000 Watts 10 Microwave Power Levels Automatic Shut Off and LCD Display: Stainless,2203,2020-03-23,16839
+120281,613.4258145884501,Baby,Lucy Darling Shop First Holiday Stickers - Gender Neutral - 8 stickers,2883,2020-03-23,40267
+120282,142.5961746829265,Baby,Trend Lab Receiving Blanket Velour Back,3215,2020-03-23,6749
+120283,296.01328708660765,Apparel,"Pink Camo Apron, Realtree APC Womens Plus & Reg Full Body Twill Apron S-3X",2649,2020-03-23,401
+120284,175.4157825232095,Mobile_Apps,Football World Cup 2014: Soccer Champions League,1571,2020-03-23,12404
+120285,685.6402936958225,Digital_Video_Games,The Long Dark [Online Game Code],3011,2020-03-23,21628
+120286,146.82099686339927,Automotive,Replacement Case and Button Pad for GOH-M24 and GOH-MM6101890 Shell Housing,1170,2020-03-23,2245
+120287,735.0153568201954,Mobile_Apps,Solitaire Slots,1152,2020-03-23,17454
+120288,815.7504540088449,Beauty,"Remington PR1240 R4 Power Series Rotary Shaver, Men's Electric Razor, Electric Shaver",2405,2020-03-23,13560
+120289,87.55970703929407,Beauty,"Revlon Double Ended Brow Brush, Premium",3179,2020-03-23,22192
+120290,524.4753981587055,Digital_Software,QuickBooks Online Plus 2015,2674,2020-03-23,44762
+120291,778.9131272116795,Music,Supermodified,1060,2020-03-23,43412
+120292,997.2512368572638,Outdoors,G.I. Type Stainless Steel Canteen Cup,1814,2020-03-23,47664
+120293,842.057002463887,Furniture,DHP Victoria  Twin Size Metal Daybed,1667,2020-03-23,2013
+120294,634.3155187349658,Office Products,Hogan's Heroes (TV) 11 x 17 TV Poster - Style A,3042,2020-03-23,34173
+120295,199.00410257547227,Major Appliances,"Maytag MDB6769PAW JetClean Plus 24"" White Fully Integrated Dishwasher - Energy Star",2072,2020-03-23,34446
+120296,99.67440423111175,Beauty,Aquis Exfoliating Back Scrubber,1986,2020-03-23,4282
+120297,849.8055249130041,Music,Coping With The Urban Coyote,2545,2020-03-23,14449
+120298,880.0226635686266,Beauty,Sun Moon Stars Perfume by Karl Lagerfeld for women Personal Fragrances,2203,2020-03-23,16954
+120299,416.80353893706615,Automotive,"TRICO Exact Fit 16-A Rear Integral Wiper Blade - 16""",1556,2020-03-23,951
+120300,566.0179093615287,Automotive,"NGK (2262) ZFR5F-11 V-Power Spark Plug, Pack of 1",2174,2020-03-23,32894
+120301,927.3924523022785,Grocery,Gerber Baby Cereal,1135,2020-03-23,4038
+120302,797.5756415493566,PC,New Acer Iconia Tab A100 A101 A200 A210 A500 A501 Gateway Tab TP A60 Tablet Ac Power Adapter w/ Plug - PSA18R-120P,3106,2020-03-23,5077
+120303,273.8260138300831,Camera,Samsung Camcorder with 10x Optical Zoom,2128,2020-03-23,35663
+120304,957.8510448480587,Music,Tales for Guitar,2651,2020-03-23,16250
+120305,824.0082620839703,Office Products,Continuous Ink System for HP Canon & Other 4 type ink empty ciss tank,3270,2020-03-23,21393
+120306,840.4856566525426,PC,Stalion Safe Kids Shockproof Protective Kids Carry Case,1856,2020-03-23,31060
+120307,990.1779685779936,Health & Personal Care,Schick Edge Refill Razor Blades 4 Ct. (Pack of 2) Titanium Coated . Ultimate Closeness and Comfort . With Free Loving Care Trial Sized Conditioner,3258,2020-03-23,39097
+120308,394.83786819583753,Major Appliances,"Samsung DW80H9970US Chef Collection 24"" Stainless Steel Fully Integrated Dishwasher - Energy Star",1548,2020-03-23,44445
+120309,544.0961493157484,Books,I've Seen The Elephant: An Autobiography,2201,2020-03-23,48093
+120310,449.99998413582955,PC,Jeff Gordon Dupont Mouse,3418,2020-03-23,15540
+120311,259.99937129559333,Music,Fried Green Tomatoes,2093,2020-03-23,5803
+120312,421.55528120879717,Gift Card,Amazon eGift Card - Celebrate,1903,2020-03-23,32475
+120313,73.77445296017967,Health & Personal Care,Toilet Aid,3276,2020-03-23,4004
+120314,761.2567962749343,Mobile_Electronics,"FiiO W1 Wireless Audio Link Lossless Transmitter/Receiver System, White",1497,2020-03-23,25038
+120315,457.5013768772363,Outdoors,Victorinox Swiss Army Classic SD Pocket Knife,2627,2020-03-23,9254
+120316,472.7641568528239,Musical Instruments,Planet Waves Circuit Breaker Series Cable,3319,2020-03-23,5718
+120317,553.4110460891826,Digital_Music_Purchase,Jared Grabb & Wesley Wolfe,1315,2020-03-23,22601
+120318,294.2339833512315,Outdoors,"Bolle Fusion DeSoto Sunglasses,Shiny Black/TLB Dark",1119,2020-03-23,44265
+120319,744.0021519255637,Camera,Neewer 58mm 0.45x Wide Angle Lens Macro with Lens Bag for Select Canon Camera Models,1917,2020-03-23,23574
+120320,276.04867309676075,Apparel,Diesel Women's D-Ale Dress,3024,2020-03-23,14023

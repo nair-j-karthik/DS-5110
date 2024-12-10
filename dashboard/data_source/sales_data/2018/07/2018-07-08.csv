@@ -1,0 +1,156 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+27224,400.02504658819106,Music,Pledge Of Defiance,3018,2018-07-08,32233
+27225,845.0962271409079,Furniture,"Modus Furniture ML0892C Upholstered Milano Storage Cube, Chocolate Leather",1828,2018-07-08,11795
+27226,62.56106643884191,Camera,Panasonic BL-C230A Wireless Internet Security Camera,2568,2018-07-08,37476
+27227,339.3095142545614,Furniture,Frenchi Home Furnishing Console Sofa Table with Drawer,1772,2018-07-08,26151
+27228,802.2451858933766,Health & Personal Care,"ReliefX 4oz. Pain Relief Cream with Arnica - May Help Relieve Soreness in Muscles, Joints, Feet and Lower Back",1728,2018-07-08,46068
+27229,964.9381606828649,Electronics,"GXG-1987 WiFi Wireless OBD-II Mini OBD2 Auto Car Diagnostic Scanner Tool Adapter Reader Scan Code Tester for iPhone 6S 5 iPad4 iPod mini iOS PC Windows, Android Device",2238,2018-07-08,47694
+27230,345.49386283484915,Camera,"Mennon DV-s 58 Screw Mount 58mm Digital Video Camcorder Lens Hood with Cap, Black",2716,2018-07-08,17138
+27231,632.1634504032387,Beauty,BeanStalk Hair Loss Treatment: Promotes Fast Hair Growth in 2 Weeks,1123,2018-07-08,15800
+27232,113.61214834433682,Major Appliances,"E-Z Foil Super Broiler Pan 11-3/4"" X 8-1/2"" X1-1/4""  ( 2 COUNT PACK OF 12 )",1319,2018-07-08,26063
+27233,319.9929225557777,Music,M:i-2 : Music From And Inspired By (2000 Film),1009,2018-07-08,5262
+27234,261.8929695543685,PC,Handolederco. Leather Messenger Laptop Satchel Men's Bag Unisex Leather Satchel Flapover Shoulder Bag for Laptop,2749,2018-07-08,7807
+27235,164.16617023149468,Musical Instruments,Dragon's Heart Guitar Pick,2402,2018-07-08,7189
+27236,155.75466811147942,Mobile_Apps,Guide : Bubble Witch 2 Saga,2310,2018-07-08,26486
+27237,660.2306871886358,Digital_Video_Games,Blood Bowl Legendary Edition [Download],2050,2018-07-08,4725
+27238,558.0157054051327,Apparel,Sakkas Stonewashed Embroidered Cap Sleeve Maxi Long Dress,1032,2018-07-08,9359
+27239,886.6259962175872,Baby,WubbaNub (tm) DRAGON Pacifier!,1575,2018-07-08,29538
+27240,597.7603450229866,Digital_Video_Games,Sid Meiers Civilization IV: The Complete Edition,3455,2018-07-08,37684
+27241,623.8981366949655,Apparel,Dickies Men's Loose-Fit Cargo Work Pant,3216,2018-07-08,13705
+27242,26.082859070852994,Camera,Polaroid PLFILND6,1627,2018-07-08,16311
+27243,717.6181144356195,Musical Instruments,KIRLIN CABLE  Instrument Cable Straight to Right Angle 1/4-Inch Plug PVC Jacket,3137,2018-07-08,18472
+27244,28.02920706175268,Music,Machina / The Machine Of God,1899,2018-07-08,38678
+27245,434.13832611384385,Office Products,"HP 901 Black & Tri-color Original Ink Cartridges, 2 Cartridges (CN069FN)",2504,2018-07-08,6709
+27246,371.0898809428572,Digital_Video_Download,Sinbad Sails Alone,3126,2018-07-08,5947
+27247,563.3162770913061,Music,Los Chicos No Lloran,2164,2018-07-08,5012
+27248,999.0752037647153,Major Appliances,Hoover Bare Floor Tool #303129002,3137,2018-07-08,12306
+27249,383.52411455562617,Digital_Ebook_Purchase,Hustle Him (Bank Shot Romance Book 2),1760,2018-07-08,24356
+27250,162.35844537114104,Apparel,Sakkas Super Soft Anti-Slip Fuzzy Ankle Socks Value Assorted 6-Pack,2767,2018-07-08,9793
+27251,338.9066172963379,Baby,"Safety 1st Sounds n Lights Discovery Walker, Dino",2238,2018-07-08,33555
+27252,469.4407010302443,Baby,My Brest Friend Original Pillow,3162,2018-07-08,19078
+27253,821.9013090031781,Grocery,Snider's Prime Rib & Roast,3054,2018-07-08,17918
+27254,934.1697682932111,Digital_Ebook_Purchase,Degrees of Silence,2049,2018-07-08,19290
+27255,633.3525295176066,Apparel,Dockers Men's Printed Knit Drawstring Lounge-Sleep Pant,2006,2018-07-08,15183
+27256,433.5661830411076,Music,Digital Empire: Trance,3420,2018-07-08,18312
+27257,126.48765243633841,Mobile_Apps,Can You Escape Game,1128,2018-07-08,40765
+27258,753.9570657148806,PC,"PcProfessional Blue Ultra Thin Silicone Gel Keyboard Cover for HP Pavilion X360 Convertible 2 in 1 13.3"" Laptop with Application Kit (Please Compare Keyboard Layout and Model)",1265,2018-07-08,22819
+27259,692.7968317099454,Beauty,"Nailtiques - Formula 2, Nail Protein Dongle 2 1/8oz (3.7ml)",3379,2018-07-08,15983
+27260,522.6765548232646,Office Products,"Swingline GBC Laminator, Inspire, Thermal, 9 inch Max Width, Quick Warm-Up (1701855)",2357,2018-07-08,45515
+27261,27.74032587510684,Digital_Music_Purchase,Erik Scott Smith & The Paper Heart Band,1963,2018-07-08,27569
+27262,604.5491035700331,Digital_Video_Download,Something New,3514,2018-07-08,8257
+27263,518.9522444628308,Music,Closer,2755,2018-07-08,44791
+27264,390.4461873310712,Books,The Right to Arm Bears,1025,2018-07-08,34772
+27265,657.8891515006206,Camera,Gitzo GT2531 Series 2 6X Carbon Fiber 3-Section Tripod with G-Lock - Replaces GT2530,1402,2018-07-08,41402
+27266,499.1698244119154,Digital_Music_Purchase,Vector Lovers,3424,2018-07-08,1056
+27267,586.6267969339465,Books,In the Forests of the Night (Den of Shadows),1440,2018-07-08,219
+27268,373.8155152960658,Baby,Sassy 2 Piece Wrist Rattles Set,2101,2018-07-08,49350
+27269,189.68248325620513,Major Appliances,EdgeStar 21 Bottle Dual Zone Stainless Steel Wine Cooler - Stainless Steel,1471,2018-07-08,14585
+27270,383.811122918545,Major Appliances,"The Laundry POD, White",1620,2018-07-08,22653
+27271,137.5238749598937,Digital_Video_Download,The Unit Season 1,2295,2018-07-08,25152
+27272,676.3774506866164,Digital_Video_Download,Tinker Bell and the Legend of the NeverBeast (Theatrical),3610,2018-07-08,44688
+27273,32.63037994751453,Musical Instruments,"MiriamSong Professional Piano Tuning Kit - The Best Tuner Set Including Universal Star Head Hammer, Mute tools, Felt Temperament Strip and Case",3588,2018-07-08,10831
+27274,611.0814251725083,Major Appliances,Frigidaire Dryer Knob 131873500,2372,2018-07-08,26866
+27275,496.99696693184615,Digital_Ebook_Purchase,Shadow of Freedom (Honor Harrington - Saganami Island Book 3),2920,2018-07-08,26429
+27276,369.2257550037489,Major Appliances,Panda Small Compact Portable Washing Machine with Spin Dryer,1461,2018-07-08,37396
+27277,750.6887136802189,Camera,"Maximalpower FC600 FUJ NP-50/KOD K7004 Rapid Travel Charger for Fuji NP50,Kodak KLIC7004, LI68, GE GB20,Minolta MINP1, Sanyo SLB0837",2372,2018-07-08,35412
+27278,545.8162354837963,Digital_Video_Games,Delicious - Emily's Wonder Wedding Premium Edition [Download],2840,2018-07-08,32124
+27279,958.9162611217429,Camera,Gary Fong GFLSC01 LightSphere Collapsible Flash Diffuser,2990,2018-07-08,41625
+27280,134.05354525267387,Automotive,Derma-Lite Nitrile Glove Solvent Resistant - Medium,1751,2018-07-08,33494
+27281,839.0888084571772,Electronics,Sound Intone Ms200 Stereo Headsets Strong Low Bass Headphones Earbuds for Smartphones Mp3/4 Laptop Computers Tablet Macbook Folding Gaming Earphones,2320,2018-07-08,44057
+27282,700.7975979077196,PC,"EVGA EVGA GTX GTX 970 Superclocked DVI-I, DVI-D, HDMI, DP SLI Ready Graphics Card Graphics Cards",2797,2018-07-08,13570
+27283,862.3624860040663,PC,Yosoo® 500L/H 10W DC12V CPU Cooling Heat Exchanger Water Pump Tank CO2 Cooler,3536,2018-07-08,38359
+27284,563.9079550077379,Automotive,ACDelco D1461F Ignition Switch,2607,2018-07-08,47087
+27285,266.53901921813303,Mobile_Apps,The Walking Dead: The Complete First Season,1031,2018-07-08,44008
+27286,595.5245169273059,Musical Instruments,Snark SN-8 Super Tight Tuner with ChromaCast Guitar Pick Sampler,1585,2018-07-08,4740
+27287,997.8605070963946,Baby,1 X My Precious Baby Electronic Phone & Key Chain,2894,2018-07-08,39638
+27288,401.89127434863605,Office Products,Pacon Card Stock,1730,2018-07-08,40605
+27289,295.4857316128669,Major Appliances,Maytag MHWE201YW,1814,2018-07-08,17462
+27290,347.9805089879978,Grocery,El Sabroso Chip Trtla Salsitas,2059,2018-07-08,27918
+27291,913.9091490176992,Mobile_Electronics,"4GB 1.8"" TFT LCD Display Screen Car Auto MP3 MP4 Player Built-in FM Transmitter With Wireless Remote Control Kit",1485,2018-07-08,36497
+27292,790.5954061957472,Digital_Music_Purchase,A Profits Rising [Explicit],1645,2018-07-08,41825
+27293,675.3360341365449,Grocery,"The Ginger People Gin Gins Original Chewy Ginger Candy, 2 lb Bag in a BlackTie Box",2327,2018-07-08,24535
+27294,350.104984242628,Automotive,Interstate Leather Men's Basic Vest with Side Lace,2545,2018-07-08,20457
+27295,831.4922627204006,Furniture,Flash Furniture 24'' Brown Metal Counter Height Stool with Brown Leather Swivel Seat,2406,2018-07-08,38148
+27296,33.31864306955761,PC,"HP Pavilion Dv6-2155Dx Laptop Lcd Screen 15.6"" Wxga Hd LED Diode",1834,2018-07-08,8510
+27297,662.695006297392,Apparel,Delfin Spa Women's Mineral Infused High Waist Exercise Shorts - Regular & Plus Sizes,1955,2018-07-08,1992
+27298,217.90585993345127,Apparel,Michael Stars Women's Long-Sleeve Raw-Edge Banded Crew-Neck T-Shirt,2424,2018-07-08,14995
+27299,619.7477730512556,Mobile_Electronics,Kroo (Black) Hard Shell Carrying GPS Case for 6-inch TomTom 6 Touchscreen GPS TomTom VIA 1605M GPS6-inch,2006,2018-07-08,15677
+27300,210.9131893704958,Health & Personal Care,Microlife 3MC1-PC Ultimate Automatic Blood Pressure Monitor with Irregular Heartbeat Detection,1796,2018-07-08,6335
+27301,789.1577038401798,Grocery,Bonne Maman Preserves,2563,2018-07-08,4884
+27302,81.71526015833282,Video DVD,The Croods (Blu-ray / DVD + Digital Copy + Toy),2008,2018-07-08,1457
+27303,808.1705540211171,Automotive,"G-Max GM68S Helmet , Color: Max Dk/Silver/White, Size: Lg 668546 TC-19",2377,2018-07-08,14061
+27304,404.6851858555564,Digital_Video_Games,Grand Theft Auto - San Andreas [Download],3027,2018-07-08,24973
+27305,671.9498463923892,Health & Personal Care,"Puritan's Pride Super Strength Melatonin 10mg Rapid Release Capsules, 60-Count",1415,2018-07-08,12489
+27306,334.7171389487502,Camera,Kata KT D-3N1-30 Sling/Backpack (Black),3463,2018-07-08,26345
+27307,278.6966923287028,Baby,Regalo My Cot,2839,2018-07-08,44563
+27308,216.90009177022358,Major Appliances,"Aluminum / Carbon Range Hood Filter - 8"" x 9 1/2"" x 7/16""",1046,2018-07-08,29393
+27309,78.64105919328424,Automotive,"Fragola 3000 Series Stainless Race Hose, -4 A-N (7/32"" ID)",2314,2018-07-08,5667
+27310,986.246492565541,Grocery,Hull-Less Whole Barley,3308,2018-07-08,37454
+27311,324.7375437892481,Health & Personal Care,"Genesis Today, Genessentials Greens Powder, 15.5 Ounce",1441,2018-07-08,9830
+27312,925.7201835670236,Mobile_Apps,Donut Maker Deluxe - Cooking Game,3097,2018-07-08,29297
+27313,544.9541443293183,Apparel,Diesel Women's D-Ale Dress,2567,2018-07-08,25780
+27314,422.7722142373686,Music,Ocean Dreams,1546,2018-07-08,39957
+27315,220.80010903536007,Furniture,"Heavy Duty Replacement Office Chair Base - 28"" Aluminum - S4164",3479,2018-07-08,4718
+27316,926.713505002124,Electronics,8GB 1.8''LCD Screen MP4/MP3 Player Media/Music/Audio Player with FM Radio,1881,2018-07-08,31084
+27317,23.29300600218633,Books,Ride With Me Ohio Turnpike I-80 & I-90 (INTERSTATE 80),1054,2018-07-08,44560
+27318,512.1782425777548,Books,We Need to Talk About Kevin,2776,2018-07-08,45879
+27319,496.23990251408406,Baby,Aden By aden + anais Muslin Swaddle Blanket 4 Pack,1539,2018-07-08,1410
+27320,610.9986568254644,Mobile_Electronics,Bose SoundLink Mini Bluetooth Speaker with Soft Cover Bundle (Red),1868,2018-07-08,32432
+27321,227.70378757098572,Mobile_Apps,"Free Books for Kindle, Free Books for Kindle Fire, Free Books for Kindle Fire HD, Free Books for Kindle Fire 1 (Kindle Tablet Edition)",3215,2018-07-08,27146
+27322,608.6811807232631,Beauty,Bestrice Pack of 3 Soft Sponge Body Bath Shower Spa Exfoliator Face Washing Cleansing Puff Scrubber,2403,2018-07-08,27035
+27323,692.6193223371528,PC,MSI ATX DDR3 2600 LGA 1150 Motherboards H97 GAMING 3,1190,2018-07-08,5632
+27324,533.7311073948671,Major Appliances,New Replacement Part - Washing Machine Agitator Cam Kit - Part # 3363663,2053,2018-07-08,21630
+27325,36.9425160272141,Outdoors,"Schwalbe Ultremo DD 700 x 23 C Bicycle Tire, Folding",1145,2018-07-08,16354
+27326,884.657181434737,Digital_Ebook_Purchase,The Last Four Things (Left Hand of God Trilogy),1735,2018-07-08,42507
+27327,904.4875810235737,Office Products,Panasonic KX-PRX120W dect_6.0 1-Handset Landline Telephone,1039,2018-07-08,40299
+27328,293.581190343821,Automotive,Bully IP1009 Green Skull Door Lock Knob,2728,2018-07-08,20127
+27329,147.06851448525563,Music,Someone Else Not Me,1848,2018-07-08,25484
+27330,23.2394577698048,Apparel,Kenneth Cole Reaction Men's Sharkskin Slim-Fit Flat-Front Pant,3104,2018-07-08,4024
+27331,318.76686699817674,Music,Sounds of Summer: Very Best of The Beach Boys,2037,2018-07-08,14252
+27332,305.7373603409623,Digital_Ebook_Purchase,The Crossing Places: The Dr Ruth Galloway Mysteries 1,3278,2018-07-08,29758
+27333,195.76478921232743,Digital_Ebook_Purchase,Identity Theft,1356,2018-07-08,13684
+27334,13.305009859853422,Electronics,"Foxnovo F-4S 4-Slots LCD Battery Charger for Li-ion 26650, 22650, 18650, 18500, 18490, 17670, 17650, 17500, 16340, 14500, 10440 and Ni-MH /Ni-CD: A, AA, AAA, C, SC (Black)",2104,2018-07-08,2980
+27335,624.640789045739,PC,"Kindle Fire HD 7 2014 Case, roocase Dual View 2014 Fire HD 7 Folio Case with Sleep / Wake Smart Cover with Multi-Viewing Stand for Amazon Kindle Fire HD 7 Tablet (4th Generation - 2014 Model), Black",1272,2018-07-08,6041
+27336,599.4549595017527,Outdoors,Timbuk2 H.A.L. Laptop Backpack,2821,2018-07-08,29379
+27337,217.20299553686218,Apparel,Danskin Women's Cotton Drawstring Pant,3105,2018-07-08,32534
+27338,249.13003059818348,Books,"Careerxroads 2001: The Directory to Job, Resume and Career Management Sites on the Web",1257,2018-07-08,35029
+27339,999.0350204258943,Furniture,Gladiator - Movie Poster (Regular Style - Russel Crowe),1913,2018-07-08,19310
+27340,743.5866365114335,Digital_Music_Purchase,Glorious Peasant,3337,2018-07-08,26895
+27341,380.687827304399,Automotive,APN Jeep Exhaust Manifold (for 4.0L Engines),1726,2018-07-08,25564
+27342,602.5494921061002,Furniture,Hortense B. Hewitt Wedding Accessories Red Aisle Runner,2239,2018-07-08,31899
+27343,20.87314964629479,Beauty,Essence2Beauty-Most Potent Cucumber Eye Treatment Available-New Organic Skin Care and Anti Aging Moisturizer-Clinical Strength,1251,2018-07-08,10319
+27344,901.7015033655132,Digital_Music_Purchase,Alma Vieja,3409,2018-07-08,44752
+27345,811.5289817088844,Digital_Video_Games,Mystery Cruise [Download],1060,2018-07-08,16512
+27346,256.9024630026497,Digital_Ebook_Purchase,Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10,2327,2018-07-08,23552
+27347,628.4023546791177,Musical Instruments,Vic Firth Buy 3 Pairs of Black Drumsticks Get 1 Free 5A,2646,2018-07-08,44152
+27348,758.4813630403152,Books,Cheaters,1194,2018-07-08,41900
+27349,149.2970495397307,Digital_Software,Norton AntiVirus 1 User 3 Licenses,3321,2018-07-08,10094
+27350,559.3503745348797,Outdoors,Ultimate Survival Technologies JetScream Floating Whistle,3553,2018-07-08,149
+27351,995.072034128818,PC,"Quantum Byte Fanless Mini Desktop PC (Windows 8.1, Intel Atom Z3735F, 2GB RAM+32GB storage)",3587,2018-07-08,46866
+27352,261.4579413360443,Major Appliances,Panda Small Compact Portable Washing Machine Fully Automatic 0.9/1.6/2.1cu.ft,3361,2018-07-08,36962
+27353,453.16463472453125,PC,Bluetooth Keyboard for Android OS Windows ¡­,3047,2018-07-08,18867
+27354,246.20261482735128,Office Products,Vivamart Remanufactured Ink Cartridges Replacement for EPSON T069 Set -4Black/3Cyan/3Yellow/3Magneta 13-PACK,1936,2018-07-08,47784
+27355,326.9706750493621,Digital_Video_Download,6 Souls,2033,2018-07-08,12519
+27356,102.49103157652661,Office Products,"Fiskars Titanium TripleTrack High Profile Cutting Replacement Blades, Style I",3364,2018-07-08,4556
+27357,982.2940337072172,Major Appliances,"Supco Replacement for GE GSWF Refrigerator Filter, 2-Pack",2023,2018-07-08,3186
+27358,205.23579430640672,Electronics,"RuggedTec RoqBloq Portable Bluetooth Speaker Outdoor Rugged Water Resistant, Dust & Shock Proof (Black/Red)",1205,2018-07-08,20963
+27359,913.3070868164332,Furniture,"Lorell Executive High-Back Chair, Mesh Fabric, 28-1/2""x28-1/2""x45, BK",2043,2018-07-08,15580
+27360,872.2397698002499,Electronics,eforCity 310148 2M 6-Feet VGA to 3 RCA Cable Adapter TV HDTV for PC Laptop,1478,2018-07-08,48779
+27361,826.2299837850857,Furniture,2-Pcs Sectional Sofa By Poundex # F7359,1594,2018-07-08,45906
+27362,245.8049201194818,Apparel,French Connection Women's Honeycomb Stitch Sweater,1107,2018-07-08,2683
+27363,774.5688096603856,Digital_Video_Download,Dad's in Heaven with Nixon,1784,2018-07-08,38592
+27364,953.7343851292259,Office Products,"12 Pack Compatible With Brother LC-71 , LC-75 3 Black, 3 Cyan, 3 Magenta, 3 Yellow Compatible With Brother MFC-J280W, MFC-J425W, MFC-J430W, MFC-J435W, MFC-J5910DW, MFC-J625DW, MFC-J6510DW, MFC-J6710DW, MFC-J6910DW, MFC-J825DW, MFC-J835DW. Ink Cartridges for inkjet printers. LC-71BK , LC-71C , LC-71M , LC-71Y , LC-75BK , LC-75C , LC-75M , LC-75Y © Blake Printing Supply",2624,2018-07-08,25841
+27365,817.7803245287777,Mobile_Apps,The Sims Freeplay,2844,2018-07-08,44875
+27366,594.9630394752223,Health & Personal Care,"Ubervita Uberabs Abdominal Muscle Toner and Targeted Thermogenic Fat Burner Capsules, 60 Count",2969,2018-07-08,36375
+27367,695.5783184482252,Apparel,Nautica Mens 3 Pack Tipped Rib Socks,3063,2018-07-08,29737
+27368,920.370750582747,Health & Personal Care,Apple Watch Stand [Nightstand Mode Compatible Accessories] Aluminum Charging Dock (Silver) - Madsen Outlet,1533,2018-07-08,36868
+27369,753.5011263985824,Digital_Software,Intuit QuickBooks Online Simple Start 2015,2359,2018-07-08,46592
+27370,276.0194113551522,Baby,Planet Wise Hanging Wet/Dry Diaper Bag,1794,2018-07-08,39438
+27371,154.32238626913917,Beauty,"Domire Nail Art beauty accessory for women nails, fun and easy to apply with top coat or nail glue",3053,2018-07-08,4038
+27372,183.92158717874915,Musical Instruments,"Digitech TRIO Electric Guitar Multi Effect, Band Creator Pedal, Power Supply Included",2092,2018-07-08,30577
+27373,700.2331437199921,Baby,"Kathe Kruse - Rainbow Baby Grabbing Ring Doll, Blue",3013,2018-07-08,19028
+27374,994.5691218667542,Gift Card,Amazon eGift Card - Holiday Snow Globe,2104,2018-07-08,4853
+27375,896.860777612042,Baby,Madison Mills #23 3' Accordian Porch Gate,1238,2018-07-08,14853
+27376,687.8570624715661,Apparel,Allegra K Women Polka Dots Zip-Up Romper Long Sleeve Short Jumpsuit,2982,2018-07-08,13593
+27377,550.9763673742609,Musical Instruments,Light up Ninja Mask - Black LED Mask for Cyborg Cybernetic Dancer Futuristic Mask LED Lightshow Mask Dj Masquerade Carvinal Carnaval Festival Edm Concert Electronic Dance Music Style Light Outfit Skull Costume Helmet Laser Lightshow Rave Costume Sound Reactive,1723,2018-07-08,2116
+27378,387.08255400273765,Mobile_Apps,Avakin - 3D Avatar Creator,2998,2018-07-08,26479

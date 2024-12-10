@@ -1,0 +1,6 @@
+apache-airflow
+psycopg2-binary
+pandas
+kafka-python
+pyspark
+confluent-kafka

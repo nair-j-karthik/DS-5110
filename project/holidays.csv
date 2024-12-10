@@ -1,0 +1,37 @@
+holiday_id,date,holiday_name,region
+1,01/01/2018,New Year's Day,US
+2,02/14/2018,Valentine's Day,US
+3,04/01/2018,Easter,US
+4,11/22/2018,Thanksgiving,US
+5,12/25/2018,Christmas Day,US
+6,09/03/2018,Labor Day,US
+7,01/01/2019,New Year's Day,US
+8,02/14/2019,Valentine's Day,US
+9,04/21/2019,Easter,US
+10,11/28/2019,Thanksgiving,US
+11,12/25/2019,Christmas Day,US
+12,09/02/2019,Labor Day,US
+13,01/01/2020,New Year's Day,US
+14,02/14/2020,Valentine's Day,US
+15,04/12/2020,Easter,US
+16,11/26/2020,Thanksgiving,US
+17,12/25/2020,Christmas Day,US
+18,09/07/2020,Labor Day,US
+19,01/01/2021,New Year's Day,US
+20,02/14/2021,Valentine's Day,US
+21,04/04/2021,Easter,US
+22,11/25/2021,Thanksgiving,US
+23,12/25/2021,Christmas Day,US
+24,09/06/2021,Labor Day,US
+25,01/01/2022,New Year's Day,US
+26,02/14/2022,Valentine's Day,US
+27,04/17/2022,Easter,US
+28,11/24/2022,Thanksgiving,US
+29,12/25/2022,Christmas Day,US
+30,09/05/2022,Labor Day,US
+31,01/01/2023,New Year's Day,US
+32,02/14/2023,Valentine's Day,US
+33,04/09/2023,Easter,US
+34,11/23/2023,Thanksgiving,US
+35,12/25/2023,Christmas Day,US
+36,09/04/2023,Labor Day,US

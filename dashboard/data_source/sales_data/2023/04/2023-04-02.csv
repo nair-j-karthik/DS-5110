@@ -1,0 +1,151 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+285010,125.42010183390836,PC,HP Stream 7 32GB Windows 8.1 Tablet (Includes Office 365 Personal for One Year),1894,2023-04-02,36576
+285011,33.51989117888302,Major Appliances,Samsung Guard - Ref Low W2 - 05 Part # Da63-01263C,1391,2023-04-02,7421
+285012,901.8240327753248,Camera,Kodak Easyshare M522 Digital Camera,2225,2023-04-02,43707
+285013,390.66961313232315,Digital_Music_Purchase,That Was Then,3334,2023-04-02,34109
+285014,92.08640294180502,Mobile_Apps,Angry Birds Slingshot Stella,2163,2023-04-02,9014
+285015,539.2909037301692,Grocery,Folgers Gourmet Selections Single Serve Coffee - Lively Colombian - 80 K-Cups (Single Serve Portion Packs designed for use with Keurig Brewers),2832,2023-04-02,48860
+285016,847.7814052032838,PC,"Poweradd&trade; Case Cover for Apple MacBook Air 13"" 13 inch Ultra Thin Leather Sleeve Case - Brown",3101,2023-04-02,6693
+285017,247.5103012412083,Apparel,"Stephen Joseph Little Boys' Go-Go Bag, Construction, One Size",2812,2023-04-02,10678
+285018,431.60995051768765,Baby,Luvable Friends Flannel Receiving Blankets,1146,2023-04-02,24272
+285019,553.9194121110559,Furniture,Alera Elusion Series Mesh High-Back Multifunction Chair - Black,3563,2023-04-02,22242
+285020,103.1255214852848,Apparel,Arus Women's Classic Hooded Bathrobe Turkish Cotton Terry Cloth Robe,2394,2023-04-02,27105
+285021,144.78472819855702,Furniture,Oriental Furniture 6 ft. Tall Double Sided Vintage Weekend Canvas Room Divider - Paris,2904,2023-04-02,21827
+285022,392.92481475493827,Digital_Music_Purchase,The Color Spectrum The Complete Collection,1588,2023-04-02,28374
+285023,216.07378818452574,Grocery,Bell Plantation PB2 Powdered Peanut Butter,3142,2023-04-02,31532
+285024,842.8963141973782,Digital_Ebook_Purchase,False Pretenses: A Novel (Secrets of Roux River Bayou),3204,2023-04-02,5488
+285025,544.6173831462933,Camera,Canon 55-250mm IS II,3127,2023-04-02,29440
+285026,254.27637145490652,Digital_Ebook_Purchase,Extra Lettuce: Manage Your 401K Now to Avoid Flipping Burgers Later,1488,2023-04-02,42778
+285027,217.4734412068525,Music,Blue Man,2199,2023-04-02,45768
+285028,578.3188664560337,Mobile_Electronics,X-1 Women's Momentum In-Ear Ultra Light Headphones,1021,2023-04-02,22385
+285029,867.6241936077046,Health & Personal Care,Stars & Stripes - 36 Note Cards - Blank Cards - Red Envelopes Included,1177,2023-04-02,13596
+285030,958.408515475681,Automotive,Mann-Filter HU 718/5 X Metal-Free Oil Filter,2367,2023-04-02,16377
+285031,800.5797625286245,Digital_Video_Download,Blood Moons: Decoding The Imminent Heavenly Signs,1785,2023-04-02,1381
+285032,429.322450720538,Digital_Video_Download,Ninotchka,2596,2023-04-02,27656
+285033,210.8880944370724,Camera,Bower FPC67 Digital High-Definition 67mm Polarizer Filter,3189,2023-04-02,44608
+285034,832.5038415561695,Mobile_Apps,Indy Cat Match 3,1789,2023-04-02,45692
+285035,66.22799633842331,Gift Card,Amazon eGift Card - Celebrate,2006,2023-04-02,37085
+285036,850.2936250379909,Automotive,Genesis Cable Bleeder Bottle,2304,2023-04-02,36651
+285037,779.6000815020132,Music,Wicked Style,2358,2023-04-02,39199
+285038,363.67124174795003,Major Appliances,"Amana 7.0 cu. ft. Traditional Electric Dryer with Interior Drum Light, NED4700YQ, White",3188,2023-04-02,13743
+285039,769.2363019681404,Books,Milk - The Deadly Poison,2163,2023-04-02,2104
+285040,189.3060461557667,Musical Instruments,Audio-Technica ATR-6550 Video Camera Condenser Shotgun Microphone,3511,2023-04-02,34111
+285041,586.6878080432848,Beauty,Viktor & Rolf Bon Bon Eau de Parfum Spray for Women,2211,2023-04-02,17386
+285042,929.5509294810369,PC,"iPad Air 2 Keyboard, JETech Wireless Bluetooth Keyboard Case for Apple iPad Air 2 (2014 Edition) with 360 Degree Rotation and Multi-Angle Stand - 2013",3233,2023-04-02,7322
+285043,467.5307474412606,Apparel,Florsheim Men's Reversible Belt Croc Embossed 30MM,2340,2023-04-02,33643
+285044,807.9142934142916,Furniture,Gladiator - Movie Poster (Regular Style - Russel Crowe),1165,2023-04-02,34306
+285045,393.20769386430555,Camera,Canon FS300 Flash Memory Camcorder (Blue),1857,2023-04-02,248
+285046,773.1064693406634,Baby,Zooley Natural Teething Toy,1496,2023-04-02,499
+285047,252.38642588536882,Digital_Ebook_Purchase,The MD Emperor Has No Clothes: Everybody Is Sick and I Know Why,2483,2023-04-02,42238
+285048,66.8233886232905,Furniture,Country Stool,1683,2023-04-02,11121
+285049,711.3851095423959,Office Products,"11 Pack Compatible With Brother LC-71 , LC-75 5 Black, 2 Cyan, 2 Magenta, 2 Yellow Compatible With Brother MFC-J280W, MFC-J425W, MFC-J430W, MFC-J435W, MFC-J5910DW, MFC-J625DW, MFC-J6510DW, MFC-J6710DW, MFC-J6910DW, MFC-J825DW, MFC-J835DW. Ink Cartridges for inkjet printers. LC-71BK , LC-71C , LC-71M , LC-71Y , LC-75BK , LC-75C , LC-75M , LC-75Y © Blake Printing Supply",1493,2023-04-02,46878
+285050,956.7116552269435,Furniture,Flokati Faux Fur Rugs 3' x 5' (WHITE),2061,2023-04-02,18513
+285051,67.232941798578,Camera,GGS II LCD Optical Screen Protector for Nikon D7000 New,3569,2023-04-02,40905
+285052,440.9058080094106,Mobile_Apps,Clean Master Phone Boost,3307,2023-04-02,47975
+285053,439.4780566351197,Music,Secret People,2378,2023-04-02,43355
+285054,799.5636065425045,Camera,B+W Clear UV Haze with Multi-Resistant Coating (010M),3372,2023-04-02,21121
+285055,301.2810060937878,Music,Two Ball Loo,3328,2023-04-02,22785
+285056,671.8740937526106,Apparel,Hanes Girls' Hipster Panty (9-Pack),1973,2023-04-02,2424
+285057,970.2553176938445,Apparel,Novawo Women's Knit Lace Trim Cute Leg Warmers Nice Boots socks (with nice pouch),3116,2023-04-02,25944
+285058,891.3418494049874,Musical Instruments,Triple Single SSS Pickguard Tortoise Shell For Strat,3508,2023-04-02,5870
+285059,534.5082867318343,Electronics,"Bluetooth Speaker, DKnight Magicbox Ultra-Portable Wireless Bluetooth Speaker Powerful Sound with build in Microphone, Works for Cellphone",2427,2023-04-02,2202
+285060,442.2904295675179,Music,Sound System,1210,2023-04-02,8892
+285061,106.1850705186196,Digital_Ebook_Purchase,"Sassy, Single, and Satisfied",1354,2023-04-02,36930
+285062,356.77291524925505,Major Appliances,"GE Cafe CGS990SETSS 30"" Freestanding Gas Range with 5 Sealed Burners, Convection Self-Clean Double Oven and Griddle, in Stainless Steel",3073,2023-04-02,29760
+285063,210.140088289014,Mobile_Apps,Back to Bed,1622,2023-04-02,47107
+285064,85.38016105458408,Apparel,Bigfoot Printed Mid Calf Socks | Guys Lacrosse Socks by ChalkTalkSPORTS | Multiple Sizes,2609,2023-04-02,47927
+285065,377.40665804039656,Outdoors,Serfas TCPG Bicycle Floor Pump,1569,2023-04-02,43900
+285066,372.81542670489614,Books,St. Dominic's Family: Over 300 Famous Dominicans,2659,2023-04-02,17952
+285067,216.15478719428276,Digital_Video_Download,Journey to Italy - Viaggo in Italia,1475,2023-04-02,10275
+285068,569.5387681722488,Apparel,Buxton Womens Leather Heiress French Purse Wallet (Gray),1491,2023-04-02,14614
+285069,925.4524330657028,Musical Instruments,"Beam Splitter - Professional Water Based Haze Fluid - Works Amazing in Hurricane Haze 1D, Haze 2D and Haze 4D",1288,2023-04-02,9140
+285070,11.168986368494231,Mobile_Electronics,"Brand New Sony CDX-M60UI (CDXM60UI) In-dash Marine AM/FM, CD, CD-R, CD-RW, MP3, WMA, and AAC player with Remote, iPod and iPhone USB direct connectivity , SIRIUS or XM Satellite Radio Ready , HD Radio Ready + *Free $20 3.5 Mm iPod/MP3 Audio Cable* + *Free iKEY Audio E180 Ear Drumz Earbuds, WHITE",3292,2023-04-02,18751
+285071,495.5433384324448,Major Appliances,"Whirlpool Part Number 8205098: Tray, Glass",2411,2023-04-02,44350
+285072,961.5646409551684,PC,Exact Pro Series Case for Kindle Fire HD 7,3183,2023-04-02,8784
+285073,31.521016702885596,Camera,Sony WCS999 Wireless Camcorder Microphone for DCR-DVD101/201/301 & DCR-HC20/30/40/65/85,2792,2023-04-02,15944
+285074,880.8732066524396,Outdoors,point6 Active Medium Cushion Mini Crew Socks,1089,2023-04-02,19181
+285075,542.0927125159009,Automotive,Denso 234-4055 Oxygen Sensor,2901,2023-04-02,24169
+285076,755.5164720860696,Health & Personal Care,"Biotin (High Potency) 5000mcg Per Veggie Softgel; Enhanced with Coconut Oil for better absorption; Supports Hair Growth, Glowing Skin and Strong Nails; 120 Mini-Veggie Softgels; Made In USA.",2501,2023-04-02,17510
+285077,378.61268221549705,Digital_Ebook_Purchase,HOSTILE WITNESS: A Josie Bates Thriller (The Witness Series Book 1),1267,2023-04-02,358
+285078,493.05133693557866,Gift Card,Amazon Gift Card - Print - New Baby Boy (Balloons),1275,2023-04-02,32878
+285079,215.7135936461965,Musical Instruments,Vandoren M/O Aged Gold Soprano Saxphone Ligature/Cap,2655,2023-04-02,31119
+285080,380.13168299276253,Apparel,Horse showjumping Kids' Premium T-Shirt by Spreadshirt,2034,2023-04-02,34966
+285081,360.01105043807746,Electronics,"Crosley CR8005D-BK Cruiser Deluxe Portable 3-Speed Turntable with Bluetooth, Black",1605,2023-04-02,41856
+285082,668.682494990058,Digital_Video_Games,Batman Arkham GOTY Pack [Download],2560,2023-04-02,16196
+285083,289.425396519932,Music,Chicago,2776,2023-04-02,5874
+285084,434.98417563983236,Major Appliances,"Electrolux EIFLS55I 4.07 Cubic Foot Front Load Washer with IQ-Touch Controls Featuring Perfect Steam,",1819,2023-04-02,30835
+285085,226.56645318910424,Furniture,Flash Furniture Mid-Back Black Fabric Task and Computer Chair with Nylon Arms,1269,2023-04-02,4391
+285086,31.67987591330023,Mobile_Apps,Fast Finger™,3515,2023-04-02,19910
+285087,850.7320533109265,Digital_Video_Download,Batman (1989),3411,2023-04-02,47379
+285088,32.86487700948714,Beauty,"Jessica Mc Clintock by Jessica Mcclintock Powder with Puff for Women, 2-Ounce",1420,2023-04-02,46477
+285089,805.0762280446786,Automotive,"Panacea Products (40500) White 8.63"" x 4"" x 4.38"" Handy Kaddy Cabinet Rack",3269,2023-04-02,34141
+285090,927.5367611718112,Furniture,Crown Mark Tyler 4-Piece Counter Height Table Set,3158,2023-04-02,17954
+285091,894.7412412981823,Apparel,Hatley Big Girls'  Pajama Set Show Horses Pasture Bedtime,3611,2023-04-02,34395
+285092,330.29884226470335,Grocery,"Palmetto Farms Yellow Stone Ground Grits 2 LB - Non-GMO - Just All Natural Corn, No Additives - Naturally Gluten Free, Produced in a Wheat free facility - Grinding Grits Since 1934",2624,2023-04-02,42413
+285093,870.4664246699971,Major Appliances,EdgeStar 80 Can 15 Inch Wide Built-In Beverage Cooler,2259,2023-04-02,38456
+285094,667.2600657926042,Digital_Music_Purchase,Santorini Splendor,3360,2023-04-02,9125
+285095,188.01284286956334,Beauty,"Benefit Badgal Lash Mascara, Black, 0.3 Ounce",1280,2023-04-02,32027
+285096,845.9553078603409,Major Appliances,Whirlpool Part Number 8318314: Thermal Cut-Off (Includes Item 32),2452,2023-04-02,7146
+285097,372.3727470829087,Health & Personal Care,Embellished Thank You - 36 Thank You Cards - 6 Designs - Blank Cards - Gray Envelopes Included,1652,2023-04-02,47944
+285098,621.1400989887115,Outdoors,M-Wave Foldable Bicycle Display Stand,3299,2023-04-02,3734
+285099,980.8951455838678,Office Products,Brother Printer LC752PKS 2 Pack of Cartridges Ink - Retail Packaging,2925,2023-04-02,31518
+285100,306.28110144203174,Mobile_Apps,FlipPix Art - Simple Pleasures,2568,2023-04-02,19972
+285101,615.7146968659798,Music,Buena Vista Social Club,2304,2023-04-02,37498
+285102,485.93803258485406,Major Appliances,"AP3875639, PS1019114 Replacement Refrigerator Freezer Evaporator Fan Motor by GFP",2592,2023-04-02,42000
+285103,672.4994242279216,Beauty,"Scar Esthetique Cream for Scar Therapy Treatment Burns Keloid, Acne scar removal cream 4g get free Botan plus Herbal Mouth Freshener",1092,2023-04-02,29943
+285104,981.9857387976853,Digital_Ebook_Purchase,Her Nowhere,3125,2023-04-02,7692
+285105,896.2048255427627,PC,"Lenovo Thinkpad X250 Ultrabook 20CM002WUS (12.5-inch Display, i7-5600U 2.6GHz, 8GB RAM, 256GB SATA SSD, Bluetooth 4.0, 720p Camera, Fingerprint Reader, Windows 7 Pro 64-bit)",2381,2023-04-02,5633
+285106,813.7995169697612,Camera,Fujifilm FinePix S4000 14 MP Digital Camera with Fujinon 30x Super Wide Angle Optical Zoom Lens and 3-Inch LCD,1904,2023-04-02,36552
+285107,259.98755040730214,Health & Personal Care,3M Steri Strip Skin Closures 1/4'' X 3'' - 20 Packages of 3,1829,2023-04-02,19096
+285108,472.0907350344222,Furniture,Vintage Laundry Room Decorative Braided Runner,2516,2023-04-02,29488
+285109,184.99169961441964,PC,MoKo Vertical Flip Cover Case for Amazon New Kindle Paperwhite.,2235,2023-04-02,46972
+285110,623.0496287399337,Books,The Mists of Avalon,1318,2023-04-02,46296
+285111,144.44526269337936,Digital_Software,Audials Tunebite 10 Premium [Download],1238,2023-04-02,37692
+285112,872.5820504866566,Digital_Video_Download,The Terminal,3262,2023-04-02,30559
+285113,385.31590328277326,PC,"Surface 3 Case, Snugg8482; - Leather Sleeve Case with for Microsoft Surface 3",2023,2023-04-02,41923
+285114,240.23974693675035,Digital_Ebook_Purchase,The Saving of NATION,3517,2023-04-02,24788
+285115,357.973495771965,Music,If I Could Turn Back Time: Cher's Greatest Hits,2080,2023-04-02,2289
+285116,441.36928380928464,Digital_Video_Download,Galaxy Quest,2513,2023-04-02,26640
+285117,115.83627599667922,Major Appliances,"HAIER HDP18PA 6-Place Setting Compact Dishwasher, White",2925,2023-04-02,24900
+285118,68.53696681828944,Baby,Premium Car Seat Cover,2229,2023-04-02,24227
+285119,862.1180639598577,Digital_Ebook_Purchase,Official Street Queen,1004,2023-04-02,43106
+285120,46.05967758960044,Apparel,Dockers Women's Updated Essential Woven Shirt,2945,2023-04-02,35970
+285121,238.83512111243056,Baby,Dr. Brown's 2 Pack Natural Flow Level 1 Wide Neck Nipple,3436,2023-04-02,41261
+285122,928.2164210357826,Digital_Software,Norton Security for One Device,1398,2023-04-02,25974
+285123,13.190767568932838,Digital_Video_Download,The Drop,2979,2023-04-02,7851
+285124,625.7087692076619,Musical Instruments,Woodwind & Brasswind Small Shank Trombone Mouthpiece in Silver 12C (12C),1980,2023-04-02,32548
+285125,12.29898202481817,Musical Instruments,"Seagull S6 ""The Original"" Acoustic Guitar w/Free $49 Seagull Embroidered Logo Gig Bag and Free Stand",2171,2023-04-02,17004
+285126,76.21862096703079,Digital_Ebook_Purchase,The Pact: A Love Story,2689,2023-04-02,21039
+285127,750.2053244849137,Automotive,OES Genuine Air Conditioning Condenser Fan Motor for select Acura Legend models,1619,2023-04-02,31937
+285128,576.9571531973179,Apparel,Sons of Anarchy Navy Samcro Shirt,3453,2023-04-02,20916
+285129,218.37573501647879,Digital_Software,MAGIX Music Maker MX,1838,2023-04-02,11416
+285130,535.3512576835028,Digital_Video_Download,Treme: Season 2,1571,2023-04-02,1764
+285131,820.1012953509378,Digital_Music_Purchase,I'm Sticking With You (Album Version),1263,2023-04-02,8998
+285132,129.348861229181,Mobile_Electronics,iPOD TOUCH 4th GENERATION HARD CASE WITH PRINTED ALUMINIUM INSERT BACK TO THE FUTURE,1934,2023-04-02,12714
+285133,452.708703752674,Mobile_Electronics,Supernatural Case for Ipod Touch 5 Generation?,3266,2023-04-02,11813
+285134,419.2366187290097,Furniture,Quail Family Bookends,2562,2023-04-02,16624
+285135,765.7985970949386,Digital_Software,Checkbook for Flash Drives [Download],2267,2023-04-02,46399
+285136,375.23291812017914,Grocery,"Beanitos Black Bean Chips with Sea Salt, 6 Ounce (Pack of 6)",2181,2023-04-02,5128
+285137,168.2467156369766,Digital_Software,H&R Block At Home 2009 Basic Federal + eFile [Formerly TaxCut],1704,2023-04-02,18514
+285138,806.9249721283202,Furniture,Baxton Studio Quincy Linen Platform Bed,2291,2023-04-02,19234
+285139,680.8645332662878,Digital_Video_Download,SpongeBob SquarePants Season 1,2119,2023-04-02,28114
+285140,889.2929949216033,Digital_Music_Purchase,"1% For The Planet, The Music (Vol. 1)",2697,2023-04-02,29928
+285141,286.71916184086257,Apparel,DKNYC Women's Plus Size Short Sleeve Top with Cami,1223,2023-04-02,48407
+285142,445.4250310531905,Baby,Summer Infant Stylish n' Secure Extra Tall Wood and Metal Walk Through Gate (Discontinued by Manufacturer),3061,2023-04-02,15311
+285143,516.1373424820208,Grocery,"Great Lakes Gelatin, Certified Paleo Friendly, Keto Certified, Collagen Hydrolysate, Peptides, Pasture-Raised Grass-Fed, Non GMO, 16 oz, FFP",2702,2023-04-02,17343
+285144,670.8496506389916,Baby,"Skip Hop Moby Bath Spout Cover Universal Fit, Blue",1457,2023-04-02,31983
+285145,633.2449150980792,Digital_Music_Purchase,Stolen Moments,1202,2023-04-02,15193
+285146,75.76005554612829,Office Products,"VELCRO Brand  - Sticky Back  - 5/8"" Coins, 15 Sets - Beige",1957,2023-04-02,7627
+285147,780.5933980876904,Health & Personal Care,Mini Purple Gift Boxes (2 dz) by Fun Express,2924,2023-04-02,2064
+285148,705.9727709964852,Baby,Little Boutique Wall Decal - White Chandelier,1178,2023-04-02,4656
+285149,109.8767462826809,Music,Benny Goodman - Greatest Hits [Columbia/Legacy],3356,2023-04-02,5951
+285150,612.8021114008991,Mobile_Electronics,"Hifonics BRX2000.1D 2,000 Watt RMS Mono Car Amplifier + 0 AWG Amp Kit+Capacitor",1790,2023-04-02,3182
+285151,444.8301634295664,Musical Instruments,Audio-Technica PRO 35 Cardioid Condenser Clip-on Instrument Microphone,1811,2023-04-02,31987
+285152,780.4218995318553,Digital_Music_Purchase,Yuletide Beat,2785,2023-04-02,14927
+285153,597.4642244495725,Health & Personal Care,Butler G-U-M Travel Toothbrushes with Antibacterial Bristles - 2 ea,1277,2023-04-02,45169
+285154,878.5748049220491,Digital_Ebook_Purchase,Love at First Hike,2137,2023-04-02,639
+285155,781.092757082358,Apparel,Napoline™ Roman Rock™ Design Genuine Leather Jacket,1350,2023-04-02,40124
+285156,754.5101508799419,Major Appliances,GE PVM9195DFWW Profile 1.9 Cu. Ft. White Over-the-Range Microwave,1655,2023-04-02,1878
+285157,772.1434173954123,Apparel,Daddy and Baby Matching T-Shirt and Infant Tee Set - Beast and Beast in Training,1360,2023-04-02,9822
+285158,668.4504948603951,Gift Card,Amazon eGift Card - Amazon Books,3217,2023-04-02,45307
+285159,379.6310654154984,Digital_Music_Purchase,We're Gonna Make It,1520,2023-04-02,43176

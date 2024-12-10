@@ -1,0 +1,194 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+147775,135.6521654222277,Digital_Video_Games,Sally's Spa [Download],3584,2020-09-24,15720
+147776,334.7347392787768,Mobile_Apps,DC Metro Transit,2695,2020-09-24,32155
+147777,900.6109814840478,Baby,BOB Britax Carseat Adaptor Single,2160,2020-09-24,40176
+147778,635.8015653291633,Office Products,eForCity Compatible Ink Cartridge Replacement for HP 901 (Color),3089,2020-09-24,23174
+147779,355.3909363641545,Musical Instruments,A. Breton Violin Finetuner Tailpiece,1904,2020-09-24,2180
+147780,469.9576132280194,Mobile_Electronics,LMS430HF40 Touch screen digitizer repair replacement part （only outer touch digitizer no LCD display）,2869,2020-09-24,36621
+147781,266.08443826142855,Digital_Music_Purchase,Hawaiian Wedding Song,2410,2020-09-24,8050
+147782,657.9719199358711,Automotive,K&N Aerosol Recharger Filter Care Service Kit,3315,2020-09-24,12186
+147783,852.1134018490678,Musical Instruments,Hola! Deluxe Padded Guitar Gig Bags,1368,2020-09-24,26570
+147784,432.5117657421101,Furniture,Bar Unit with Acrylic Front,2426,2020-09-24,37604
+147785,590.7057222650577,Office Products,Flip It,2714,2020-09-24,40115
+147786,564.5992996907958,Beauty,"Listerine Gentle Gum Care Woven Floss (was Reach Gentle Gum Care, same product with a new name)",1309,2020-09-24,42363
+147787,877.0460475535758,Automotive,USA Made -Professional Adjustable Mechanic's Seat (HRAS) - by  Whiteside Manufacturing,1733,2020-09-24,8448
+147788,924.5471196491784,PC,"MyGift 13 inch Endless Universe with Twinkling Blue Stars DOUBLE Sided Print Laptop Carrying Case for Macbook Air / Pro, Acer, Asus, Dell, HP, Sony",2562,2020-09-24,25305
+147789,669.8552620575169,Furniture,"Winsome Wood Round Coffee Table, Espresso - Additional Vibrant Colors Available by TableTop King",3068,2020-09-24,31615
+147790,707.5316746497991,Health & Personal Care,"Lysol Disinfecting Wipes, Lemon, Early Morning Breeze, & Crisp Linen, 480ct (2X3x80ct)",1590,2020-09-24,10842
+147791,938.698754860278,PC,"T-Power AC Adapter 5V 2.1A Rapid Charger (6.6ft cord ) for Samsung Galaxy Tab 2,7, 7.7, 7 Plus, 8.9, 10.1; Galaxy 10.1 inches Tablet, ETA-P11JBEGXAR-P10JBEGSTA",2799,2020-09-24,527
+147792,238.65708378406677,Musical Instruments,Auphonix Pop Filter For Blue Yeti Microphone,3102,2020-09-24,26143
+147793,742.2278408925889,Major Appliances,Scratch-B-Gone Glass Ceramic Cooktop Restoration Kit,3485,2020-09-24,20687
+147794,931.1124017976941,Apparel,Calvin Klein Baby-Boys Newborn Cream Top With Brown Pants,1126,2020-09-24,15555
+147795,565.3699105535876,Digital_Software,Corel VideoStudio Pro X6,2173,2020-09-24,15907
+147796,618.1769600014396,Apparel,Lucky Brand Big Girls' Cate Skinny-Straight Jean,3077,2020-09-24,49159
+147797,895.4190834854473,Beauty,"THE BEST ORGANIC Vitamin C Serum For Face, Neck and Decollete. 20% Vitamin C - Botanical Hyaluronic Acid - Vitamin E - Organic Aloe - Organic Jojoba Oil - Organic Herbal Ingredients.",2388,2020-09-24,31737
+147798,643.9402675782014,Automotive,Rain-X Weatherbeater Wiper Blade 2,3286,2020-09-24,18134
+147799,714.0182129666224,Digital_Video_Games,Guild Wars 2 [Download],3392,2020-09-24,44111
+147800,398.2604027346067,Books,"Cabling Handbook, The (2nd Edition)",3524,2020-09-24,2358
+147801,891.155078761071,PC,Actiontec C2000A Wireless N VDSL2 Modem Router,1064,2020-09-24,28866
+147802,665.4271890627494,Digital_Ebook_Purchase,Dilbert 2014 Day-to-Day Calendar: There's No Kill Switch on Awesome.,1624,2020-09-24,35623
+147803,952.5533473983378,Outdoors,Zippo Hand Warmer High Polish Chrome Pocket Lighter,3211,2020-09-24,1365
+147804,42.90341007829218,Grocery,Fray Bentos Just Steak Pie 475g,2280,2020-09-24,1605
+147805,753.339505200031,Apparel,eVogues Plus Size Zipper Front Belt Accented Mini Dress Black,1560,2020-09-24,36656
+147806,808.4453322247383,Major Appliances,"Samsung RF217AC 20 Cubic Foot French Door Energy Star Refrigerator with Internal Ice Maker, LED,",1228,2020-09-24,49952
+147807,333.6450205751155,Digital_Ebook_Purchase,A Street Cat Named Bob: And How He Saved My Life,3362,2020-09-24,45920
+147808,600.3837740292737,Digital_Ebook_Purchase,The Calling (Darkness Rising Book 2),3600,2020-09-24,28177
+147809,921.8264389849551,Office Products,"1 X USB POS Thermal Printer (Black, Paper width 58mm, Compatible ESC/POS Command, Built-in data buffer)",1818,2020-09-24,12525
+147810,133.72864430838575,Baby,Maxi-Cosi Pria 70 Convertible Car Seat,1429,2020-09-24,5700
+147811,24.30650954223791,Musical Instruments,True Bypass All-in-one MOD Core Guitar AMP Effect Pedal 8 Modulation Effects Chorus/flanger/ Phaser/ Tremolo/ Rotary/ Pan/ U-vibe /Vibrato,3392,2020-09-24,44671
+147812,659.4600843234616,Digital_Video_Games,Stronghold Kingdoms [Game Connect],3565,2020-09-24,22791
+147813,60.52676094749614,Digital_Music_Purchase,Love on a Real Train (Theme from Risky Business) (Live),1749,2020-09-24,28510
+147814,510.9289303128086,Outdoors,Coleman Willow Creek Sleeping Bag,1976,2020-09-24,29145
+147815,938.1669910436098,Camera,Vonnic C401W 1/3-Inch Sony CCD 480 TV Lines 3.7mm Fixed Lens Covert Smoke Detector Security Camera (White),1625,2020-09-24,35273
+147816,283.90801146768786,Books,Night Moves,2329,2020-09-24,14918
+147817,216.39070535120425,Apparel,Bravado Men's The Rolling Stones Keith Smoke T-Shirt,2650,2020-09-24,46067
+147818,526.2016005879381,Music,Muchacho Solitario,1139,2020-09-24,1077
+147819,831.6386755378304,Beauty,Acqua Di Gio By Giorgio Armani For Women. Eau De Toilette Spray 1.15 Ounces,2270,2020-09-24,17971
+147820,543.0477126927051,Beauty,Victorias Secret Perfect Body Sweet Almond Oil Moisturizing Body Lotion 8.4 Oz,3578,2020-09-24,14996
+147821,369.79388587437126,Apparel,Tube Fitted Lace Strapless Evening Cocktail Prom Party Dress with Bow,2257,2020-09-24,48207
+147822,389.0506689129626,PC,"Elsse For Kindle 7th Gen, 6"" Glare-Free Touchscreen Display - Folio Case Cover for Kindle (7th Generation), Black - will not fit previous generation Kindle devices",2847,2020-09-24,49822
+147823,430.37436781180764,Health & Personal Care,"Generic Flat Cellophane Bags with Adhesive Closure, 5"" W x 7"" L, 100 Pack",1037,2020-09-24,909
+147824,402.5653949440843,Apparel,4Twenty Lacey Scrunch Bikini Bottoms - LARGE,1922,2020-09-24,12341
+147825,359.2726426015097,Digital_Ebook_Purchase,Friendship According to Humphrey,3059,2020-09-24,1619
+147826,185.51702934979346,Digital_Video_Download,Baby's Day Out,3073,2020-09-24,43481
+147827,726.9763206465166,Apparel,COQUETA Swimwear Sexy Brazilian Bikini Set Trimmed Ruffles Scrunch Bottom Flirty,1902,2020-09-24,14940
+147828,676.8352661818562,Office Products,"Eureka Learning Playground Hands On Learning, Learning Clock (480190)",3455,2020-09-24,13267
+147829,190.67921095561547,Automotive,Griot's Garage 11063 Glass Polish 8oz,2079,2020-09-24,16231
+147830,17.84079653475014,Digital_Ebook_Purchase,"Sex, Lies and Contracts",1539,2020-09-24,6580
+147831,977.691518685431,Books,"Be Joyful (Philippians): Even When Things Go Wrong, You Can Have Joy (The BE Series Commentary)",1607,2020-09-24,12824
+147832,159.24584811931172,PC,Fintie Stained Glass Mosaic-Style Folio Leather Case Cover for Samsung Galaxy Tab 4 10.1 inch Tablet with Auto Sleep/Wake Feature,1449,2020-09-24,9182
+147833,667.0521447979547,Musical Instruments,AGPtek Blue Condenser Sound Studio Recording Microphone Mic Dynamic +Shock Mount New,1643,2020-09-24,43930
+147834,258.02968196168104,Major Appliances,Supco SET197 Thermostat Kit,1501,2020-09-24,14512
+147835,65.17567634419814,Books,Accelerated C++: Practical Programming by Example,3592,2020-09-24,16931
+147836,418.48663750212125,Health & Personal Care,"Natural Greens Food By Naturo Sciences - Complete Raw Whole Green Food Nutrition with Super Powerful Antioxidants, Vitamins, Minerals with Goji and Acai - Amazing Berry Flavor 8.5oz (240g) 30 Servings",3396,2020-09-24,22140
+147837,515.7441406361175,Major Appliances,HCM050EC Freezer,1684,2020-09-24,43366
+147838,334.05766725551536,Grocery,2LB Cafe Don Pablo Gourmet Coffee Colombian Supremo - Medium-Dark Roast Coffee - Whole Bean Coffee - 2 Pound ( 2 lb ) Bag,2777,2020-09-24,7460
+147839,201.81926069018792,Grocery,Wonka Kazoozles Cherry Punch 24 Packs,1185,2020-09-24,30057
+147840,925.0862074930105,Mobile_Electronics,"IPEGA 2 IN 1 CHARGER SPEAKER DUAL DOCK STATION FOR SMARTPHONES AND TABLETS: iPHONE, iPAD, iPOD, GALAXY",2959,2020-09-24,30585
+147841,43.07202959176505,Furniture,"Sauder Sundial Wall Cabinet, Highland Oak Finish",3006,2020-09-24,17271
+147842,733.5046257050502,Electronics,PLAY X STORE 3 feet Crystal transparent Coiled Auxiliary Cable AUX Audio Cable 3.5 mm Metal joint(purple),2891,2020-09-24,36642
+147843,965.956315620574,Digital_Video_Download,There's No Place Like Utopia,2200,2020-09-24,32473
+147844,695.4536354981675,PC,Exact Pro Series Case for Kindle Fire HD 6,1779,2020-09-24,3128
+147845,11.169973674842218,Music,Gran Calma,1082,2020-09-24,19980
+147846,41.89758734329007,Mobile_Apps,Vex 2,2919,2020-09-24,33520
+147847,705.0900865967069,Books,"William Burroughs, Brion Gysin, Throbbing Gristle (Re/Search #4/5)",3488,2020-09-24,39980
+147848,718.0855090592241,Outdoors,"Coleman 10-In. Steel Nail Tent Pegs, 4 Count",2182,2020-09-24,23937
+147849,201.6394301408258,Outdoors,Razor E300 Electric Scooter,1254,2020-09-24,41753
+147850,528.8336772483168,Automotive,"12V, Travel Mug, Stainless Steel",1192,2020-09-24,25790
+147851,265.5544938845935,PC,iXCC Stereo cable Male to Male 3.5mm,2823,2020-09-24,2848
+147852,217.02662107360243,Health & Personal Care,Maxell LR44 Batteries 10 Pack NEW holographic packaging,2474,2020-09-24,6405
+147853,149.972340915157,Office Products,Ayangyang Vintage Deluxe Natural Swan Fountain Pen Nib Calligraphy Writing Set Feather Quill Pen with Empty Ink Pot (White),1912,2020-09-24,6745
+147854,420.31934520712167,Office Products,Electrified 55VF820 Replacement Bulb Only for Hitachi Televisions,2973,2020-09-24,39085
+147855,184.63512923728786,Music,Roll Out the Barrel,2033,2020-09-24,19691
+147856,302.6840771866903,Beauty,Kent The Hand Made Comb For Men By Kent All Fine 6.25 Inches Comb,1620,2020-09-24,29427
+147857,139.6939009062386,Digital_Ebook_Purchase,The Department 19 Files: The Devil in No Man’s Land: 1917 (Department 19),2869,2020-09-24,2998
+147858,16.069592754174415,Digital_Music_Purchase,Highway Patrol,1682,2020-09-24,49211
+147859,876.9128188890231,Mobile_Electronics,Boss Atv20 Atv/marine Dual 6.5 450w Speaker System,2000,2020-09-24,2570
+147860,253.85515732344788,Mobile_Electronics,6-Pack Mirror Screen Protector for Apple iPod Touch 4th Gen,3176,2020-09-24,42861
+147861,790.705719660378,Furniture,"Powell Masterpiece Handpainted Wood Jewelry Armoire, Antiqued Parchment",3542,2020-09-24,5539
+147862,343.7483617647817,Electronics,Sennheiser Digital Wireless Headphones,1664,2020-09-24,47948
+147863,980.5250112655042,Grocery,"Paleo Wraps, Gluten Free Turmeric Wraps, 7-Count",2754,2020-09-24,6960
+147864,390.83411882986326,Apparel,18M-6Y Tunic Top Peppa Pig Embroidery For Girl Long Sleeve T-Shirt,1222,2020-09-24,25440
+147865,61.66118129454053,Health & Personal Care,BulkSupplements Pure MSM (Methysulfonylmethane) Powder,2842,2020-09-24,21513
+147866,252.5400711054878,Office Products,SONY  ICD PX333 Digital Voice Recorder,1857,2020-09-24,3218
+147867,499.73075529042495,Music,Seether: 2002-2013 [2 CD],2984,2020-09-24,29843
+147868,353.1329267950667,Books,The Best of Me,1332,2020-09-24,43171
+147869,27.786331542352244,Beauty,"Diamonds and Emeralds by Elizabeth Taylor for Women, Eau De Toilette Spray",2019,2020-09-24,37512
+147870,998.7411850021034,Outdoors,Columbia Bugaboo II Systems Fleece Bag,2900,2020-09-24,44198
+147871,159.92941395435315,Mobile_Electronics,DC/DC 3.5-30V to 4.0-30V Booster Converter Step Up Voltage Regulator LM2587,1863,2020-09-24,9238
+147872,491.08300962586947,Mobile_Apps,Solitaire 2014,2935,2020-09-24,19590
+147873,884.0652345258858,Digital_Ebook_Purchase,Eat and Run: My Unlikely Journey to Ultramarathon Greatness,3608,2020-09-24,33524
+147874,664.384058855168,Digital_Music_Purchase,Kiss,2332,2020-09-24,39528
+147875,793.4666367167363,PC,Toshiba Dynadock U3.0 Universal USB 3.0 Docking Station (PA3927C-1PRP),1587,2020-09-24,38026
+147876,706.8815097295012,Music,Mezzanine,1773,2020-09-24,26494
+147877,304.4901519914928,Camera,Canon PowerShot A3000 IS 10 MP Digital Camera with 4x Optical Image Stabilized Zoom and 2.7-Inch LCD,1301,2020-09-24,17320
+147878,212.91252823185,Mobile_Apps,DeClutter Fast,2616,2020-09-24,37139
+147879,338.86572350441725,Mobile_Electronics,Ultrathin 2GB 11-in-1WMA / MP3 / MP4 Video & Photo Player,3504,2020-09-24,41465
+147880,454.2966655790605,Major Appliances,Bosch SHV68T53UC 800 Series Built-In Dishwasher with 16 Place Setting Capacity LED Time Display Touch Control Technology Delay Start Ultraquiet 44 dBA Detergent Tray: Panel,3443,2020-09-24,45259
+147881,517.6790701448135,Major Appliances,"651330 PLUG-IN RANGE ELEMENT 8, Model:",1523,2020-09-24,42710
+147882,402.7445696676141,Beauty,Soapy Soles,2744,2020-09-24,5137
+147883,434.8185688425892,Beauty,Sabaya - 6ml (.2oz) Roll-on Perfume Oil by Al-Rehab (Crown Perfumes) (Box of 6),3560,2020-09-24,15448
+147884,543.0155124039518,Digital_Video_Download,The Parent Trap (1998),3547,2020-09-24,5486
+147885,702.3398664649956,Books,"A Game of Thrones (A Song of Ice and Fire, Book 1)",2445,2020-09-24,35010
+147886,43.10228267041722,Digital_Video_Download,Senn,3400,2020-09-24,48809
+147887,743.2058050016697,Automotive,26.2 Marathon Runner Euro Oval Car Decal / Sticker - Black & White,3333,2020-09-24,48427
+147888,372.0202842819349,PC,Gigabyte GTX780 Ti GDDR5-3GB 2xDVI/HDMI/DP OC Graphics Cards GV-N78TOC-3GD,3505,2020-09-24,24251
+147889,119.5628592307223,Music,5th Anniversary Memorial Tribute,2739,2020-09-24,32899
+147890,392.60758576550217,Digital_Music_Purchase,Raksha Mantra,3272,2020-09-24,34194
+147891,253.22158419664038,Digital_Music_Purchase,Walking On Sunshine,2998,2020-09-24,3027
+147892,387.4192408167259,Musical Instruments,"Excelvan BM-800 Condenser Microphone Sound Recording Dynamic + Mic Shock Mount, Ideal for Radio Broadcasting, Voice-Over and Recording Studio",1661,2020-09-24,2595
+147893,307.5441029703501,Digital_Music_Purchase,I Need Your Lovin',2280,2020-09-24,29308
+147894,588.6369488471762,Electronics,Replacement Ear Cushions For Bose Around Ear 2 - AE2 and AE2i,1181,2020-09-24,14618
+147895,417.7674390179222,Apparel,2LUV Women's 3/4 Dolman Sleeve Hi-Low Tunic,2421,2020-09-24,22832
+147896,277.44707497649534,Health & Personal Care,"Baile Lenght 7"" Waterproof Male Delay Ejaculation Extender Penis Sleeve Glans Thicken Condom (S)",3445,2020-09-24,29710
+147897,319.129520864315,Digital_Music_Purchase,Here For A Good Time,2976,2020-09-24,26533
+147898,470.77167984662526,Digital_Music_Purchase,I'm Your Santa,1783,2020-09-24,45601
+147899,914.923339203168,Office Products,Number 1 in Service Secure Sleeve / Case for ID & Credit Card - Pack of 10,1944,2020-09-24,11399
+147900,959.005498787168,Books,Building Brandwidth: Closing the Sale Online,2012,2020-09-24,47454
+147901,668.2041691330109,Office Products,"Jumbl 22MP All-In-1 Film & Slide Scanner w/ Speed-Load Adapters for 35mm Negative & Slides, 110, 126, & Super 8 Films",2276,2020-09-24,48715
+147902,72.61342479411904,Digital_Video_Download,Sound City,2298,2020-09-24,28041
+147903,710.8430810599024,Mobile_Apps,Fashion Story,3423,2020-09-24,12497
+147904,956.287109166878,Outdoors,Princeton Tec Quad 4 L.E.D. Headlamp,3201,2020-09-24,46805
+147905,778.2981341592289,Automotive,ANCO 31 Series Wiper Blade,1942,2020-09-24,26038
+147906,120.0200231676267,Books,How to Murder the Man of Your Dreams,1132,2020-09-24,27859
+147907,595.7420000417908,Digital_Ebook_Purchase,Deadly Stillwater: A compelling crime thriller (Mac McRyan Mystery Series Book),1921,2020-09-24,40791
+147908,300.16153083420465,Major Appliances,"Genuine Aprilaire Humidifier Maintenance Kit 4839 - For Models 600, 600A, and 600M",2246,2020-09-24,29991
+147909,704.368596307092,Digital_Video_Download,Marvel's Agents of S.H.I.E.L.D. Season 1,1969,2020-09-24,18127
+147910,669.6716610551888,Music,dwightyoakamacoustic.net,2375,2020-09-24,648
+147911,998.395852867561,Camera,Crumpler The Industry Disgrace (Black),2467,2020-09-24,24348
+147912,282.5111055922561,Digital_Video_Games,8BitMMO [Game Connect],2409,2020-09-24,33953
+147913,306.6156382249101,Digital_Ebook_Purchase,Journey Of The Mountain Man,2297,2020-09-24,34588
+147914,303.948557801786,Digital_Video_Games,Kingdoms of Amalur: Reckoning: The Legend of Dead Kel - PS3 [Digital Code],2649,2020-09-24,1223
+147915,263.39184271624697,Beauty,I.c.e. Spiker Styling Glue/FN222908/16.9 oz//,1893,2020-09-24,47732
+147916,275.0353680219712,Health & Personal Care,ALASKA BEAR® - Cigar Cutter Stainless Steel Guillotine Double Cut Blade in Black Gift Pouch(Lifetime Warranty),1082,2020-09-24,49143
+147917,83.73102756828477,Digital_Video_Download,From the Rough,3501,2020-09-24,38373
+147918,848.3256099155296,Major Appliances,JX2027DMBB 27%22 Deluxe Trim Kit for Models PEB2060 and JEB1860 %2D Black,1383,2020-09-24,4540
+147919,649.8339623672841,Outdoors,Nirve Kilroy Men's Single Speed Cruiser Bike with Fenders (26-Inch Wheels),2566,2020-09-24,10464
+147920,35.85460992212677,Automotive,2002-09 Hummer H2 5pc. Front Bumper Cover,2937,2020-09-24,45695
+147921,198.43486659594208,Digital_Software,Sound Forge,1550,2020-09-24,32467
+147922,145.8788230922598,Automotive,Mothers California Gold Clay Bar System,1098,2020-09-24,7341
+147923,867.2681446572549,Grocery,"Bit-O-Honey Candy, 16 Oz",3591,2020-09-24,12137
+147924,913.1215529535793,Digital_Video_Games,Dr. Mario Online Rx [Online Game Code],1998,2020-09-24,22892
+147925,216.1290026882392,Digital_Video_Games,The Amazing Spider-Man 2,3066,2020-09-24,30159
+147926,11.631782229827666,Health & Personal Care,"Natrol DHEA 50mg, 60 Tablets",2452,2020-09-24,41922
+147927,147.35814246377757,Furniture,"Homelegance 4827FA Convertible/Adjustable Sofa Bed, Grey Fabric",1286,2020-09-24,26604
+147928,517.9767469196097,Grocery,Non-GMO Project Verified Garbanzo Beans | 100% Non-Irradiated | Certified Kosher Parve | USA Grown | Field Traced (We tell you which field we grew it in),2125,2020-09-24,46778
+147929,813.6164477195877,Furniture,Over the Bed Light with Shade,1762,2020-09-24,32759
+147930,572.9641837445374,Grocery,Quaker Caramel Corn Rice Cake 6.56 oz - 6 Unit Pack,3526,2020-09-24,47480
+147931,776.1958375341358,Health & Personal Care,Big Vision Reading Glasses by Ontel,1551,2020-09-24,12005
+147932,953.0689860641043,Baby,"Thermos Foogo Phases Leak Proof Stainless Steel Sippy Cup, 10 Ounce",1300,2020-09-24,27743
+147933,226.82482473975767,Music,The Main Event Live,2047,2020-09-24,45460
+147934,726.9229118760293,Books,Mom Matters: Hundreds of Ways You Can Make a Difference in Your Home,1483,2020-09-24,26897
+147935,706.5665093350841,Mobile_Electronics,"eForCity Leather Case for Barnes and Noble Nook Color, Purple",3170,2020-09-24,6297
+147936,688.0451726522537,Beauty,Remington XR1340 Rotary Shaver,3576,2020-09-24,27175
+147937,66.58461234417963,Major Appliances,"Kucht 3078u Pro-Style 30"" Stainless Steel Gas Fuel Sealed Burner Range - Convection",3510,2020-09-24,32325
+147938,648.1745327079985,Outdoors,Katadyn Pocket Water Filter,2672,2020-09-24,46032
+147939,636.2576087764791,Musical Instruments,String Swing CC01K-A Hardwood Home & Studio Wall Mount Guitar Keeper - Ash,1437,2020-09-24,34792
+147940,869.4502914784304,Music,Singles 1969-1981,2571,2020-09-24,24764
+147941,806.4936993708268,Automotive,CURT 31241 Front Mount Hitch,2332,2020-09-24,31028
+147942,512.8102223940527,Books,How We Got Here: The 70's: The Decade that Brought You Modern Life (For Better or Worse),2489,2020-09-24,25721
+147943,695.330947278334,Apparel,CafePress - East Germany Coat Of Arms - 100% Cotton T-Shirt,2266,2020-09-24,4617
+147944,270.54876770220625,Electronics,RCA Matching Transformer,1329,2020-09-24,7162
+147945,544.2418529232053,Books,We Were the Mulvaneys (Oprah's Book Club),1919,2020-09-24,9505
+147946,696.3385152592226,Furniture,Mid Back Mesh Ergonomic Computer Desk Office Chair,2202,2020-09-24,14741
+147947,617.7897060957847,Apparel,Ursula Waist Trainer for Weight Loss Latex Workout Cincher Hourglass Corset XXS-4XL,1781,2020-09-24,11638
+147948,831.158419264734,Music,Deja Vu,1977,2020-09-24,47703
+147949,897.367625528324,Digital_Software,iWOW Premium For iTunes PC Software Plug-In - 3 Activations [Download],1739,2020-09-24,28444
+147950,99.31046454461824,Books,The Beauty of Doing Mathematics: Three Public Dialogues,1595,2020-09-24,33318
+147951,153.81921068808964,Camera,Kalt PC to Hot Shoe Adapter with Connecting Cord.,1389,2020-09-24,21330
+147952,368.0682952263773,Digital_Video_Download,"The Good Wife, Season 1",1733,2020-09-24,10140
+147953,631.189430476201,Automotive,"Dual 4-1/4"" Polisher Polishing Buffer Buffing Bench Top Machine Jeweler",1721,2020-09-24,48103
+147954,400.9863600168486,Office Products,2-1/4 x 230' 1-Ply Thermal Paper 50 Rolls BPA Free Cash Register Tape,1254,2020-09-24,16909
+147955,338.6292692279456,Camera,Panasonic Lumix DMC-FH20 14.1 MP Digital Camera with 8x Optical Image Stabilized Zoom and 2.7-Inch LCD (Red),2702,2020-09-24,35528
+147956,684.9083390522902,Digital_Video_Games,Police Force 2 [Download],1195,2020-09-24,6494
+147957,515.0779670841296,Musical Instruments,QFX Quantum Wireless Dynamic Professional Microphone hone M-309,1682,2020-09-24,43070
+147958,644.6579223116529,Books,Parasite Eve : Official Strategy Guide- The Only Official Guide,2624,2020-09-24,31199
+147959,667.1378366733317,Apparel,YACUN Women's Floral Printed Short Sleeve Office Sheath Dress,2141,2020-09-24,36027
+147960,398.79254146898006,Music,Murmur,2730,2020-09-24,30856
+147961,364.8037760935192,Beauty,[Sulwhasoo] Basic Kit 4 Items(Water/Emulsion/Serum/Ginseng Cream),2005,2020-09-24,35648
+147962,76.2449066055326,Camera,Zeikos ZE-SBD Universal Soft Box Flash Diffuser,1102,2020-09-24,8714
+147963,427.75302702995293,Musical Instruments,"Behringer Ultravoice Xm8500 Dynamic Vocal Microphone, Cardioid",3491,2020-09-24,17781
+147964,522.2614996398202,Outdoors,"TETON Sports Celsius XL -32 Degree C / -25 Degree F Flannel Lined Sleeping Bag (90""x 36"", Green)",3360,2020-09-24,10989
+147965,588.8317884959108,Camera,Canon Powershot A1200 Digital Camera with 4x Optical Zoom,1191,2020-09-24,41348
+147966,457.2128764447924,Digital_Video_Games,Sonic Hits Collection [Online Game Code],2238,2020-09-24,49769
+147967,638.0931527256791,Automotive,Air Spencer (000400) CS-X3 Squash Scent Air Freshener,2625,2020-09-24,49637

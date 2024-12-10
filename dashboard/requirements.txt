@@ -1,0 +1,7 @@
+streamlit
+pandas
+sqlalchemy
+matplotlib
+folium
+streamlit-folium
+psycopg2-binary

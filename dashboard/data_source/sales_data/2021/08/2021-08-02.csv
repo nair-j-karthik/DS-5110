@@ -1,0 +1,107 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+194669,942.0705798733026,Digital_Ebook_Purchase,Big Girls Do It Better (Book 1),3273,2021-08-02,11495
+194670,490.9585211221726,Digital_Ebook_Purchase,Best Kept Secret: 3 (The Clifton Chronicles series),2635,2021-08-02,34287
+194671,189.80731369874343,Digital_Music_Purchase,When It Don't Come Easy,2630,2021-08-02,32510
+194672,521.7660197538454,Digital_Music_Purchase,Irie State of Mind,2359,2021-08-02,44578
+194673,159.59861585832292,Baby,Peg Perego Tatamia Stripes,2888,2021-08-02,9398
+194674,785.2954877009663,Books,Morning Dance,1679,2021-08-02,17533
+194675,782.1000645934494,Grocery,"Hint Raspberry Essence Water, 16 Ounce -- 12 per case",1555,2021-08-02,28334
+194676,835.7850625970078,Outdoors,"Powell-Peralta ""Mini Cubics"" 64mm 95A White Skateboard Wheels (Set of 4)",2570,2021-08-02,41614
+194677,440.548875400683,Grocery,Nespresso OriginalLine Capriccio,2377,2021-08-02,27735
+194678,636.3470582286252,Camera,Kodak Zi8 HD Pocket Video Camera NEWEST MODEL,3428,2021-08-02,1665
+194679,500.8049176749034,Electronics,"Cables To Go 18 AWG Universal Power Cord, IEC320C13 to NEMA 5-15P",1367,2021-08-02,17320
+194680,833.5929331033115,Books,"Behind the Lodge Door: Church, State and Freemasonry In America",3127,2021-08-02,38314
+194681,542.2213783800338,Office Products,Cool Toner 1 Pack DR420 Compatible Toner Cartridge,2847,2021-08-02,14620
+194682,720.8791700041377,Music,Live at the Apollo Theatre,1363,2021-08-02,39538
+194683,281.1601314745207,Books,"Alzheimer's Disease  ""Fighting For Financial Survival""",3563,2021-08-02,49981
+194684,197.77268233293924,Mobile_Apps,Scrap & Stamp Arts (Kindle Tablet Edition),1573,2021-08-02,30269
+194685,651.96977053455,Apparel,"Baby Hair Bows Gift Pack. No-slip Baby Clips for Newborn Fine Hair. ""Jane"" Infant Bows.",3078,2021-08-02,20522
+194686,657.7288671810013,Beauty,Revlon Long Lasting  Beachy Waves Hair Waver,2810,2021-08-02,7089
+194687,477.93573263739006,Grocery,Enjoy Life Chocolate Cookies,3425,2021-08-02,13140
+194688,515.0938472353507,Apparel,Cottory Men's Oblique Zipper Hoodie Cosplay Costume Top Coat Jacket,3397,2021-08-02,17881
+194689,303.49483592266984,Outdoors,American Athletic Shoe Soft Boot Diamond Womens Figure Skates,2282,2021-08-02,783
+194690,734.357194545709,Automotive,"3/8"" Large Ratchet Twin Pawl Mechanism",2331,2021-08-02,27384
+194691,68.96445716103403,Office Products,"11 Pack Compatible With Brother LC-71 , LC-75 5 Black, 2 Cyan, 2 Magenta, 2 Yellow Compatible With Brother MFC-J280W, MFC-J425W, MFC-J430W, MFC-J435W, MFC-J5910DW, MFC-J625DW, MFC-J6510DW, MFC-J6710DW, MFC-J6910DW, MFC-J825DW, MFC-J835DW. Ink Cartridges for inkjet printers. LC-71BK , LC-71C , LC-71M , LC-71Y , LC-75BK , LC-75C , LC-75M , LC-75Y © Blake Printing Supply",1256,2021-08-02,46424
+194692,324.14496045536833,Grocery,Taylors of Harrogate Yorkshire Gold,2434,2021-08-02,46370
+194693,23.950195112544236,Beauty,Sort of Coal - Shiro Activated Charcoal Soap For Face & Body,1835,2021-08-02,46864
+194694,257.50438551299476,Outdoors,Windmill Delta Stormproof Lighter,3257,2021-08-02,49456
+194695,403.8549282700164,Electronics,Ceptics Grounded Universal Plug Adapter,1389,2021-08-02,7163
+194696,665.6865567463112,Furniture,Mount-It! Wall Mounted TV and Component Shelf Combo DVD DVR VCR Wall Mount Bracket for TV and DVD Player DSS Receiver Blu-Ray Media VCR Stereo Cable Box - Adjustable Electronic Component Shelf Holder,2093,2021-08-02,20508
+194697,919.3678683297733,Digital_Video_Games,Call of Duty: Advanced Warfare - PS4 [Digital Code],1631,2021-08-02,11643
+194698,417.17813825460445,Digital_Video_Download,The Shiksa Indeterminacy,1164,2021-08-02,21535
+194699,472.90894163814664,Musical Instruments,Ernie Ball slinky nickel,3581,2021-08-02,36659
+194700,116.75555849665768,Music,Changing Faces,1668,2021-08-02,38451
+194701,743.213502808569,Grocery,Chimes Original Ginger Chews,2514,2021-08-02,39790
+194702,582.7957437184303,Mobile_Electronics,TomTom Nike+ SportWatch GPS Powered by TomTom GPS Charging USB 2.0 Data Cable! This Professional grade custom cable outperforms the original!,2851,2021-08-02,2985
+194703,72.39666164910173,Camera,Celestron 21063 AstroMaster 90 AZ Refractor Telescope,2445,2021-08-02,3840
+194704,551.8320276423511,PC,"Lenovo Thinkpad X250 Ultrabook 20CM002WUS (12.5-inch Display, i7-5600U 2.6GHz, 8GB RAM, 256GB SATA SSD, Bluetooth 4.0, 720p Camera, Fingerprint Reader, Windows 7 Pro 64-bit)",3430,2021-08-02,15261
+194705,763.0432234994047,PC,Gigabyte GTX780 Ti GDDR5-3GB 2xDVI/HDMI/DP OC Graphics Cards GV-N78TOC-3GD,3273,2021-08-02,5997
+194706,906.7413642611567,Office Products,"Cash Drawer,w/ Removable Tray,17-3/4""x15-3/4""x3-3/4"",Gray",1379,2021-08-02,45144
+194707,887.0595588582013,Camera,"White Flash Bounce Diffuser for Canon 430EX, 3.16''x1.86''x1.63''",2609,2021-08-02,28107
+194708,375.9264928773194,Apparel,Cozi - Kids Hooded Terrycloth Bath Towel Lavender,2004,2021-08-02,10116
+194709,919.9596047525432,Digital_Ebook_Purchase,Forgotten Sacrifice: The Arctic Convoys of World War II: The Arctic Convoys of World War II (General Military),3601,2021-08-02,40045
+194710,984.6747493181119,Beauty,"American Crew Daily Moisturizing Shampoo 33.8 oz, Package May Vary",1529,2021-08-02,992
+194711,479.2427053949842,Outdoors,Topeak Pocket Shock DXG Fork & Shock Pump,1841,2021-08-02,18401
+194712,974.5403601190824,Major Appliances,LG : LDF6920ST Fully Integrated Dishwasher - Stainless Steel,2679,2021-08-02,38783
+194713,974.3642584548888,Automotive,"Swiss+Tech MPTBS Micro-Plus 8-in-1 Polished Stainless Steel Key Ring Multi-Tool, Gift Box",2052,2021-08-02,17277
+194714,87.53557898872768,Automotive,OTC Stinge Bar-Type Puller/Bearing Separator Set,1251,2021-08-02,14666
+194715,151.6346506877509,Beauty,Havana Cologne by Aramis for men Colognes,1811,2021-08-02,11129
+194716,421.91593480055974,PC,"SwissGear by Wenger the Granite 16"" Computer Laptop Backpack",1079,2021-08-02,851
+194717,153.40684891565397,Apparel,Good Lad Little Girls' Organza Dress,1396,2021-08-02,37995
+194718,891.8407067532921,Baby,North States Industries Supergate Easy Close Metal Gate,2839,2021-08-02,38655
+194719,750.0103018104043,Digital_Video_Download,Lucy,2756,2021-08-02,26404
+194720,31.707592135046916,Digital_Video_Games,Dragon Age Inquisition,2445,2021-08-02,11258
+194721,302.94544056847604,Office Products,Kikkerland Digital Camera Fresnel Magnifier Bookmark (MG07),2230,2021-08-02,29824
+194722,686.7187955434451,Musical Instruments,Green Pocket Trumpet,3032,2021-08-02,26531
+194723,814.4348418822124,Digital_Music_Purchase,These Clever Lies,1626,2021-08-02,43679
+194724,596.5514733742924,Gift Card,Amazon eGift Card - Birthday (Constant Notifications) [Someecards],3336,2021-08-02,6214
+194725,94.38566032751544,Camera,"Fotodiox Dedicated Bayonet Lens Hood, for Canon EF-S USM 18-55mm f/3.5-5.6 I, II, IS Lens, 28-80mm f/3.5-5.6 II, II USM, III, IV, V, & 28-90mm, f/4.0-5.6 Lens (Canon EW-60c)",2891,2021-08-02,16312
+194726,815.0499935196352,Camera,TRENDnet Internet Surveillance Camera,2248,2021-08-02,16315
+194727,440.66563010766066,Books,The Betrayal of East Pakistan,2332,2021-08-02,32422
+194728,828.7640162836452,Music,Suspicion,1068,2021-08-02,27663
+194729,732.271405403351,Apparel,"Peppa pig embroidery cotton party evening dress for kids,fuchsia,4y",1410,2021-08-02,32916
+194730,84.01268725147584,Beauty,"Dolce & Gabbana Eau de Toilettes Spray, Light Blue, 4.2 Fluid Ounce For Men or/and Pour Homme",2990,2021-08-02,25247
+194731,892.6862091263996,Electronics,RHA Noise Isolating In-Ear Headphone with Remote and Microphone - 3 Year Warranty,3386,2021-08-02,4090
+194732,343.2163293496685,Furniture,"Bar Stools, Set of 2, 47""H in a Cappuccion Finish",3157,2021-08-02,31431
+194733,524.7726363405661,Digital_Software,Academic Fitness Elementary School [Download],1702,2021-08-02,33223
+194734,755.6540157938917,Music,Dr Souchon Recalls Songs of Minstrel Days and Blues - Dr Doctor Souchon,3367,2021-08-02,6910
+194735,727.2724891003614,PC,YCS Basics Black Cellphone / Tablet USB Micro Male to Female Sync And Charging Extension Cable,1127,2021-08-02,32529
+194736,441.4492037398826,Baby,Safety 1st Advanced Solutions One Way Nasal Aspirator,3085,2021-08-02,23653
+194737,43.02540160278377,Digital_Video_Download,"Reign, Season 2",1559,2021-08-02,9566
+194738,700.2678277076304,Digital_Music_Purchase,"Swingin' Things From Cole Porter's ""Can-Can""",1086,2021-08-02,16286
+194739,235.40948900440392,Health & Personal Care,"Automatic Digital Wrist Blood Pressure Cuff Monitor with Portable Case by LotFancy, Irregular Heart Rate Detector, 4-User Mode, Large LCD Display, FDA Approved, Perfect Device for Home Use",1146,2021-08-02,10462
+194740,120.67560914451614,Mobile_Apps,Sudoku Free,1800,2021-08-02,5288
+194741,388.9432234001929,Apparel,Seafolly Women's Sophia Boylet Maillot One Piece Swimsuit,1706,2021-08-02,16054
+194742,429.70087147309886,Apparel,Dysfunctional Vietnam Veteran Camouflage Baseball Cap with American Flag Stars and Stripes on the Bill Humorous Camo Funny Hat,3611,2021-08-02,47920
+194743,221.993921311505,Furniture,"Tiddliwinks Under the Sea Rug - 36"" X 36""",3205,2021-08-02,46146
+194744,803.6811931569422,Mobile_Apps,Candy House Maker - Kids Cooking Game,2405,2021-08-02,8894
+194745,206.76579090750434,Automotive,Compact 800 Watt Power Inverter,3499,2021-08-02,17436
+194746,311.03567129626845,Beauty,Dabur Meswak Toothpaste 200gm - Pack of 3,3125,2021-08-02,6271
+194747,894.8109329881019,Health & Personal Care,Miracle Foot Repair Cream 32 oz with 60% Pure Organic Aloe Vera Softens Dry Cracked Feet.,2675,2021-08-02,43707
+194748,305.329960985275,Digital_Music_Purchase,A Lonely Grain of Corn,2132,2021-08-02,17256
+194749,712.2063293879585,Digital_Ebook_Purchase,Starting an eBay Business For Dummies,2182,2021-08-02,5928
+194750,904.0643163513842,Digital_Video_Download,Nebraska,1030,2021-08-02,7660
+194751,962.8315917496254,Digital_Ebook_Purchase,Men with Balls: The Professional Athlete's Handbook,3529,2021-08-02,24757
+194752,68.68084769606895,Digital_Video_Games,Call of Duty: Advanced Warfare - PC [Online Game Code],3087,2021-08-02,16706
+194753,445.28421230553585,PC,HP Pavilion Sleekbook 14-B 15-B Envy 4-1043CL 4-1105DX 4-1115DX Laptop AC Adapter Charger Power Cord,1676,2021-08-02,16122
+194754,690.5940812348265,Digital_Video_Download,Kidnapping Mr. Heineken,2435,2021-08-02,34629
+194755,813.5961987944409,Office Products,"S.P. Richards Company Standard Metric Ruler, 12"" Long, Holes for Binders, Clear (SPR01488)",1618,2021-08-02,25720
+194756,116.04189546257086,Beauty,Bobbi Brown Brow Pencil,1831,2021-08-02,324
+194757,789.6653029447706,Furniture,Heavy Duty 6-Leg Adjustable Universal Twin / Full / Queen / King Metal Bed Frame With Double Center Support Rug Rollers & Locking Wheels,2788,2021-08-02,19241
+194758,859.044487247483,Apparel,"Nautica Little Girls Pique Polo Dress (6, Light Blue)",2715,2021-08-02,42480
+194759,350.3638981953756,Baby,"Bright Starts Comfort and Harmony Portable Swing, Florabella (Discontinued by Manufacturer)",1648,2021-08-02,35288
+194760,951.6533755434718,Furniture,Sunshine Megastore Carved White Side Table,3532,2021-08-02,42494
+194761,578.9006017613627,Major Appliances,Aqua Plumb 12' Washing Machine Inlet Hose,1702,2021-08-02,15974
+194762,802.7611952873601,Outdoors,Zippo Lighter Fluid,1501,2021-08-02,30182
+194763,117.70371711264282,Mobile_Electronics,"Excelvan F11B FM Transmitter+ Car Charger Holder + Remote Control Compatible with iPhone 5/5S/5C, iPod Touch 5 /iPod Nano 7",1877,2021-08-02,44376
+194764,717.2382402970501,Digital_Software,H&R Block At Home Deluxe + State 2012,2514,2021-08-02,21115
+194765,316.6430624030068,Furniture,Stainless Steel Wall Cabinet with Frosted Glass Door,1771,2021-08-02,2216
+194766,526.3467937792684,Electronics,"Efest IMR 18350 35A 700 mAh 3.7V LI-MN High Drain Rechargeable Battery, Purple Button Top",1839,2021-08-02,40399
+194767,52.39327610164583,Camera,Sony 16.2 MP Exmor R CMOS Digital Still Camera with 10x Wide-Angle Optical Zoom G Lens and Full 1080/60i HD Video,2641,2021-08-02,30520
+194768,349.86214488050194,Mobile_Electronics,The Fashion Army Green 3in1 Whistle with Compass & Temperature Display,2508,2021-08-02,8394
+194769,604.1910965462683,Digital_Ebook_Purchase,The Pilgrim’s Progress,2030,2021-08-02,10521
+194770,327.2234299009987,Mobile_Apps,Shadow Fight 2,2112,2021-08-02,35343
+194771,640.1889502404721,Music,The Cross of Changes,1555,2021-08-02,27963
+194772,600.9452875839075,Grocery,"Coastal Tea Company Organic Ceremonial Matcha, Japanese Green Tea Powder, Drinking Grade, 1.7 Ounce",3427,2021-08-02,21103
+194773,651.5547735334425,Musical Instruments,Casio PRIVCASE Privia Case,3478,2021-08-02,25097
+194774,905.2029309764943,PC,"iEssentials Anti-Glare Screen Protectors for E-Readers, 7-Inch and 8-Inch Tablets (AGL-T7)",1990,2021-08-02,33147

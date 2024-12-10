@@ -1,0 +1,138 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+263159,784.5601219473612,Books,Moonheart,1302,2022-11-06,47365
+263160,670.1235331248091,Musical Instruments,Crescent 4/4 Full Size Student Violin Starter Kit,2437,2022-11-06,46803
+263161,918.1986422965001,Books,Chicago's Parks: A Photographic History (Images of America),1838,2022-11-06,6484
+263162,152.76907743377973,Digital_Music_Purchase,All Things Bright And Beautiful,2861,2022-11-06,26087
+263163,750.1664612339856,Mobile_Apps,Airplane Fly Hawaii,2956,2022-11-06,44975
+263164,989.6218905309464,Office Products,Pentel Energel Refills standard,3538,2022-11-06,43413
+263165,923.5219905092413,Automotive,Extang 44650 Trifecta Cover,3185,2022-11-06,33925
+263166,689.5601311641819,Furniture,Cortesi Home Savion Convertible Accent Chair Bed,3531,2022-11-06,24443
+263167,952.6926232156916,Electronics,Sony XL-2400 DLP Replacement Lamp,1890,2022-11-06,9769
+263168,942.5802116542055,Outdoors,Bicycle Tire Repair Tube Patch Kit Small,3269,2022-11-06,48310
+263169,558.9599807455304,Apparel,Dockers Men's Woven Shirt,3103,2022-11-06,2607
+263170,631.1156066148305,Health & Personal Care,"Nexcare Acne Cover, Drug-Free, Gentle, Breathable Cover, 36 Count",1993,2022-11-06,74
+263171,346.53687029459724,Office Products,"Kings Brand Foldable Adjustable Laptop Stand For Table, Sofa & Bed",2643,2022-11-06,17425
+263172,239.61119400345075,Digital_Software,Better Homes and Gardens Picture Painter Home & Landscape,1512,2022-11-06,35792
+263173,271.94421784759646,Furniture,Night Therapy Platform Metal Bed Frame/Foundation Se,2281,2022-11-06,42865
+263174,584.9853916116598,Digital_Video_Download,Prisoners,2458,2022-11-06,47805
+263175,913.8419818473293,Automotive,Meguiar's Wash & Wax Kit,1244,2022-11-06,2638
+263176,184.28894795455844,Grocery,"Lance Cream on Captain Wafers Sandwich Crackers, Cheese and Chive, 11 oz",2348,2022-11-06,42513
+263177,268.9937244372611,Baby,Neat Solutions,2263,2022-11-06,26739
+263178,712.2821097040649,PC,Dell Inspiron 15 Laptop,2468,2022-11-06,43030
+263179,185.355253597045,Mobile_Electronics,"6 in 1 Car Kit for Ipod (Black) Car Charger / Fm Transmitter / Holder Full Range Frequency / USB port / Remote Control for iPod, Touch 1G/2G",1568,2022-11-06,3740
+263180,958.5928627737176,Camera,"Panasonic HDC-SDT750, High Definition 3D Camcorder",2972,2022-11-06,48523
+263181,698.9786945612344,Furniture,Loveseat Fabric: Clarissa Carmel / Talbert / Tally Carmel,3422,2022-11-06,1767
+263182,372.20141621230846,Apparel,Dockers Men's 1 3/16 in. Glazed Top Braided Belt,1918,2022-11-06,25533
+263183,596.0435722951697,Digital_Video_Games,Fallout New Vegas,2165,2022-11-06,37287
+263184,25.315726442240702,Mobile_Electronics,Portable Bluetooth Speaker System + TALKING CALLER ID Handsfree speakerphone + SD card function CHARZON MMBOX for iPhone / Android Smart Phones / iPad / Tablets / Macbook / Notebooks. Built-in speaking command to speak to you (BLUE),1021,2022-11-06,45719
+263185,618.7440038691499,Digital_Music_Purchase,Outback (CTI Records 40th Anniversary Edition - Original Recording Remastered),1542,2022-11-06,11429
+263186,398.70535617834105,PC,Samsung 16GB up to 48MB/s EVO Class 10 Micro SDHC Card with Adapter (MB-MP16DA/AM),2373,2022-11-06,3185
+263187,469.2500343937665,Books,Asterix Chiefs Shield BK 18 (Classic Asterix Hardbacks),1068,2022-11-06,4667
+263188,458.66773836481013,Musical Instruments,Latin Percussion LP234A Standard Afuche Cabasa,2382,2022-11-06,33603
+263189,651.1023833094492,Furniture,"Simpli Home Cosmopolitan TV Media Stand for TVs up to 52"", Coffee Brown",3371,2022-11-06,11077
+263190,455.78115445599286,Digital_Music_Purchase,Walking On Sunshine,1405,2022-11-06,2580
+263191,839.8597491725805,Digital_Software,FileCenter Standard 7 for 1 PC [Download],3513,2022-11-06,37452
+263192,990.9134870123548,Music,Precious,3172,2022-11-06,44515
+263193,746.1904915941695,Musical Instruments,"Hamilton Double Alto/Tenor sax Stand, Black, includes 2 pegs",2377,2022-11-06,42958
+263194,50.99434179725249,Outdoors,Coleman Sundome 4 Person Tent,1012,2022-11-06,26142
+263195,406.14814801888355,Automotive,"BLACK+DECKER JUS500IB Jump Starter: 1000 Peak/500 Instant Amps, 120 PSI Air Compressor",2816,2022-11-06,32667
+263196,636.9598702739911,Baby,"Summer Infant Extra Camera for Baby Touch Digital Color Video Baby Monitor (02000, 02000Z, 02003Z, 29763Z)",1510,2022-11-06,5782
+263197,303.7445627027792,Digital_Video_Download,Gypsy Sisters Season 3,1745,2022-11-06,22875
+263198,691.0277162649478,Beauty,Thayers Alcohol-free Unscented Witch Hazel Toner (12-oz.),3344,2022-11-06,34396
+263199,895.0401015418171,Health & Personal Care,Just Pure Hut Dentist Teeth Whitening Pen Kit - Zero Peroxide - Plus Hollywood Dentist Tips - Plus Weight Loss Tips (ebooks),2118,2022-11-06,17480
+263200,152.99394024327364,Baby,"green sprouts Organic Cotton Mitt Bath Puppet, Pig (Discontinued by Manufacturer)",2164,2022-11-06,9476
+263201,71.48783844667076,Outdoors,Sterno Single Burner Folding Stove - 50002,2129,2022-11-06,46133
+263202,930.5782473656413,Digital_Ebook_Purchase,Doctor Who: Summer Falls,2831,2022-11-06,7864
+263203,948.4689406740788,PC,Evecase 10.6 -11.6 inch Laptop Multi-functional Messenger Bag with Handle and Shoulder Strap or Macbook Notebook Chromebook Laptop Ultrabook,3196,2022-11-06,36326
+263204,121.42283062578416,Mobile_Apps,Pet Rescue Saga,2608,2022-11-06,8492
+263205,914.4517170213935,Automotive,Champion J19LM (861) Copper Plus Small Engine Replacement Spark Plug,2564,2022-11-06,33560
+263206,957.75087694547,Musical Instruments,"Squier Affinity P/J Bass Guitar, Rosewood Fingerboard, Olympic White",1936,2022-11-06,32073
+263207,734.4708665878826,Electronics,TOMTOP Mini Digital Portable Music MP3/4 Player Micro SD/TF USB Disk Speaker FM Radio (Blue),1020,2022-11-06,44213
+263208,133.64162101851934,PC,Logitech Wireless Mouse M325 with Designed-For-Web Scrolling - Red,1637,2022-11-06,2803
+263209,68.71595264680002,Electronics,"Brand New SCEPTRE LCD LED TV REMOTE for SCEPTRE X19GV X23BV X23GV X425BV X328BV X325BV E240 E243 E245 TV X240PC-FHD X425BV-FHD3 X328BV-FHD X325BV-FHDU X325BV-FHD E195BD-SHD E165BD-HD E165BD-HD E240_FHD SCEPTRE E Series LED HDTV E243 E243BD-FHD E245BD-FHD E245BV-FHD E240 E240BC-FHD E195BV-SHD E245BV-FHD E243PV-FHD E325BV-HDC E325BD-HD X325BV-FHD X400BV-FHD X195BV-HD X240XX-FHD SCEPTRE 24"" LCD/LED H",2568,2022-11-06,48490
+263210,341.11682503638457,Digital_Music_Purchase,Nothing But The Beat [Explicit],3521,2022-11-06,6146
+263211,317.17063233953485,Major Appliances,"Blue Ocean 36"" RH02I Stainless Steel Island Mount Kitchen Range Hood",2509,2022-11-06,10623
+263212,816.9163420560442,Grocery,CHARMS SUGAR DADDY POPS 48ct(22.3oz),2793,2022-11-06,553
+263213,264.75196707215093,Camera,Joby GorillaPod Flexible Tripod,1290,2022-11-06,15928
+263214,817.5386065737194,PC,Razer Naga 2014 Ergonomic MMO Gaming Mouse - Black,1875,2022-11-06,10879
+263215,803.938623738103,Mobile_Electronics,2014 FIFA World Cup Braziltrade; Trophy Series K,3582,2022-11-06,15105
+263216,664.7258472476308,Musical Instruments,"Tuner On Guitar Clip-On Tuner for Guitars, Ukulele, Bass, Violin, Mandolin, Banjo, Chromatic, 360 Degree Rotating, Electric & Acoustic, Fast & Accurate, Easy to Use, Auto Power Off, Battery Included.",3012,2022-11-06,37560
+263217,21.325843243441312,Mobile_Electronics,GF5000H 2.7'' 170 degree angle lens HD 1080P IR Night Vision G-sensor Car DVR Camera Recorder Dashboard Dashcam Black Box Video Recorder,1281,2022-11-06,42491
+263218,299.6412671399605,Furniture,Dragon Style Area Rug Red and Black # 133,3538,2022-11-06,41788
+263219,297.5087905788842,Automotive,"Reese Towpower 51087 Class III Custom-Fit Hitch with 2"" Square Receiver opening",3559,2022-11-06,27597
+263220,311.222388269772,Books,The Wide World Dreaming,2512,2022-11-06,25019
+263221,254.28169482853286,Camera,Olympus 18-180mm f/3.5-6.3 Zuiko Lens for E Series DSLR Cameras,2017,2022-11-06,45175
+263222,787.901129704895,Grocery,Lakanto Monkfruit 1:1 Sugar Substitute | NON GMO,2876,2022-11-06,6599
+263223,151.4310278450041,Books,Last Refuge of Scoundrels: A Revolutionary Novel,2734,2022-11-06,33445
+263224,122.20527682217121,Baby,Mobicam DXR Digital Monitoring System (Discontinued by Manufacturer),3431,2022-11-06,40370
+263225,242.29443680634975,Grocery,"Schar Buns Hamburger, 10.6 oz",2685,2022-11-06,26113
+263226,153.35194237212252,Music,Affirmation,3482,2022-11-06,32969
+263227,887.6915466369272,Music,Epic Trance Ascension,2050,2022-11-06,9212
+263228,438.2582861448668,Gift Card,Amazon Gift Card - Print - Elf Pressure,2686,2022-11-06,11092
+263229,627.6141445004617,Music,The London Sessions Bootleg,2395,2022-11-06,28977
+263230,627.4016178061592,Grocery,Quest Bar Chocolate Peanut Butter,3263,2022-11-06,21392
+263231,429.98442675603883,Mobile_Electronics,MiniSuit TPU Rubber Skin Belt Clip Holster Combo for Apple iPod Nano 7 (Matte Black),2197,2022-11-06,37527
+263232,10.626135648721199,Music,Endurance,1005,2022-11-06,21989
+263233,549.6622924114803,Music,Meantime,1821,2022-11-06,24122
+263234,276.4538671847973,Apparel,Fine Fit Mens Designer Dress Socks Argyle & Striped Size 10-13 (10 Pairs),3542,2022-11-06,26028
+263235,249.25239690413704,Outdoors,"Cheng Shin C727 Raised Center Tire 26” x 1.75"" Wire Bead WSW",2730,2022-11-06,49245
+263236,497.1178457565565,Mobile_Electronics,"32gb Blue Slim 1.8"" 4th LCD Mp3 Mp4 Player Fm Radio Video Player with Accessories",2976,2022-11-06,17939
+263237,655.8827252291837,Mobile_Electronics,Ultrathin 2GB 11-in-1WMA / MP3 / MP4 Video & Photo Player,1871,2022-11-06,3423
+263238,131.04399919539946,Musical Instruments,"Dunlop Nylon Standard Picks, Cream .46mm, Qty 12",2407,2022-11-06,28050
+263239,967.9201195814685,Digital_Video_Games,Agricultural Simulator 2011 Extended Edition [Download],1397,2022-11-06,1229
+263240,720.1842907560936,Video DVD,Shaun of the Dead,2626,2022-11-06,43931
+263241,839.3994967365703,Apparel,ALASKA BEAR - Classic Cash Money Clip Credit Card Holder,3186,2022-11-06,17878
+263242,323.67192784542345,Electronics,"ART+SOUND Bluetooth Tower Speaker with Lights, Works with Amazon Echo Dot, Floorstanding Speaker for Home, Stream Music From Any Phone, Turn Lights On/Off (Worry-Free 12-Month Warranty Included)",3442,2022-11-06,8257
+263243,542.0805071631385,Beauty,"Miracle of Aloe, Miracle Hand Repair Cream with 60% UltraAloe 8 ounce tube",3507,2022-11-06,41837
+263244,670.3578781558679,Major Appliances,HMV3051U 300 Series 1.6 cu. ft. Over-The Range Microwave Oven with 1000 Watts 10 Microwave Power Levels Automatic Shut Off and LCD Display: Stainless,1526,2022-11-06,21681
+263245,71.75896523265915,Beauty,Sexy Hair Curly Sexy Curling Creme 5.1 oz.,1116,2022-11-06,8039
+263246,823.8608188412937,Office Products,Mead Primary Composition Book,3449,2022-11-06,17801
+263247,961.2675885330913,Gift Card,Amazon Gift Card - Facebook - Just Because (Pick Your Own Gift) [Someecards],2978,2022-11-06,16645
+263248,555.0863564276946,Grocery,Stash Tea Chamomile Herbal Tea,2725,2022-11-06,36439
+263249,598.7286089005405,Automotive,OTC Impact Driver,2214,2022-11-06,43153
+263250,764.0700683163224,Camera,58mm Filter Adapter for CANON PowerShot,1781,2022-11-06,1495
+263251,983.3947097226871,Electronics,ESUMIC 3.5mm Mini Portable Stereo Speaker for iPod iPhone MP3 MP4 Player Smartphone Tablet,1551,2022-11-06,20516
+263252,929.4694362568484,Major Appliances,"Emerson FR24SL 8 Bottles Wine Cooler with Thermal Glass Door, Stainless Steel",3073,2022-11-06,33501
+263253,611.6091904556507,Furniture,Home Styles Meridian Kitchen Cart,1864,2022-11-06,5253
+263254,463.03698493634937,Digital_Music_Purchase,When I Stop Running,3277,2022-11-06,4469
+263255,255.73031356066159,Baby,The First Years Disney Feeding Set,2130,2022-11-06,8730
+263256,478.99791561505555,Gift Card,Amazon.com Gift Card in a Black Gift Box (Various Card Designs),3242,2022-11-06,29496
+263257,699.4374770162841,Digital_Video_Download,At Play in the Fields of the Lord (1991),1049,2022-11-06,18278
+263258,568.6252815471438,Automotive,"2.25"" Turbo V-Band Clamp Flange CNC Stainless",3029,2022-11-06,2674
+263259,462.8341875245085,Camera,"Polaroid CIM-1237R 12 MP Digital Camera with 3x Optical Zoom, Red",2546,2022-11-06,16688
+263260,892.6955413474739,Major Appliances,"Sunpentown UF-160S 1-3/5-Cubic-Foot Upright Freezer, Stainless",1738,2022-11-06,7936
+263261,647.8753452819893,Beauty,"Merkur Futur MK 23C Long-Handled Traditional Double Edge Safety Razor - Excellent Comfort, Control, and Design - 4.2 Inches, Chrome Finish",3101,2022-11-06,42431
+263262,203.84765609145762,Beauty,Kama Sutra Honey Dust Sweet Honeysuckle 8 oz.,1824,2022-11-06,6695
+263263,685.0935519241244,Outdoors,Hydroslide Cyclone Kneeboard,3104,2022-11-06,9007
+263264,938.5683110391716,Health & Personal Care,"Barley Grass Powder, Convenient Individual Packages (44 x 3 Gram)",2785,2022-11-06,44029
+263265,742.8532733694107,Digital_Video_Download,Jackass Presents: Bad Grandpa - Extended,2021,2022-11-06,5656
+263266,103.71532515799188,Digital_Ebook_Purchase,Mammy Walsh's A-Z of the Walsh Family: A Penguin Special from Viking,3345,2022-11-06,12415
+263267,713.6965650115435,Digital_Music_Purchase,Heavenly Peace,1772,2022-11-06,10463
+263268,209.93618808448102,Office Products,National Design Disney Water Deluxe Autograph Book and Pen (12851A),2222,2022-11-06,7456
+263269,720.9485084170929,Digital_Music_Purchase,Lightbringer,3588,2022-11-06,43728
+263270,499.9407555601577,Automotive,Dodge Neon Headlights OE Style Replacement Headlamps Driver/Passenger Pair New,3435,2022-11-06,30571
+263271,213.82019535501814,Music,Tone Soul Evolution,2402,2022-11-06,40672
+263272,69.84728242339325,Grocery,"Zevia All Natural Soda, Black Cherry, 12 Ounce (Pack of 24)",3470,2022-11-06,26657
+263273,611.2141637113649,Outdoors,Sprintech Roadbike Review Mirrors (Pair),1543,2022-11-06,39944
+263274,950.3919647138531,Major Appliances,"Frigidaire FGES3065K 30"" Slide-In Electric Range with Quick Preheat and True Convection,",1863,2022-11-06,2811
+263275,131.46424524031636,Beauty,DevaCare No-Poo 32 fl oz + DevaCare One Condition 32 fl oz Liter Duo,2326,2022-11-06,8936
+263276,340.13457499357827,Outdoors,Smith & Wesson Taylor - S&w Magnesium Rescue Ez-open - SWHRTMGCP,1485,2022-11-06,1668
+263277,651.153605371992,Outdoors,Razor E300 Electric Scooter,1346,2022-11-06,33331
+263278,448.6140978991231,Apparel,Bestyou Women's Printed Chiffon Fringe Kimono Cover up,3608,2022-11-06,20666
+263279,281.94825673897,Beauty,Supre Snooki Shimmering Body Moisturizer Paraben Gluten Free Vegan 17oz ...,1079,2022-11-06,26061
+263280,367.0848859551294,Musical Instruments,Pyle Powered Active Bluetooth PA Amplifier System - 15 Inch Bass Subwoofer Loudspeaker w/ Built-in USB for MP3 - DJ Party Portable Sound Stereo Amp Sub for Concert Audio or Band Music - PPHP1537UB,1942,2022-11-06,46165
+263281,477.29166246267965,Digital_Video_Games,Zenerchi [Download],2977,2022-11-06,49340
+263282,634.5415210477016,Digital_Music_Purchase,Ambient White Noise Sleep - Ambient White Noise for Sleep,2304,2022-11-06,26569
+263283,941.3203529454498,Digital_Software,Norton Internet Security 2011 - 1 User/3 PC,2254,2022-11-06,23717
+263284,772.8653678063697,Major Appliances,GE Microwave Oven Magnetron and Diode Kit OM75P (10) Part # WB27X10017,3271,2022-11-06,44925
+263285,991.4559948370605,Mobile_Electronics,"2x Pack - Magellan eXplorist 600 Battery - Replacement for Magellan eXplorist GPS Battery (1400mAh, 3.7V, Lithium-Ion)",2123,2022-11-06,21698
+263286,136.95379721379425,Digital_Ebook_Purchase,Kidnapped by the Cartel: A Novel Inspired by a True Story,1745,2022-11-06,41713
+263287,253.22099586713205,Digital_Music_Purchase,Nostalgia [Explicit],1925,2022-11-06,14812
+263288,993.9051416691399,Mobile_Apps,Cracked Eye,3006,2022-11-06,28084
+263289,90.17610615299886,Mobile_Electronics,iXCC ® 2 pcs LONG 6 ft (SIX FEET !) White 8-Pin Lightning Cable,1293,2022-11-06,19802
+263290,609.9348450997496,Health & Personal Care,High Definition eyeOs Premium Readers - PHOEBE,1463,2022-11-06,8196
+263291,529.0568291353767,Digital_Video_Games,7 Wonders: Ancient Alien Makeover [Download],1359,2022-11-06,40292
+263292,48.56948121610012,Office Products,"E-Z Ink Remanufactured Ink Cartridge Replacement For Epson 126, 6 Black, 2 Cyan, 2 Magenta, 2 Yellow",3468,2022-11-06,32471
+263293,269.9437695995005,Mobile_Electronics,(8) COBRA CXT425 MicroTalk 25 Mile 22 Channel 2-Way Radios Walkie Talkies w/NOAA,2892,2022-11-06,3852
+263294,400.82763781046185,Music,Kenny's Dead,1344,2022-11-06,41763
+263295,227.78296069993013,Major Appliances,"Kenmore Glass Turntable Plate / Tray 14 1/8 "" 3390W1G009",3203,2022-11-06,20476

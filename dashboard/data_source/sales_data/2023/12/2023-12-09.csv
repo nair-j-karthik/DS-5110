@@ -1,0 +1,107 @@
+sale_id,sales_amount,product_category,product_name,location_id,date,customer_id
+321861,553.1925652852434,Mobile_Electronics,VM Audio Shaker Series SRW DVC Car Suwoofer,1415,2023-12-09,37356
+321862,569.3815712919594,Digital_Video_Games,Dark Souls: Prepare To Die Edition [Online Game Code],1647,2023-12-09,48317
+321863,525.2941878787706,Health & Personal Care,"Optimum Nutrition Gold Standard Pre-Workout 30 Serve Supplement, 300 Gram",1689,2023-12-09,32110
+321864,531.3074642239161,Automotive,Custom Accessories 57772 60PSI Red Enamel Bicycle Tire Pump,1744,2023-12-09,44011
+321865,318.4378062152663,Musical Instruments,Apogee Microphone,2915,2023-12-09,31134
+321866,570.9844894556974,Mobile_Apps,The Dark Knight Rises (Kindle Tablet Edition),1134,2023-12-09,27814
+321867,138.68596586114674,Office Products,Kikkerland Digital Camera Fresnel Magnifier Bookmark (MG07),2743,2023-12-09,13729
+321868,109.88972731008552,Health & Personal Care,Germoloids Cream x 55g,1559,2023-12-09,41952
+321869,695.136335388983,PC,"Dell Adapter, USB Type C to HDMI/VGA/Ethernet/USB (470-ABQN)",1747,2023-12-09,4446
+321870,919.4067694502612,Outdoors,Eureka!  Kids Lightning Bug 45-Degree Sleeping Bag,2961,2023-12-09,34956
+321871,483.8664172869465,Digital_Ebook_Purchase,Area 187 - Almost Hell,2227,2023-12-09,15706
+321872,532.6155512423761,Digital_Video_Download,Fair Game,1128,2023-12-09,5924
+321873,613.3441615625238,Office Products,"Epson Expression Home XP-850 Wireless Color Photo Printer with Scanner, Copier & Fax C11CC41201",3333,2023-12-09,12246
+321874,657.0333910059746,Musical Instruments,Dunlop Gel Guitar Picks,2213,2023-12-09,10752
+321875,344.3022835178623,Digital_Ebook_Purchase,I Am Pilgrim,2106,2023-12-09,31391
+321876,94.51118366215677,Mobile_Apps,CityMaps2Go - Offline Map and Travel Guide,1099,2023-12-09,5256
+321877,834.7768833923358,Office Products,"Rapesco Supaclip 40 Dispenser with 25 Stainless Steel Clips, 40-Sheet Capacity, Clear (RC4025SS)",2332,2023-12-09,33925
+321878,679.3561711851398,Camera,Sigma UV Filter,1831,2023-12-09,21228
+321879,925.7744516101252,Electronics,ELPLP41 / V13H010L41 Projector Replacement Lamp for EPSON PowerLite 77c / PowerLite 78 / PowerLite S5 / PowerLite S6 / PowerLite W6 / CINEMA 700 / EX21 / EX30 / EX50 / EX70 / EB-S6 / EB-S62 / EB-S6LU / EB-W6 / EB-X6 / EB-X62 / EB-X6LU / EMP-X5 / EMP-X52 / EMP-S5 / EMP-X5E,1254,2023-12-09,48037
+321880,416.14779043159575,Music,Rituals of Life,2876,2023-12-09,14095
+321881,187.4222141354021,Grocery,"Sure-jell Premium Fruit Pectin,for Homemade Jams and Jellies 100% Natural 1.75-ounce Boxes (Case of 24)",2915,2023-12-09,42011
+321882,597.4238339448661,Health & Personal Care,Zum Laundry Soap - 64 oz - Frankincense & Myrrh - 2 pk,3089,2023-12-09,4713
+321883,403.3492648156188,Digital_Ebook_Purchase,The Roper,1032,2023-12-09,39459
+321884,922.4500663146583,PC,"HP 15-g232ds 15.6"" HD Touchscreen Notebook Computer with AMD Quad Core A8, 8GB RAM, 1TB HD, Win 8.1 (Purple)",1274,2023-12-09,15975
+321885,682.3550860557024,Mobile_Apps,Paperama,1996,2023-12-09,34634
+321886,871.7926244154693,Music,Bargainville,1079,2023-12-09,5379
+321887,247.34027164662848,Outdoors,High Sierra Ski Bag,3201,2023-12-09,2486
+321888,98.43153401504092,Office Products,3M Precise Mouse Pad with Non-Skid Backing and Battery Saving Design-Bitmap,3390,2023-12-09,25427
+321889,97.22723076990768,Digital_Ebook_Purchase,We Band of Brothers - A True Australian Adventure Story,2832,2023-12-09,20963
+321890,894.2327367660447,Apparel,Weatherproof Vintage Men's Long-Sleeve Front-Zip Hooded Jacket,2105,2023-12-09,34185
+321891,264.0295259569599,Electronics,uxcell 100 Pcs Black Sponge Earbud Headphone Cap Ear Pads Cover Replacement,2943,2023-12-09,46834
+321892,54.919807211645036,Digital_Ebook_Purchase,"Humble Heroes, How The USS Nashville CL43 Fought WWII",3169,2023-12-09,32936
+321893,702.2114398982204,Grocery,"Kodiak Cakes Granola Unleashed, 1.94 Ounce (Pack of 12)",1670,2023-12-09,6015
+321894,412.22650520762363,Health & Personal Care,Calmoseptine Ointment Tube 4 Oz (3 Pack),1343,2023-12-09,44383
+321895,714.0272052279064,Furniture,"Heritage Hill Five Shelf Open Bookcase 71"" H",3570,2023-12-09,37652
+321896,621.452939063932,Beauty,"Aveda Hand Relief BB Moisturizing Cream, 8.5 Ounce",2599,2023-12-09,18546
+321897,928.1428553519593,Musical Instruments,Gemini DJ VHF2001HLS48 Handheld Wireless Microphone,2098,2023-12-09,4282
+321898,678.3289947075751,Digital_Video_Download,The Blacklist Season 1,1472,2023-12-09,9107
+321899,787.322889916509,Baby,Baby Deedee Sleep Nest  Baby Sleeping Bag,3367,2023-12-09,5870
+321900,779.8897717090786,Electronics,Koss Ultimate Portable Headphone for iPod,3054,2023-12-09,4048
+321901,623.094326811601,Digital_Music_Purchase,Bolero In Blue,1811,2023-12-09,26253
+321902,184.39531503157406,Apparel,1826 Women's PLUS SIZE Stretch HIGH WAIST Denim JEANS CAPRI DARK BLUE & BLACK,1770,2023-12-09,23457
+321903,709.3279098171595,Beauty,10% Sulfur Ointment - Acne & Skin Care - Go All Natural ! No PEG (Zero Polyethylene Glycol) by San Marcos,2082,2023-12-09,8743
+321904,716.9090853774677,Beauty,Alkalife Ph Booster Drops( 2-pack),3271,2023-12-09,22174
+321905,873.3731803870764,Camera,CAMGRIP 80269 CamGrip for Digital Cameras and Camcorders - Black,2114,2023-12-09,34366
+321906,238.16950334470295,Musical Instruments,Audio-Technica ATH-M50x Closed-Back Professional Studio Monitor Headphones,1386,2023-12-09,1318
+321907,995.8104685014057,Electronics,Arion Legacy AC Powered Speakers,1971,2023-12-09,19566
+321908,494.431949739692,Digital_Ebook_Purchase,Marriage by Mistake,2578,2023-12-09,44885
+321909,19.572058909304374,Books,Seize The Dawn (Zebra Historical Romance),1197,2023-12-09,2259
+321910,405.4011971235524,Digital_Ebook_Purchase,Forever Black (Forever Trilogy Book 1),2005,2023-12-09,27442
+321911,969.5577124295777,Digital_Video_Download,Pretty Little Liars: The Complete Fifth Season,1073,2023-12-09,42955
+321912,749.3128122166236,Digital_Ebook_Purchase,A Tiny Bit Marvellous,1080,2023-12-09,41500
+321913,563.3909087128264,Digital_Video_Download,Pretty Little Liars: The Complete Fifth Season,2209,2023-12-09,35573
+321914,900.0854704032191,Mobile_Apps,TED,2870,2023-12-09,14880
+321915,405.28953356775986,Automotive,Mossi Black Men's Snow Bib,3446,2023-12-09,32550
+321916,79.02979227843134,Baby,Elegant Baby Embroidered Christening Boy's Bib,3584,2023-12-09,30669
+321917,31.70213805823823,Books,I'm Three Years Old,1953,2023-12-09,27642
+321918,807.6088815196034,Major Appliances,Whirlpool W10216179 Wok Ring,2800,2023-12-09,17756
+321919,543.4345238708596,PC,"Monoprice 107603 6-Inch 34AWG High Speed HDMI Cable with Ethernet - HDMI Micro Connector male to HDMI Connector female, Black (107603)",3072,2023-12-09,15372
+321920,436.41715128819686,Baby,NoJo Jungle Tales Lamp and Shade (Discontinued by Manufacturer),2778,2023-12-09,1608
+321921,744.2365276630865,Music,Attention Please,2283,2023-12-09,12505
+321922,140.26807970904554,Music,The Morning Volume,1425,2023-12-09,31461
+321923,106.1041270672905,Baby,Infantino Pop & Play Activity Gym (Discontinued by Manufacturer),2030,2023-12-09,48171
+321924,512.7171652051572,PC,Handolederco. Leather Messenger Laptop Satchel Men's Bag Unisex Leather Satchel Flapover Shoulder Bag for Laptop,1495,2023-12-09,4813
+321925,74.01369070258279,Automotive,Columbia Ice Scraper,1175,2023-12-09,25686
+321926,792.9574339068812,Health & Personal Care,"Deep Muscle Relief Blend 100% Pure, Best Therapeutic Grade Essential Oil - 30ml / 1 (oz) Ounce - Wintergreen, Peppermint, Chamomile Blue, Eucalyptus, Camphor",1387,2023-12-09,40962
+321927,408.17323268548995,Digital_Video_Games,Dig Dug [Download],2101,2023-12-09,20746
+321928,825.67533125005,Beauty,Dr Song Remineralization Gel 8 Syringes Teeth Treatment,1022,2023-12-09,5812
+321929,887.0518188441026,Outdoors,Nemo Equipment 3-Person Moki Tent,1269,2023-12-09,12359
+321930,509.29111841494904,Grocery,"Jayone Seaweed, Roasted and Lightly Salted, 24 Count, 0.17 Ounce",3064,2023-12-09,18941
+321931,759.9770730860831,Digital_Video_Games,Deus Ex: Human Revolution - The Missing Link DLC [Online Game Code],3487,2023-12-09,49132
+321932,223.62509416138352,Digital_Video_Download,"Battle Creek, Season 1",1748,2023-12-09,28515
+321933,817.210534366237,Furniture,"EORC T103MU Hand Tufted Wool Cowabunga Rug, 9'6"" x 13'6"", Multicolor",1468,2023-12-09,18963
+321934,502.89180992326266,Digital_Video_Download,Chernobyl Diaries,3425,2023-12-09,24374
+321935,927.8007094393191,Automotive,Air Spencer (000400) CS-X3 Squash Scent Air Freshener,1475,2023-12-09,19935
+321936,509.9859364925737,Beauty,"14"" Long Nose Paper Cutting Scissors",3307,2023-12-09,6645
+321937,36.68461904130539,Beauty,Bvlgari Pour Homme Soir Cologne by Bvlgari for men Colognes,1793,2023-12-09,31471
+321938,546.7114483768214,Mobile_Apps,Mahjong Epic,2123,2023-12-09,32274
+321939,631.9665844652724,Apparel,Quiksilver Little Boys' Mountain and Wave Tee Toddler,2829,2023-12-09,32183
+321940,758.2222404672683,Music,Jazz 'Round Midnight: Clifford Brown,1926,2023-12-09,18809
+321941,250.09478566760185,Digital_Video_Games,Slingo Supreme [Download],2570,2023-12-09,15111
+321942,21.545968098815585,Electronics,"ART+SOUND Bluetooth Tower Speaker with Lights, Works with Amazon Echo Dot, Floorstanding Speaker for Home, Stream Music From Any Phone, Turn Lights On/Off (Worry-Free 12-Month Warranty Included)",3155,2023-12-09,28518
+321943,291.15578959202236,Musical Instruments,Dunlop Big Stubby Guitar Picks,1158,2023-12-09,18233
+321944,195.46587288685717,Musical Instruments,Heritage Edition Tube Microphone 4,2364,2023-12-09,36804
+321945,968.1956166387865,Automotive,"Camco 3/4"" Scissor Jack Socket",2559,2023-12-09,3940
+321946,616.1815697024573,Mobile_Apps,Free Hidden Object Game - Cabin in the Woods - Find 1500 hidden objects to Get a high score in our new free hidden object games,1280,2023-12-09,15880
+321947,239.90358802090103,Automotive,"NGK (3521) CR9EIX Iridium IX Spark Plug, Pack of 1",2428,2023-12-09,37920
+321948,770.2461322948803,Gift Card,Amazon eGift Card - Happy Owlidays,3089,2023-12-09,49175
+321949,360.9636364526485,Digital_Video_Games,The Warriors,1311,2023-12-09,26367
+321950,891.3045750629726,Digital_Software,Prism Video Converter Software - Convert Between AVI MP4 MOV and Other Formats [Download],2336,2023-12-09,28997
+321951,682.6274379956185,Major Appliances,Viking Microwave Turntable Support / Roller Wheels # PM110006,2917,2023-12-09,21006
+321952,669.051145748402,Health & Personal Care,Solgar – Advanced 40+ Acidophilus Vegetable Capsules,1621,2023-12-09,15733
+321953,896.9603959863238,Mobile_Electronics,Davis Wireless Weather Envoy Part #6316,2110,2023-12-09,12091
+321954,232.80106848554456,Books,By Any Other Name,2381,2023-12-09,22476
+321955,919.943202138435,Office Products,"3 Pack Color (C, M, Y) Set for Brother LC61 DCP 165C MFC 250C 255CW 290C 295CN 385CW 490CW 585CW 790CW 5490CW 5890CW 6490CW",1833,2023-12-09,19728
+321956,156.92178745819305,Digital_Video_Games,Final Fantasy XI: Ultimate Collection Abyssea Edition [Download],2140,2023-12-09,48158
+321957,266.50575083842807,Mobile_Electronics,"Sony Portable Stereo System with Lightning Connector Docking Station for Iphone 5, Ipod Touch 5th Generation, Ipod Nano 7th Generation, Cd Player and Digital Am/fm Radio Stereo Speaker System with 30 Station Presets, Wireless Remote Control, Flexible Dock Connector, Sleep Timer, Portable Battery Option & Auxiliary Input with AUX Cable to Connect Tape Cassette or Mp3 Digital Music Players",1115,2023-12-09,4387
+321958,314.82123262045855,Outdoors,Coleman Sundome Tent (10-Feet x 10-Feet),3456,2023-12-09,34789
+321959,927.7573761863379,Major Appliances,"Whynter BR-091WS Beverage Refrigerator with Lock, 90 Can Capacity, Stainless Steel",2359,2023-12-09,34421
+321960,375.6817041828459,Digital_Video_Download,Hannibal Season 1,2259,2023-12-09,30085
+321961,760.0919653304732,PC,"Wacom Gen. 3 Bamboo Stylus Solo for Kindle Fire, iPad/iPad mini & Samsung Galaxy - Gray (CS160K)",2890,2023-12-09,11707
+321962,173.338424790542,PC,"TP-Link AC2600 Dual Band Wi-Fi Range Extender w/ Gigabit Ethernet Port, Extends WiFi to Smart Home & Alexa Devices, 4x4 MU-MIMO (RE650)",1768,2023-12-09,9568
+321963,785.6146280857536,Furniture,Outdoor Turf Rug - Black - Several Sizes to Choose From,3582,2023-12-09,21278
+321964,712.3737469123587,Camera,Foscam Pan And Tilt Wireless IP Camera with 9bdi antennas Black 3 pack - FI8918W,1232,2023-12-09,18640
+321965,152.2555839557379,Music,Introducing Ruben Gonzalez,2792,2023-12-09,30520
+321966,956.7920781047158,Digital_Music_Purchase,Best of Bellydance,3225,2023-12-09,38108
